@@ -22,7 +22,7 @@
         "size": {
           "field": "Poverty headcount ratio at national poverty lines (% of population)",
           "type": "quantitative",
-          "title": "Poverty Headcount Rate",
+          "title": "Poverty Headcount Rate (% of population)",
           "scale": {"domain": [5, 50]}
         },
         "color": {
