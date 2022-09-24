@@ -1,456 +1,603 @@
-"","iso3c","date","country","Multidimensional poverty headcount ratio (% of total population)","income_level","longitude","latitude"
-"1","AFG","2016","Afghanistan",51.7,"Low income",69.1761,34.5228
-"2","AFG","2020","Afghanistan",49.4,"Low income",69.1761,34.5228
-"3","AGO","2015","Angola",54,"Lower middle income",13.242,-8.81155
-"4","ALB","2017","Albania",51.8,"Upper middle income",19.8172,41.3317
-"5","ALB","2018","Albania",49,"Upper middle income",19.8172,41.3317
-"6","ALB","2019","Albania",46.2,"Upper middle income",19.8172,41.3317
-"7","ALB","2020","Albania",43.4,"Upper middle income",19.8172,41.3317
-"8","ARM","2010","Armenia",41.2,"Upper middle income",44.509,40.1596
-"9","ARM","2011","Armenia",33.9,"Upper middle income",44.509,40.1596
-"10","ARM","2012","Armenia",31.3,"Upper middle income",44.509,40.1596
-"11","ARM","2013","Armenia",30.5,"Upper middle income",44.509,40.1596
-"12","ARM","2014","Armenia",31.9,"Upper middle income",44.509,40.1596
-"13","ARM","2015","Armenia",29.1,"Upper middle income",44.509,40.1596
-"14","ARM","2016","Armenia",27.8,"Upper middle income",44.509,40.1596
-"15","ARM","2017","Armenia",25.8,"Upper middle income",44.509,40.1596
-"16","ARM","2018","Armenia",23.6,"Upper middle income",44.509,40.1596
-"17","ARM","2020","Armenia",19.1,"Upper middle income",44.509,40.1596
-"18","AUT","2010","Austria",18.9,"High income",16.3798,48.2201
-"19","AUT","2011","Austria",19.2,"High income",16.3798,48.2201
-"20","AUT","2012","Austria",18.5,"High income",16.3798,48.2201
-"21","AUT","2013","Austria",18.8,"High income",16.3798,48.2201
-"22","AUT","2014","Austria",19.2,"High income",16.3798,48.2201
-"23","AUT","2015","Austria",18.3,"High income",16.3798,48.2201
-"24","AUT","2016","Austria",18,"High income",16.3798,48.2201
-"25","AUT","2017","Austria",18.1,"High income",16.3798,48.2201
-"26","AUT","2018","Austria",17.5,"High income",16.3798,48.2201
-"27","AUT","2019","Austria",16.9,"High income",16.3798,48.2201
-"28","AUT","2020","Austria",17.5,"High income",16.3798,48.2201
-"29","BDI","2013","Burundi",64.8,"Low income",29.3639,-3.3784
-"30","BEL","2010","Belgium",20.8,"High income",4.36761,50.8371
-"31","BEL","2011","Belgium",21,"High income",4.36761,50.8371
-"32","BEL","2012","Belgium",21.6,"High income",4.36761,50.8371
-"33","BEL","2013","Belgium",20.8,"High income",4.36761,50.8371
-"34","BEL","2014","Belgium",21.2,"High income",4.36761,50.8371
-"35","BEL","2015","Belgium",21.1,"High income",4.36761,50.8371
-"36","BEL","2016","Belgium",20.9,"High income",4.36761,50.8371
-"37","BEL","2017","Belgium",20.6,"High income",4.36761,50.8371
-"38","BEL","2018","Belgium",20,"High income",4.36761,50.8371
-"39","BEL","2019","Belgium",19.5,"High income",4.36761,50.8371
-"40","BEL","2020","Belgium",18.9,"High income",4.36761,50.8371
-"41","BGR","2010","Bulgaria",49.2,"Upper middle income",23.3238,42.7105
-"42","BGR","2011","Bulgaria",49.1,"Upper middle income",23.3238,42.7105
-"43","BGR","2012","Bulgaria",49.3,"Upper middle income",23.3238,42.7105
-"44","BGR","2013","Bulgaria",48,"Upper middle income",23.3238,42.7105
-"45","BGR","2014","Bulgaria",40.1,"Upper middle income",23.3238,42.7105
-"46","BGR","2015","Bulgaria",41.3,"Upper middle income",23.3238,42.7105
-"47","BGR","2016","Bulgaria",40.4,"Upper middle income",23.3238,42.7105
-"48","BGR","2017","Bulgaria",38.9,"Upper middle income",23.3238,42.7105
-"49","BGR","2018","Bulgaria",32.8,"Upper middle income",23.3238,42.7105
-"50","BGR","2019","Bulgaria",32.5,"Upper middle income",23.3238,42.7105
-"51","BGR","2020","Bulgaria",32.1,"Upper middle income",23.3238,42.7105
-"52","BTN","2012","Bhutan",12.4,"Lower middle income",89.6177,27.5768
-"53","BTN","2017","Bhutan",5.8,"Lower middle income",89.6177,27.5768
-"54","CHL","2011","Chile",24.3,"High income",-70.6475,-33.475
-"55","CHL","2013","Chile",20.4,"High income",-70.6475,-33.475
-"56","CHL","2015","Chile",20.9,"High income",-70.6475,-33.475
-"57","CHL","2017","Chile",20.7,"High income",-70.6475,-33.475
-"58","COL","2010","Colombia",29.7,"Upper middle income",-74.082,4.60987
-"59","COL","2011","Colombia",28.8,"Upper middle income",-74.082,4.60987
-"60","COL","2012","Colombia",26.5,"Upper middle income",-74.082,4.60987
-"61","COL","2013","Colombia",24.3,"Upper middle income",-74.082,4.60987
-"62","COL","2014","Colombia",21.6,"Upper middle income",-74.082,4.60987
-"63","COL","2015","Colombia",19.8,"Upper middle income",-74.082,4.60987
-"64","COL","2016","Colombia",17.6,"Upper middle income",-74.082,4.60987
-"65","COL","2018","Colombia",19.1,"Upper middle income",-74.082,4.60987
-"66","COL","2019","Colombia",17.5,"Upper middle income",-74.082,4.60987
-"67","COL","2020","Colombia",18.1,"Upper middle income",-74.082,4.60987
-"68","CRI","2010","Costa Rica",30.9422032877302,"Upper middle income",-84.0089,9.63701
-"69","CRI","2011","Costa Rica",28.79957923639,"Upper middle income",-84.0089,9.63701
-"70","CRI","2012","Costa Rica",26.2,"Upper middle income",-84.0089,9.63701
-"71","CRI","2013","Costa Rica",25.3472112211607,"Upper middle income",-84.0089,9.63701
-"72","CRI","2014","Costa Rica",25.7069427635349,"Upper middle income",-84.0089,9.63701
-"73","CRI","2015","Costa Rica",26.1669480887656,"Upper middle income",-84.0089,9.63701
-"74","CRI","2016","Costa Rica",25.0396719237987,"Upper middle income",-84.0089,9.63701
-"75","CRI","2017","Costa Rica",23.0765411694186,"Upper middle income",-84.0089,9.63701
-"76","CRI","2018","Costa Rica",23.6210876691913,"Upper middle income",-84.0089,9.63701
-"77","CRI","2019","Costa Rica",20.715601092999,"Upper middle income",-84.0089,9.63701
-"78","CYP","2010","Cyprus",24.6,"High income",33.3736,35.1676
-"79","CYP","2011","Cyprus",24.6,"High income",33.3736,35.1676
-"80","CYP","2012","Cyprus",27.1,"High income",33.3736,35.1676
-"81","CYP","2013","Cyprus",27.8,"High income",33.3736,35.1676
-"82","CYP","2014","Cyprus",27.4,"High income",33.3736,35.1676
-"83","CYP","2015","Cyprus",28.9,"High income",33.3736,35.1676
-"84","CYP","2016","Cyprus",27.7,"High income",33.3736,35.1676
-"85","CYP","2017","Cyprus",25.2,"High income",33.3736,35.1676
-"86","CYP","2018","Cyprus",23.9,"High income",33.3736,35.1676
-"87","CYP","2019","Cyprus",22.3,"High income",33.3736,35.1676
-"88","CYP","2020","Cyprus",21.3,"High income",33.3736,35.1676
-"89","CZE","2010","Czech Republic",14.4,"High income",14.4205,50.0878
-"90","CZE","2011","Czech Republic",15.3,"High income",14.4205,50.0878
-"91","CZE","2012","Czech Republic",15.4,"High income",14.4205,50.0878
-"92","CZE","2013","Czech Republic",14.6,"High income",14.4205,50.0878
-"93","CZE","2014","Czech Republic",14.8,"High income",14.4205,50.0878
-"94","CZE","2015","Czech Republic",14,"High income",14.4205,50.0878
-"95","CZE","2016","Czech Republic",13.3,"High income",14.4205,50.0878
-"96","CZE","2017","Czech Republic",12.2,"High income",14.4205,50.0878
-"97","CZE","2018","Czech Republic",12.2,"High income",14.4205,50.0878
-"98","CZE","2019","Czech Republic",12.5,"High income",14.4205,50.0878
-"99","CZE","2020","Czech Republic",11.9,"High income",14.4205,50.0878
-"100","DEU","2010","Germany",19.7,"High income",13.4115,52.5235
-"101","DEU","2011","Germany",19.9,"High income",13.4115,52.5235
-"102","DEU","2012","Germany",19.6,"High income",13.4115,52.5235
-"103","DEU","2013","Germany",20.3,"High income",13.4115,52.5235
-"104","DEU","2014","Germany",20.6,"High income",13.4115,52.5235
-"105","DEU","2015","Germany",20,"High income",13.4115,52.5235
-"106","DEU","2016","Germany",19.7,"High income",13.4115,52.5235
-"107","DEU","2017","Germany",19,"High income",13.4115,52.5235
-"108","DEU","2018","Germany",18.7,"High income",13.4115,52.5235
-"109","DEU","2019","Germany",17.4,"High income",13.4115,52.5235
-"110","DEU","2020","Germany",24,"High income",13.4115,52.5235
-"111","DNK","2010","Denmark",18.3,"High income",12.5681,55.6763
-"112","DNK","2011","Denmark",17.6,"High income",12.5681,55.6763
-"113","DNK","2012","Denmark",17.5,"High income",12.5681,55.6763
-"114","DNK","2013","Denmark",18.3,"High income",12.5681,55.6763
-"115","DNK","2014","Denmark",17.9,"High income",12.5681,55.6763
-"116","DNK","2015","Denmark",17.7,"High income",12.5681,55.6763
-"117","DNK","2016","Denmark",16.8,"High income",12.5681,55.6763
-"118","DNK","2017","Denmark",17.2,"High income",12.5681,55.6763
-"119","DNK","2018","Denmark",17.4,"High income",12.5681,55.6763
-"120","DNK","2019","Denmark",16.5,"High income",12.5681,55.6763
-"121","DNK","2020","Denmark",15.9,"High income",12.5681,55.6763
-"122","DOM","2010","Dominican Republic",35.4,"Upper middle income",-69.8908,18.479
-"123","DOM","2011","Dominican Republic",34.3,"Upper middle income",-69.8908,18.479
-"124","DOM","2012","Dominican Republic",34.9,"Upper middle income",-69.8908,18.479
-"125","DOM","2013","Dominican Republic",33.9,"Upper middle income",-69.8908,18.479
-"126","DOM","2014","Dominican Republic",29.2,"Upper middle income",-69.8908,18.479
-"127","DOM","2015","Dominican Republic",25.5,"Upper middle income",-69.8908,18.479
-"128","DOM","2016","Dominican Republic",23.1,"Upper middle income",-69.8908,18.479
-"129","DOM","2017","Dominican Republic",20.9,"Upper middle income",-69.8908,18.479
-"130","DOM","2018","Dominican Republic",18.8,"Upper middle income",-69.8908,18.479
-"131","DOM","2019","Dominican Republic",16.4,"Upper middle income",-69.8908,18.479
-"132","ECU","2010","Ecuador",46.08,"Upper middle income",-78.5243,-0.229498
-"133","ECU","2011","Ecuador",40.71,"Upper middle income",-78.5243,-0.229498
-"134","ECU","2012","Ecuador",37.83,"Upper middle income",-78.5243,-0.229498
-"135","ECU","2013","Ecuador",38.66,"Upper middle income",-78.5243,-0.229498
-"136","ECU","2014","Ecuador",37.37,"Upper middle income",-78.5243,-0.229498
-"137","ECU","2015","Ecuador",34.95,"Upper middle income",-78.5243,-0.229498
-"138","ECU","2016","Ecuador",35.1,"Upper middle income",-78.5243,-0.229498
-"139","ECU","2017","Ecuador",34.59,"Upper middle income",-78.5243,-0.229498
-"140","ECU","2018","Ecuador",37.86,"Upper middle income",-78.5243,-0.229498
-"141","ECU","2019","Ecuador",38.13,"Upper middle income",-78.5243,-0.229498
-"142","ESP","2010","Spain",26.1,"High income",-3.70327,40.4167
-"143","ESP","2011","Spain",26.7,"High income",-3.70327,40.4167
-"144","ESP","2012","Spain",27.2,"High income",-3.70327,40.4167
-"145","ESP","2013","Spain",27.3,"High income",-3.70327,40.4167
-"146","ESP","2014","Spain",29.2,"High income",-3.70327,40.4167
-"147","ESP","2015","Spain",28.6,"High income",-3.70327,40.4167
-"148","ESP","2016","Spain",27.9,"High income",-3.70327,40.4167
-"149","ESP","2017","Spain",26.6,"High income",-3.70327,40.4167
-"150","ESP","2018","Spain",26.1,"High income",-3.70327,40.4167
-"151","ESP","2019","Spain",25.3,"High income",-3.70327,40.4167
-"152","ESP","2020","Spain",26.4,"High income",-3.70327,40.4167
-"153","EST","2010","Estonia",21.7,"High income",24.7586,59.4392
-"154","EST","2011","Estonia",23.1,"High income",24.7586,59.4392
-"155","EST","2012","Estonia",23.4,"High income",24.7586,59.4392
-"156","EST","2013","Estonia",23.5,"High income",24.7586,59.4392
-"157","EST","2014","Estonia",26,"High income",24.7586,59.4392
-"158","EST","2015","Estonia",24.2,"High income",24.7586,59.4392
-"159","EST","2016","Estonia",24.4,"High income",24.7586,59.4392
-"160","EST","2017","Estonia",23.4,"High income",24.7586,59.4392
-"161","EST","2018","Estonia",24.4,"High income",24.7586,59.4392
-"162","EST","2019","Estonia",24.3,"High income",24.7586,59.4392
-"163","EST","2020","Estonia",23.3,"High income",24.7586,59.4392
-"164","FIN","2010","Finland",16.9,"High income",24.9525,60.1608
-"165","FIN","2011","Finland",17.9,"High income",24.9525,60.1608
-"166","FIN","2012","Finland",17.2,"High income",24.9525,60.1608
-"167","FIN","2013","Finland",16,"High income",24.9525,60.1608
-"168","FIN","2014","Finland",17.3,"High income",24.9525,60.1608
-"169","FIN","2015","Finland",16.8,"High income",24.9525,60.1608
-"170","FIN","2016","Finland",16.6,"High income",24.9525,60.1608
-"171","FIN","2017","Finland",15.7,"High income",24.9525,60.1608
-"172","FIN","2018","Finland",16.5,"High income",24.9525,60.1608
-"173","FIN","2019","Finland",15.6,"High income",24.9525,60.1608
-"174","FIN","2020","Finland",16,"High income",24.9525,60.1608
-"175","FRA","2010","France",19.2,"High income",2.35097,48.8566
-"176","FRA","2011","France",19.3,"High income",2.35097,48.8566
-"177","FRA","2012","France",19.1,"High income",2.35097,48.8566
-"178","FRA","2013","France",18.1,"High income",2.35097,48.8566
-"179","FRA","2014","France",18.5,"High income",2.35097,48.8566
-"180","FRA","2015","France",17.7,"High income",2.35097,48.8566
-"181","FRA","2016","France",18.2,"High income",2.35097,48.8566
-"182","FRA","2017","France",17,"High income",2.35097,48.8566
-"183","FRA","2018","France",17.4,"High income",2.35097,48.8566
-"184","FRA","2019","France",17.9,"High income",2.35097,48.8566
-"185","FRA","2020","France",18.2,"High income",2.35097,48.8566
-"186","GHA","2010","Ghana",42.7,"Lower middle income",-0.20795,5.57045
-"187","GHA","2011","Ghana",55,"Lower middle income",-0.20795,5.57045
-"188","GHA","2016","Ghana",45.6,"Lower middle income",-0.20795,5.57045
-"189","GHA","2018","Ghana",47.8,"Lower middle income",-0.20795,5.57045
-"190","GNB","2010","Guinea-Bissau",65.1,"Low income",-15.1804,11.8037
-"191","GNB","2014","Guinea-Bissau",57.8,"Low income",-15.1804,11.8037
-"192","GRC","2010","Greece",27.7,"High income",23.7166,37.9792
-"193","GRC","2011","Greece",31,"High income",23.7166,37.9792
-"194","GRC","2012","Greece",34.6,"High income",23.7166,37.9792
-"195","GRC","2013","Greece",35.7,"High income",23.7166,37.9792
-"196","GRC","2014","Greece",36,"High income",23.7166,37.9792
-"197","GRC","2015","Greece",35.7,"High income",23.7166,37.9792
-"198","GRC","2016","Greece",35.6,"High income",23.7166,37.9792
-"199","GRC","2017","Greece",34.8,"High income",23.7166,37.9792
-"200","GRC","2018","Greece",31.8,"High income",23.7166,37.9792
-"201","GRC","2019","Greece",30,"High income",23.7166,37.9792
-"202","GRC","2020","Greece",28.9,"High income",23.7166,37.9792
-"203","GTM","2014","Guatemala",61.62,"Upper middle income",-90.5328,14.6248
-"204","HND","2013","Honduras",74.2,"Lower middle income",-87.4667,15.1333
-"205","HRV","2010","Croatia",31.1,"High income",15.9614,45.8069
-"206","HRV","2011","Croatia",32.6,"High income",15.9614,45.8069
-"207","HRV","2012","Croatia",32.6,"High income",15.9614,45.8069
-"208","HRV","2013","Croatia",29.9,"High income",15.9614,45.8069
-"209","HRV","2014","Croatia",29.3,"High income",15.9614,45.8069
-"210","HRV","2015","Croatia",29.1,"High income",15.9614,45.8069
-"211","HRV","2016","Croatia",27.9,"High income",15.9614,45.8069
-"212","HRV","2017","Croatia",26.4,"High income",15.9614,45.8069
-"213","HRV","2018","Croatia",24.8,"High income",15.9614,45.8069
-"214","HRV","2019","Croatia",23.3,"High income",15.9614,45.8069
-"215","HRV","2020","Croatia",23.2,"High income",15.9614,45.8069
-"216","HUN","2010","Hungary",29.9,"High income",19.0408,47.4984
-"217","HUN","2011","Hungary",31.5,"High income",19.0408,47.4984
-"218","HUN","2012","Hungary",33.5,"High income",19.0408,47.4984
-"219","HUN","2013","Hungary",34.8,"High income",19.0408,47.4984
-"220","HUN","2014","Hungary",31.8,"High income",19.0408,47.4984
-"221","HUN","2015","Hungary",28.2,"High income",19.0408,47.4984
-"222","HUN","2016","Hungary",26.3,"High income",19.0408,47.4984
-"223","HUN","2017","Hungary",25.6,"High income",19.0408,47.4984
-"224","HUN","2018","Hungary",19.6,"High income",19.0408,47.4984
-"225","HUN","2019","Hungary",18.9,"High income",19.0408,47.4984
-"226","HUN","2020","Hungary",17.8,"High income",19.0408,47.4984
-"227","IRL","2010","Ireland",27.3,"High income",-6.26749,53.3441
-"228","IRL","2011","Ireland",29.4,"High income",-6.26749,53.3441
-"229","IRL","2012","Ireland",30.1,"High income",-6.26749,53.3441
-"230","IRL","2013","Ireland",29.9,"High income",-6.26749,53.3441
-"231","IRL","2014","Ireland",27.7,"High income",-6.26749,53.3441
-"232","IRL","2015","Ireland",26.2,"High income",-6.26749,53.3441
-"233","IRL","2016","Ireland",24.4,"High income",-6.26749,53.3441
-"234","IRL","2017","Ireland",22.7,"High income",-6.26749,53.3441
-"235","IRL","2018","Ireland",21.1,"High income",-6.26749,53.3441
-"236","IRL","2019","Ireland",20.6,"High income",-6.26749,53.3441
-"237","IRL","2020","Ireland",20.8,"High income",-6.26749,53.3441
-"238","ISL","2010","Iceland",13.7,"High income",-21.8952,64.1353
-"239","ISL","2011","Iceland",13.7,"High income",-21.8952,64.1353
-"240","ISL","2012","Iceland",12.7,"High income",-21.8952,64.1353
-"241","ISL","2013","Iceland",13,"High income",-21.8952,64.1353
-"242","ISL","2014","Iceland",11.2,"High income",-21.8952,64.1353
-"243","ISL","2015","Iceland",12.5,"High income",-21.8952,64.1353
-"244","ISL","2016","Iceland",12.2,"High income",-21.8952,64.1353
-"245","ISL","2017","Iceland",12.8,"High income",-21.8952,64.1353
-"246","ISL","2018","Iceland",11,"High income",-21.8952,64.1353
-"247","ITA","2010","Italy",25,"High income",12.4823,41.8955
-"248","ITA","2011","Italy",28.1,"High income",12.4823,41.8955
-"249","ITA","2012","Italy",29.9,"High income",12.4823,41.8955
-"250","ITA","2013","Italy",28.5,"High income",12.4823,41.8955
-"251","ITA","2014","Italy",28.3,"High income",12.4823,41.8955
-"252","ITA","2015","Italy",28.7,"High income",12.4823,41.8955
-"253","ITA","2016","Italy",30,"High income",12.4823,41.8955
-"254","ITA","2017","Italy",28.9,"High income",12.4823,41.8955
-"255","ITA","2018","Italy",27.3,"High income",12.4823,41.8955
-"256","ITA","2019","Italy",25.6,"High income",12.4823,41.8955
-"257","LKA","2016","Sri Lanka",2.37,"Lower middle income",79.8528,6.92148
-"258","LKA","2019","Sri Lanka",16,"Lower middle income",79.8528,6.92148
-"259","LTU","2010","Lithuania",34,"High income",25.2799,54.6896
-"260","LTU","2011","Lithuania",33.1,"High income",25.2799,54.6896
-"261","LTU","2012","Lithuania",32.5,"High income",25.2799,54.6896
-"262","LTU","2013","Lithuania",30.8,"High income",25.2799,54.6896
-"263","LTU","2014","Lithuania",27.3,"High income",25.2799,54.6896
-"264","LTU","2015","Lithuania",29.3,"High income",25.2799,54.6896
-"265","LTU","2016","Lithuania",30.1,"High income",25.2799,54.6896
-"266","LTU","2017","Lithuania",29.6,"High income",25.2799,54.6896
-"267","LTU","2018","Lithuania",28.3,"High income",25.2799,54.6896
-"268","LTU","2019","Lithuania",26.3,"High income",25.2799,54.6896
-"269","LTU","2020","Lithuania",24.8,"High income",25.2799,54.6896
-"270","LUX","2010","Luxembourg",17.1,"High income",6.1296,49.61
-"271","LUX","2011","Luxembourg",16.8,"High income",6.1296,49.61
-"272","LUX","2012","Luxembourg",18.4,"High income",6.1296,49.61
-"273","LUX","2013","Luxembourg",19,"High income",6.1296,49.61
-"274","LUX","2014","Luxembourg",19,"High income",6.1296,49.61
-"275","LUX","2015","Luxembourg",18.5,"High income",6.1296,49.61
-"276","LUX","2016","Luxembourg",19.8,"High income",6.1296,49.61
-"277","LUX","2017","Luxembourg",21.5,"High income",6.1296,49.61
-"278","LUX","2018","Luxembourg",21.9,"High income",6.1296,49.61
-"279","LUX","2019","Luxembourg",20.6,"High income",6.1296,49.61
-"280","LUX","2020","Luxembourg",20.9,"High income",6.1296,49.61
-"281","LVA","2010","Latvia",38.2,"High income",24.1048,56.9465
-"282","LVA","2011","Latvia",40.1,"High income",24.1048,56.9465
-"283","LVA","2012","Latvia",36.2,"High income",24.1048,56.9465
-"284","LVA","2013","Latvia",35.1,"High income",24.1048,56.9465
-"285","LVA","2014","Latvia",32.7,"High income",24.1048,56.9465
-"286","LVA","2015","Latvia",30.9,"High income",24.1048,56.9465
-"287","LVA","2016","Latvia",28.5,"High income",24.1048,56.9465
-"288","LVA","2017","Latvia",28.2,"High income",24.1048,56.9465
-"289","LVA","2018","Latvia",28.4,"High income",24.1048,56.9465
-"290","LVA","2019","Latvia",27.3,"High income",24.1048,56.9465
-"291","LVA","2020","Latvia",26,"High income",24.1048,56.9465
-"292","MAR","2011","Morocco",9.8,"Lower middle income",-6.8704,33.9905
-"293","MAR","2014","Morocco",8.2,"Lower middle income",-6.8704,33.9905
-"294","MDV","2016","Maldives",28.4,"Upper middle income",73.5109,4.1742
-"295","MEX","2010","Mexico",46.1,"Upper middle income",-99.1276,19.427
-"296","MEX","2012","Mexico",45.5,"Upper middle income",-99.1276,19.427
-"297","MEX","2014","Mexico",46.2,"Upper middle income",-99.1276,19.427
-"298","MEX","2016","Mexico",43.2,"Upper middle income",-99.1276,19.427
-"299","MEX","2018","Mexico",41.9,"Upper middle income",-99.1276,19.427
-"300","MEX","2020","Mexico",43.9,"Upper middle income",-99.1276,19.427
-"301","MKD","2010","North Macedonia",47.2,"Upper middle income",21.4361,42.0024
-"302","MKD","2011","North Macedonia",50.4,"Upper middle income",21.4361,42.0024
-"303","MKD","2012","North Macedonia",50.3,"Upper middle income",21.4361,42.0024
-"304","MKD","2013","North Macedonia",48.1,"Upper middle income",21.4361,42.0024
-"305","MKD","2014","North Macedonia",43.3,"Upper middle income",21.4361,42.0024
-"306","MKD","2015","North Macedonia",41.6,"Upper middle income",21.4361,42.0024
-"307","MKD","2016","North Macedonia",41.1,"Upper middle income",21.4361,42.0024
-"308","MKD","2017","North Macedonia",41.6,"Upper middle income",21.4361,42.0024
-"309","MKD","2018","North Macedonia",41.1,"Upper middle income",21.4361,42.0024
-"310","MKD","2019","North Macedonia",39.9,"Upper middle income",21.4361,42.0024
-"311","MLI","2016","Mali",39.8,"Low income",-7.50034,13.5667
-"312","MLT","2010","Malta",21.2,"High income",14.5189,35.9042
-"313","MLT","2011","Malta",22.1,"High income",14.5189,35.9042
-"314","MLT","2012","Malta",23.1,"High income",14.5189,35.9042
-"315","MLT","2013","Malta",24.6,"High income",14.5189,35.9042
-"316","MLT","2014","Malta",23.9,"High income",14.5189,35.9042
-"317","MLT","2015","Malta",23,"High income",14.5189,35.9042
-"318","MLT","2016","Malta",20.3,"High income",14.5189,35.9042
-"319","MLT","2017","Malta",19.3,"High income",14.5189,35.9042
-"320","MLT","2018","Malta",19,"High income",14.5189,35.9042
-"321","MLT","2019","Malta",20.1,"High income",14.5189,35.9042
-"322","MLT","2020","Malta",19,"High income",14.5189,35.9042
-"323","MNE","2013","Montenegro",37.3,"Upper middle income",19.2595,42.4602
-"324","MNE","2014","Montenegro",37.5,"Upper middle income",19.2595,42.4602
-"325","MNE","2015","Montenegro",35.9,"Upper middle income",19.2595,42.4602
-"326","MNE","2016","Montenegro",34.6,"Upper middle income",19.2595,42.4602
-"327","MNE","2017","Montenegro",33.7,"Upper middle income",19.2595,42.4602
-"328","MNE","2018","Montenegro",31.4,"Upper middle income",19.2595,42.4602
-"329","MNE","2019","Montenegro",30.5,"Upper middle income",19.2595,42.4602
-"330","MNE","2020","Montenegro",30.9,"Upper middle income",19.2595,42.4602
-"331","MOZ","2014","Mozambique",53,"Low income",32.5713,-25.9664
-"332","NAM","2015","Namibia",43.3,"Upper middle income",17.0931,-22.5648
-"333","NGA","2017","Nigeria",53.7,"Lower middle income",7.48906,9.05804
-"334","NLD","2010","Netherlands",15.1,"High income",4.89095,52.3738
-"335","NLD","2011","Netherlands",15.7,"High income",4.89095,52.3738
-"336","NLD","2012","Netherlands",15,"High income",4.89095,52.3738
-"337","NLD","2013","Netherlands",15.9,"High income",4.89095,52.3738
-"338","NLD","2014","Netherlands",16.5,"High income",4.89095,52.3738
-"339","NLD","2015","Netherlands",16.4,"High income",4.89095,52.3738
-"340","NLD","2016","Netherlands",16.7,"High income",4.89095,52.3738
-"341","NLD","2017","Netherlands",17,"High income",4.89095,52.3738
-"342","NLD","2018","Netherlands",16.7,"High income",4.89095,52.3738
-"343","NLD","2019","Netherlands",16.5,"High income",4.89095,52.3738
-"344","NLD","2020","Netherlands",16.3,"High income",4.89095,52.3738
-"345","NOR","2010","Norway",14.9,"High income",10.7387,59.9138
-"346","NOR","2011","Norway",14.5,"High income",10.7387,59.9138
-"347","NOR","2012","Norway",13.7,"High income",10.7387,59.9138
-"348","NOR","2013","Norway",14.1,"High income",10.7387,59.9138
-"349","NOR","2014","Norway",13.5,"High income",10.7387,59.9138
-"350","NOR","2015","Norway",15,"High income",10.7387,59.9138
-"351","NOR","2016","Norway",15.3,"High income",10.7387,59.9138
-"352","NOR","2017","Norway",16,"High income",10.7387,59.9138
-"353","NOR","2018","Norway",16.2,"High income",10.7387,59.9138
-"354","NOR","2019","Norway",16.1,"High income",10.7387,59.9138
-"355","NOR","2020","Norway",15.9,"High income",10.7387,59.9138
-"356","NPL","2011","Nepal",39.1,"Lower middle income",85.3157,27.6939
-"357","NPL","2014","Nepal",30.1,"Lower middle income",85.3157,27.6939
-"358","NPL","2019","Nepal",17.4,"Lower middle income",85.3157,27.6939
-"359","PAK","2010","Pakistan",44.7,"Lower middle income",72.8,30.5167
-"360","PAK","2012","Pakistan",40.8,"Lower middle income",72.8,30.5167
-"361","PAK","2014","Pakistan",38.8,"Lower middle income",72.8,30.5167
-"362","PAN","2017","Panama",19.1,"High income",-79.5188,8.99427
-"363","POL","2010","Poland",27.8,"High income",21.02,52.26
-"364","POL","2011","Poland",27.2,"High income",21.02,52.26
-"365","POL","2012","Poland",26.7,"High income",21.02,52.26
-"366","POL","2013","Poland",25.8,"High income",21.02,52.26
-"367","POL","2014","Poland",24.7,"High income",21.02,52.26
-"368","POL","2015","Poland",23.4,"High income",21.02,52.26
-"369","POL","2016","Poland",21.9,"High income",21.02,52.26
-"370","POL","2017","Poland",19.5,"High income",21.02,52.26
-"371","POL","2018","Poland",18.9,"High income",21.02,52.26
-"372","POL","2019","Poland",18.2,"High income",21.02,52.26
-"373","POL","2020","Poland",17.3,"High income",21.02,52.26
-"374","PRY","2016","Paraguay",34.28,"Upper middle income",-57.6362,-25.3005
-"375","PRY","2017","Paraguay",30.55,"Upper middle income",-57.6362,-25.3005
-"376","PRY","2018","Paraguay",29.57,"Upper middle income",-57.6362,-25.3005
-"377","PRY","2019","Paraguay",26.75,"Upper middle income",-57.6362,-25.3005
-"378","PRY","2020","Paraguay",24.93,"Upper middle income",-57.6362,-25.3005
-"379","PSE","2016","West Bank and Gaza",24,"Lower middle income",NA,NA
-"380","ROU","2010","Romania",41.5,"High income",26.0979,44.4479
-"381","ROU","2011","Romania",40.9,"High income",26.0979,44.4479
-"382","ROU","2012","Romania",43.2,"High income",26.0979,44.4479
-"383","ROU","2013","Romania",41.9,"High income",26.0979,44.4479
-"384","ROU","2014","Romania",40.3,"High income",26.0979,44.4479
-"385","ROU","2015","Romania",37.4,"High income",26.0979,44.4479
-"386","ROU","2016","Romania",38.8,"High income",26.0979,44.4479
-"387","ROU","2017","Romania",35.7,"High income",26.0979,44.4479
-"388","ROU","2018","Romania",32.5,"High income",26.0979,44.4479
-"389","ROU","2019","Romania",31.2,"High income",26.0979,44.4479
-"390","ROU","2020","Romania",30.4,"High income",26.0979,44.4479
-"391","RWA","2010","Rwanda",44.4,"Low income",30.0587,-1.95325
-"392","RWA","2013","Rwanda",32.9,"Low income",30.0587,-1.95325
-"393","RWA","2016","Rwanda",28.7,"Low income",30.0587,-1.95325
-"394","SLV","2014","El Salvador",40.5,"Lower middle income",-89.2073,13.7034
-"395","SLV","2016","El Salvador",39.4,"Lower middle income",-89.2073,13.7034
-"396","SLV","2017","El Salvador",38.9,"Lower middle income",-89.2073,13.7034
-"397","SLV","2018","El Salvador",33.8,"Lower middle income",-89.2073,13.7034
-"398","SLV","2019","El Salvador",32,"Lower middle income",-89.2073,13.7034
-"399","SRB","2013","Serbia",42,"Upper middle income",20.4656,44.8024
-"400","SRB","2014","Serbia",42.6,"Upper middle income",20.4656,44.8024
-"401","SRB","2015","Serbia",41.7,"Upper middle income",20.4656,44.8024
-"402","SRB","2016","Serbia",38.5,"Upper middle income",20.4656,44.8024
-"403","SRB","2017","Serbia",36.7,"Upper middle income",20.4656,44.8024
-"404","SRB","2018","Serbia",34.3,"Upper middle income",20.4656,44.8024
-"405","SRB","2019","Serbia",31.7,"Upper middle income",20.4656,44.8024
-"406","SRB","2020","Serbia",29.8,"Upper middle income",20.4656,44.8024
-"407","SVK","2010","Slovak Republic",20.6,"High income",17.1073,48.1484
-"408","SVK","2011","Slovak Republic",20.6,"High income",17.1073,48.1484
-"409","SVK","2012","Slovak Republic",20.5,"High income",17.1073,48.1484
-"410","SVK","2013","Slovak Republic",19.8,"High income",17.1073,48.1484
-"411","SVK","2014","Slovak Republic",18.4,"High income",17.1073,48.1484
-"412","SVK","2015","Slovak Republic",18.4,"High income",17.1073,48.1484
-"413","SVK","2016","Slovak Republic",18.1,"High income",17.1073,48.1484
-"414","SVK","2017","Slovak Republic",16.3,"High income",17.1073,48.1484
-"415","SVK","2018","Slovak Republic",16.3,"High income",17.1073,48.1484
-"416","SVK","2019","Slovak Republic",16.4,"High income",17.1073,48.1484
-"417","SVK","2020","Slovak Republic",14.8,"High income",17.1073,48.1484
-"418","SVN","2010","Slovenia",18.3,"High income",14.5044,46.0546
-"419","SVN","2011","Slovenia",19.3,"High income",14.5044,46.0546
-"420","SVN","2012","Slovenia",19.6,"High income",14.5044,46.0546
-"421","SVN","2013","Slovenia",20.4,"High income",14.5044,46.0546
-"422","SVN","2014","Slovenia",20.4,"High income",14.5044,46.0546
-"423","SVN","2015","Slovenia",19.2,"High income",14.5044,46.0546
-"424","SVN","2016","Slovenia",18.4,"High income",14.5044,46.0546
-"425","SVN","2017","Slovenia",17.1,"High income",14.5044,46.0546
-"426","SVN","2018","Slovenia",16.2,"High income",14.5044,46.0546
-"427","SVN","2019","Slovenia",14.4,"High income",14.5044,46.0546
-"428","SVN","2020","Slovenia",15,"High income",14.5044,46.0546
-"429","SWE","2010","Sweden",17.7,"High income",18.0645,59.3327
-"430","SWE","2011","Sweden",18.5,"High income",18.0645,59.3327
-"431","SWE","2012","Sweden",17.7,"High income",18.0645,59.3327
-"432","SWE","2013","Sweden",18.3,"High income",18.0645,59.3327
-"433","SWE","2014","Sweden",18.2,"High income",18.0645,59.3327
-"434","SWE","2015","Sweden",18.6,"High income",18.0645,59.3327
-"435","SWE","2016","Sweden",18.3,"High income",18.0645,59.3327
-"436","SWE","2017","Sweden",17.7,"High income",18.0645,59.3327
-"437","SWE","2018","Sweden",18,"High income",18.0645,59.3327
-"438","SWE","2019","Sweden",18.8,"High income",18.0645,59.3327
-"439","SWE","2020","Sweden",17.9,"High income",18.0645,59.3327
-"440","SYC","2018","Seychelles",31.99,"High income",55.4466,-4.6309
-"441","THA","2017","Thailand",17.61,"Upper middle income",100.521,13.7308
-"442","TUR","2010","Turkiye",65.7,NA,NA,NA
-"443","TUR","2011","Turkiye",63.8,NA,NA,NA
-"444","TUR","2012","Turkiye",61.3,NA,NA,NA
-"445","TUR","2013","Turkiye",51.2,NA,NA,NA
-"446","TUR","2014","Turkiye",41.6,NA,NA,NA
-"447","TUR","2015","Turkiye",41.3,NA,NA,NA
-"448","TUR","2016","Turkiye",45.1,NA,NA,NA
-"449","TUR","2017","Turkiye",41.3,NA,NA,NA
-"450","TUR","2018","Turkiye",39.8,NA,NA,NA
-"451","TUR","2019","Turkiye",39.8,NA,NA,NA
-"452","TUR","2020","Turkiye",41.5,NA,NA,NA
-"453","XKX","2018","Kosovo",56.7,"Upper middle income",20.926,42.565
-"454","ZAF","2011","South Africa",8,"Upper middle income",28.1871,-25.746
-"455","ZAF","2016","South Africa",7,"Upper middle income",28.1871,-25.746
+"","iso3c","date","country","Poverty headcount ratio at national poverty lines (% of population)","income_level","longitude","latitude"
+"1","AFG","2011","Afghanistan",38.3,"Low income",69.1761,34.5228
+"2","AFG","2016","Afghanistan",54.5,"Low income",69.1761,34.5228
+"3","AGO","2018","Angola",32.3,"Lower middle income",13.242,-8.81155
+"4","ALB","2012","Albania",14.3,"Upper middle income",19.8172,41.3317
+"5","ALB","2016","Albania",23.7,"Upper middle income",19.8172,41.3317
+"6","ALB","2017","Albania",23.4,"Upper middle income",19.8172,41.3317
+"7","ALB","2018","Albania",23,"Upper middle income",19.8172,41.3317
+"8","ALB","2019","Albania",21.8,"Upper middle income",19.8172,41.3317
+"9","ARG","2016","Argentina",30.3,"Upper middle income",-58.4173,-34.6118
+"10","ARG","2017","Argentina",25.7,"Upper middle income",-58.4173,-34.6118
+"11","ARG","2018","Argentina",32,"Upper middle income",-58.4173,-34.6118
+"12","ARG","2019","Argentina",35.5,"Upper middle income",-58.4173,-34.6118
+"13","ARG","2020","Argentina",42,"Upper middle income",-58.4173,-34.6118
+"14","ARM","2019","Armenia",26.4,"Upper middle income",44.509,40.1596
+"15","ARM","2020","Armenia",27,"Upper middle income",44.509,40.1596
+"16","AUT","2010","Austria",14.5,"High income",16.3798,48.2201
+"17","AUT","2011","Austria",14.4,"High income",16.3798,48.2201
+"18","AUT","2012","Austria",14.4,"High income",16.3798,48.2201
+"19","AUT","2013","Austria",14.1,"High income",16.3798,48.2201
+"20","AUT","2014","Austria",13.9,"High income",16.3798,48.2201
+"21","AUT","2015","Austria",14.1,"High income",16.3798,48.2201
+"22","AUT","2016","Austria",14.4,"High income",16.3798,48.2201
+"23","AUT","2017","Austria",14.3,"High income",16.3798,48.2201
+"24","AUT","2018","Austria",13.3,"High income",16.3798,48.2201
+"25","AUT","2019","Austria",13.9,"High income",16.3798,48.2201
+"26","AUT","2020","Austria",14.7,"High income",16.3798,48.2201
+"27","AZE","2010","Azerbaijan",9.1,"Upper middle income",49.8932,40.3834
+"28","AZE","2011","Azerbaijan",7.6,"Upper middle income",49.8932,40.3834
+"29","AZE","2012","Azerbaijan",6,"Upper middle income",49.8932,40.3834
+"30","BDI","2013","Burundi",64.9,"Low income",29.3639,-3.3784
+"31","BEL","2018","Belgium",14.8,"High income",4.36761,50.8371
+"32","BEL","2019","Belgium",14.1,"High income",4.36761,50.8371
+"33","BEL","2020","Belgium",13.1,"High income",4.36761,50.8371
+"34","BEN","2010","Benin",35.2,"Lower middle income",2.6323,6.4779
+"35","BEN","2011","Benin",36.2,"Lower middle income",2.6323,6.4779
+"36","BEN","2015","Benin",40.1,"Lower middle income",2.6323,6.4779
+"37","BEN","2019","Benin",38.5,"Lower middle income",2.6323,6.4779
+"38","BFA","2018","Burkina Faso",41.4,"Low income",-1.53395,12.3605
+"39","BGD","2010","Bangladesh",31.5,"Lower middle income",90.4113,23.7055
+"40","BGD","2016","Bangladesh",24.3,"Lower middle income",90.4113,23.7055
+"41","BGR","2020","Bulgaria",22.1,"Upper middle income",23.3238,42.7105
+"42","BIH","2011","Bosnia and Herzegovina",17.9,"Upper middle income",18.4214,43.8607
+"43","BIH","2015","Bosnia and Herzegovina",16.9,"Upper middle income",18.4214,43.8607
+"44","BLR","2010","Belarus",5.2,"Upper middle income",27.5766,53.9678
+"45","BLR","2011","Belarus",7.3,"Upper middle income",27.5766,53.9678
+"46","BLR","2012","Belarus",6.3,"Upper middle income",27.5766,53.9678
+"47","BLR","2013","Belarus",5.5,"Upper middle income",27.5766,53.9678
+"48","BLR","2014","Belarus",4.8,"Upper middle income",27.5766,53.9678
+"49","BLR","2015","Belarus",5.1,"Upper middle income",27.5766,53.9678
+"50","BLR","2016","Belarus",5.7,"Upper middle income",27.5766,53.9678
+"51","BLR","2017","Belarus",5.9,"Upper middle income",27.5766,53.9678
+"52","BLR","2018","Belarus",5.6,"Upper middle income",27.5766,53.9678
+"53","BLR","2019","Belarus",5,"Upper middle income",27.5766,53.9678
+"54","BLR","2020","Belarus",4.8,"Upper middle income",27.5766,53.9678
+"55","BOL","2019","Bolivia",37.2,"Lower middle income",-66.1936,-13.9908
+"56","BOL","2020","Bolivia",39,"Lower middle income",-66.1936,-13.9908
+"57","BTN","2012","Bhutan",12,"Lower middle income",89.6177,27.5768
+"58","BTN","2017","Bhutan",8.2,"Lower middle income",89.6177,27.5768
+"59","CHE","2010","Switzerland",15,"High income",7.44821,46.948
+"60","CHE","2011","Switzerland",15.9,"High income",7.44821,46.948
+"61","CHE","2012","Switzerland",14.5,"High income",7.44821,46.948
+"62","CHE","2013","Switzerland",13.8,"High income",7.44821,46.948
+"63","CHE","2014","Switzerland",15.6,"High income",7.44821,46.948
+"64","CHE","2015","Switzerland",14.7,"High income",7.44821,46.948
+"65","CHE","2016","Switzerland",15.5,"High income",7.44821,46.948
+"66","CHE","2017","Switzerland",14.6,"High income",7.44821,46.948
+"67","CHE","2018","Switzerland",16,"High income",7.44821,46.948
+"68","CHE","2019","Switzerland",15.5,"High income",7.44821,46.948
+"69","CHL","2011","Chile",22.2,"High income",-70.6475,-33.475
+"70","CHL","2013","Chile",14.4,"High income",-70.6475,-33.475
+"71","CHL","2015","Chile",11.7,"High income",-70.6475,-33.475
+"72","CHL","2017","Chile",8.6,"High income",-70.6475,-33.475
+"73","CHL","2020","Chile",10.8,"High income",-70.6475,-33.475
+"74","CHN","2010","China",17.2,"Upper middle income",116.286,40.0495
+"75","CHN","2011","China",12.7,"Upper middle income",116.286,40.0495
+"76","CHN","2012","China",10.2,"Upper middle income",116.286,40.0495
+"77","CHN","2013","China",8.5,"Upper middle income",116.286,40.0495
+"78","CHN","2014","China",7.2,"Upper middle income",116.286,40.0495
+"79","CHN","2015","China",5.7,"Upper middle income",116.286,40.0495
+"80","CHN","2016","China",4.5,"Upper middle income",116.286,40.0495
+"81","CHN","2017","China",3.1,"Upper middle income",116.286,40.0495
+"82","CHN","2018","China",1.7,"Upper middle income",116.286,40.0495
+"83","CHN","2019","China",0.6,"Upper middle income",116.286,40.0495
+"84","CHN","2020","China",0,"Upper middle income",116.286,40.0495
+"85","CIV","2015","Cote d'Ivoire",44.4,"Lower middle income",-4.0305,5.332
+"86","CIV","2018","Cote d'Ivoire",39.5,"Lower middle income",-4.0305,5.332
+"87","CMR","2014","Cameroon",37.5,"Lower middle income",11.5174,3.8721
+"88","COD","2012","Congo, Dem. Rep.",63.9,"Low income",15.3222,-4.325
+"89","COG","2011","Congo, Rep.",40.9,"Lower middle income",15.2662,-4.2767
+"90","COL","2019","Colombia",35.7,"Upper middle income",-74.082,4.60987
+"91","COL","2020","Colombia",42.5,"Upper middle income",-74.082,4.60987
+"92","COM","2013","Comoros",42.4,"Lower middle income",43.2418,-11.6986
+"93","CPV","2015","Cabo Verde",35,"Lower middle income",-23.5087,14.9218
+"94","CRI","2011","Costa Rica",24.8,"Upper middle income",-84.0089,9.63701
+"95","CRI","2012","Costa Rica",23.5,"Upper middle income",-84.0089,9.63701
+"96","CRI","2013","Costa Rica",23.3,"Upper middle income",-84.0089,9.63701
+"97","CRI","2014","Costa Rica",24.6,"Upper middle income",-84.0089,9.63701
+"98","CRI","2015","Costa Rica",23.6,"Upper middle income",-84.0089,9.63701
+"99","CRI","2016","Costa Rica",22.9,"Upper middle income",-84.0089,9.63701
+"100","CRI","2017","Costa Rica",22.1,"Upper middle income",-84.0089,9.63701
+"101","CRI","2018","Costa Rica",22.9,"Upper middle income",-84.0089,9.63701
+"102","CRI","2019","Costa Rica",23.9,"Upper middle income",-84.0089,9.63701
+"103","CRI","2020","Costa Rica",30,"Upper middle income",-84.0089,9.63701
+"104","CYP","2010","Cyprus",14.8,"High income",33.3736,35.1676
+"105","CYP","2011","Cyprus",14.7,"High income",33.3736,35.1676
+"106","CYP","2012","Cyprus",15.3,"High income",33.3736,35.1676
+"107","CYP","2013","Cyprus",14.4,"High income",33.3736,35.1676
+"108","CYP","2014","Cyprus",16.2,"High income",33.3736,35.1676
+"109","CYP","2015","Cyprus",16.1,"High income",33.3736,35.1676
+"110","CYP","2016","Cyprus",15.7,"High income",33.3736,35.1676
+"111","CYP","2017","Cyprus",15.4,"High income",33.3736,35.1676
+"112","CYP","2018","Cyprus",14.7,"High income",33.3736,35.1676
+"113","CYP","2019","Cyprus",14.3,"High income",33.3736,35.1676
+"114","CZE","2014","Czech Republic",9.7,"High income",14.4205,50.0878
+"115","CZE","2015","Czech Republic",9.7,"High income",14.4205,50.0878
+"116","CZE","2016","Czech Republic",9.1,"High income",14.4205,50.0878
+"117","CZE","2017","Czech Republic",9.6,"High income",14.4205,50.0878
+"118","CZE","2018","Czech Republic",10.1,"High income",14.4205,50.0878
+"119","CZE","2019","Czech Republic",9.5,"High income",14.4205,50.0878
+"120","CZE","2020","Czech Republic",8.6,"High income",14.4205,50.0878
+"121","DEU","2019","Germany",16.1,"High income",13.4115,52.5235
+"122","DEU","2020","Germany",15.8,"High income",13.4115,52.5235
+"123","DJI","2017","Djibouti",21.1,"Lower middle income",43.1425,11.5806
+"124","DNK","2019","Denmark",12.1,"High income",12.5681,55.6763
+"125","DNK","2020","Denmark",12.3,"High income",12.5681,55.6763
+"126","DOM","2017","Dominican Republic",25.6,"Upper middle income",-69.8908,18.479
+"127","DOM","2018","Dominican Republic",22.8,"Upper middle income",-69.8908,18.479
+"128","DOM","2019","Dominican Republic",21,"Upper middle income",-69.8908,18.479
+"129","DZA","2011","Algeria",5.5,"Lower middle income",3.05097,36.7397
+"130","ECU","2010","Ecuador",32.8,"Upper middle income",-78.5243,-0.229498
+"131","ECU","2011","Ecuador",28.6,"Upper middle income",-78.5243,-0.229498
+"132","ECU","2012","Ecuador",27.3,"Upper middle income",-78.5243,-0.229498
+"133","ECU","2013","Ecuador",25.6,"Upper middle income",-78.5243,-0.229498
+"134","ECU","2014","Ecuador",22.5,"Upper middle income",-78.5243,-0.229498
+"135","ECU","2015","Ecuador",23.3,"Upper middle income",-78.5243,-0.229498
+"136","ECU","2016","Ecuador",22.9,"Upper middle income",-78.5243,-0.229498
+"137","ECU","2017","Ecuador",21.5,"Upper middle income",-78.5243,-0.229498
+"138","ECU","2018","Ecuador",23.2,"Upper middle income",-78.5243,-0.229498
+"139","ECU","2019","Ecuador",25,"Upper middle income",-78.5243,-0.229498
+"140","ECU","2020","Ecuador",33,"Upper middle income",-78.5243,-0.229498
+"141","EGY","2015","Egypt, Arab Rep.",27.8,"Lower middle income",31.2461,30.0982
+"142","EGY","2017","Egypt, Arab Rep.",32.5,"Lower middle income",31.2461,30.0982
+"143","ESP","2010","Spain",20.6,"High income",-3.70327,40.4167
+"144","ESP","2011","Spain",20.8,"High income",-3.70327,40.4167
+"145","ESP","2012","Spain",20.4,"High income",-3.70327,40.4167
+"146","ESP","2013","Spain",22.2,"High income",-3.70327,40.4167
+"147","ESP","2014","Spain",22.1,"High income",-3.70327,40.4167
+"148","ESP","2015","Spain",22.3,"High income",-3.70327,40.4167
+"149","ESP","2016","Spain",21.6,"High income",-3.70327,40.4167
+"150","ESP","2017","Spain",21.5,"High income",-3.70327,40.4167
+"151","ESP","2018","Spain",20.7,"High income",-3.70327,40.4167
+"152","ESP","2019","Spain",21,"High income",-3.70327,40.4167
+"153","ESP","2020","Spain",21.7,"High income",-3.70327,40.4167
+"154","EST","2010","Estonia",17.5,"High income",24.7586,59.4392
+"155","EST","2011","Estonia",17.5,"High income",24.7586,59.4392
+"156","EST","2012","Estonia",18.6,"High income",24.7586,59.4392
+"157","EST","2014","Estonia",21.6,"High income",24.7586,59.4392
+"158","EST","2015","Estonia",21.7,"High income",24.7586,59.4392
+"159","EST","2016","Estonia",21,"High income",24.7586,59.4392
+"160","EST","2017","Estonia",21.9,"High income",24.7586,59.4392
+"161","EST","2018","Estonia",21.7,"High income",24.7586,59.4392
+"162","EST","2019","Estonia",20.7,"High income",24.7586,59.4392
+"163","EST","2020","Estonia",20.6,"High income",24.7586,59.4392
+"164","ETH","2010","Ethiopia",29.6,"Low income",38.7468,9.02274
+"165","ETH","2015","Ethiopia",23.5,"Low income",38.7468,9.02274
+"166","FIN","2010","Finland",13.7,"High income",24.9525,60.1608
+"167","FIN","2011","Finland",13.2,"High income",24.9525,60.1608
+"168","FIN","2012","Finland",11.8,"High income",24.9525,60.1608
+"169","FIN","2013","Finland",12.8,"High income",24.9525,60.1608
+"170","FIN","2014","Finland",12.4,"High income",24.9525,60.1608
+"171","FIN","2015","Finland",11.6,"High income",24.9525,60.1608
+"172","FIN","2016","Finland",11.5,"High income",24.9525,60.1608
+"173","FIN","2017","Finland",12,"High income",24.9525,60.1608
+"174","FIN","2018","Finland",11.6,"High income",24.9525,60.1608
+"175","FIN","2019","Finland",12.2,"High income",24.9525,60.1608
+"176","FIN","2020","Finland",10.8,"High income",24.9525,60.1608
+"177","FJI","2019","Fiji",24.1,"Upper middle income",178.399,-18.1149
+"178","FRA","2019","France",13.8,"High income",2.35097,48.8566
+"179","FSM","2013","Micronesia, Fed. Sts.",41.2,"Lower middle income",158.185,6.91771
+"180","GAB","2017","Gabon",33.4,"Upper middle income",9.45162,0.38832
+"181","GBR","2016","United Kingdom",17,"High income",-0.126236,51.5002
+"182","GBR","2017","United Kingdom",18.6,"High income",-0.126236,51.5002
+"183","GEO","2010","Georgia",37.3,"Upper middle income",44.793,41.71
+"184","GEO","2011","Georgia",34.1,"Upper middle income",44.793,41.71
+"185","GEO","2012","Georgia",30,"Upper middle income",44.793,41.71
+"186","GEO","2013","Georgia",26.2,"Upper middle income",44.793,41.71
+"187","GEO","2014","Georgia",23.5,"Upper middle income",44.793,41.71
+"188","GEO","2015","Georgia",21.6,"Upper middle income",44.793,41.71
+"189","GEO","2016","Georgia",22,"Upper middle income",44.793,41.71
+"190","GEO","2017","Georgia",21.9,"Upper middle income",44.793,41.71
+"191","GEO","2018","Georgia",20.1,"Upper middle income",44.793,41.71
+"192","GEO","2019","Georgia",19.5,"Upper middle income",44.793,41.71
+"193","GEO","2020","Georgia",21.3,"Upper middle income",44.793,41.71
+"194","GHA","2012","Ghana",24.2,"Lower middle income",-0.20795,5.57045
+"195","GHA","2016","Ghana",23.4,"Lower middle income",-0.20795,5.57045
+"196","GIN","2018","Guinea",43.7,"Low income",-13.7,9.51667
+"197","GMB","2010","Gambia, The",48.1,"Low income",-16.5885,13.4495
+"198","GMB","2015","Gambia, The",48.6,"Low income",-16.5885,13.4495
+"199","GNB","2010","Guinea-Bissau",48.7,"Low income",-15.1804,11.8037
+"200","GNB","2018","Guinea-Bissau",47.7,"Low income",-15.1804,11.8037
+"201","GRC","2010","Greece",21.4,"High income",23.7166,37.9792
+"202","GRC","2011","Greece",23.1,"High income",23.7166,37.9792
+"203","GRC","2012","Greece",23.1,"High income",23.7166,37.9792
+"204","GRC","2013","Greece",22.1,"High income",23.7166,37.9792
+"205","GRC","2014","Greece",21.4,"High income",23.7166,37.9792
+"206","GRC","2015","Greece",21.2,"High income",23.7166,37.9792
+"207","GRC","2016","Greece",20.2,"High income",23.7166,37.9792
+"208","GRC","2017","Greece",18.5,"High income",23.7166,37.9792
+"209","GRC","2018","Greece",17.9,"High income",23.7166,37.9792
+"210","GRC","2019","Greece",17.7,"High income",23.7166,37.9792
+"211","GRC","2020","Greece",19.6,"High income",23.7166,37.9792
+"212","GTM","2014","Guatemala",59.3,"Upper middle income",-90.5328,14.6248
+"213","HND","2014","Honduras",49.7,"Lower middle income",-87.4667,15.1333
+"214","HND","2015","Honduras",51.5,"Lower middle income",-87.4667,15.1333
+"215","HND","2016","Honduras",49.7,"Lower middle income",-87.4667,15.1333
+"216","HND","2017","Honduras",49.8,"Lower middle income",-87.4667,15.1333
+"217","HND","2018","Honduras",50.4,"Lower middle income",-87.4667,15.1333
+"218","HND","2019","Honduras",48,"Lower middle income",-87.4667,15.1333
+"219","HRV","2010","Croatia",20.9,"High income",15.9614,45.8069
+"220","HRV","2011","Croatia",20.4,"High income",15.9614,45.8069
+"221","HRV","2012","Croatia",19.5,"High income",15.9614,45.8069
+"222","HRV","2013","Croatia",19.4,"High income",15.9614,45.8069
+"223","HRV","2014","Croatia",20,"High income",15.9614,45.8069
+"224","HRV","2015","Croatia",19.5,"High income",15.9614,45.8069
+"225","HRV","2016","Croatia",20,"High income",15.9614,45.8069
+"226","HRV","2017","Croatia",19.3,"High income",15.9614,45.8069
+"227","HRV","2018","Croatia",18.3,"High income",15.9614,45.8069
+"228","HRV","2019","Croatia",18.3,"High income",15.9614,45.8069
+"229","HTI","2012","Haiti",58.5,"Low income",-72.3288,18.5392
+"230","HUN","2015","Hungary",14.5,"High income",19.0408,47.4984
+"231","HUN","2016","Hungary",13.4,"High income",19.0408,47.4984
+"232","HUN","2017","Hungary",12.8,"High income",19.0408,47.4984
+"233","HUN","2018","Hungary",12.3,"High income",19.0408,47.4984
+"234","HUN","2019","Hungary",12.3,"High income",19.0408,47.4984
+"235","HUN","2020","Hungary",12.7,"High income",19.0408,47.4984
+"236","IDN","2010","Indonesia",13.3,"Upper middle income",106.83,-6.19752
+"237","IDN","2011","Indonesia",12.5,"Upper middle income",106.83,-6.19752
+"238","IDN","2012","Indonesia",12,"Upper middle income",106.83,-6.19752
+"239","IDN","2013","Indonesia",11.4,"Upper middle income",106.83,-6.19752
+"240","IDN","2014","Indonesia",11.3,"Upper middle income",106.83,-6.19752
+"241","IDN","2015","Indonesia",11.2,"Upper middle income",106.83,-6.19752
+"242","IDN","2016","Indonesia",10.9,"Upper middle income",106.83,-6.19752
+"243","IDN","2017","Indonesia",10.6,"Upper middle income",106.83,-6.19752
+"244","IDN","2018","Indonesia",9.8,"Upper middle income",106.83,-6.19752
+"245","IDN","2019","Indonesia",9.4,"Upper middle income",106.83,-6.19752
+"246","IDN","2020","Indonesia",9.8,"Upper middle income",106.83,-6.19752
+"247","IND","2011","India",21.9,"Lower middle income",77.225,28.6353
+"248","IRL","2019","Ireland",13.8,"High income",-6.26749,53.3441
+"249","IRL","2020","Ireland",12.9,"High income",-6.26749,53.3441
+"250","IRQ","2012","Iraq",18.9,"Upper middle income",44.394,33.3302
+"251","ISL","2010","Iceland",9.2,"High income",-21.8952,64.1353
+"252","ISL","2011","Iceland",7.9,"High income",-21.8952,64.1353
+"253","ISL","2012","Iceland",9.3,"High income",-21.8952,64.1353
+"254","ISL","2013","Iceland",7.9,"High income",-21.8952,64.1353
+"255","ISL","2014","Iceland",9.2,"High income",-21.8952,64.1353
+"256","ISL","2015","Iceland",8.8,"High income",-21.8952,64.1353
+"257","ISL","2016","Iceland",10.1,"High income",-21.8952,64.1353
+"258","ISL","2017","Iceland",8.8,"High income",-21.8952,64.1353
+"259","ITA","2010","Italy",19.8,"High income",12.4823,41.8955
+"260","ITA","2011","Italy",19.5,"High income",12.4823,41.8955
+"261","ITA","2012","Italy",19.3,"High income",12.4823,41.8955
+"262","ITA","2013","Italy",19.4,"High income",12.4823,41.8955
+"263","ITA","2014","Italy",19.9,"High income",12.4823,41.8955
+"264","ITA","2015","Italy",20.6,"High income",12.4823,41.8955
+"265","ITA","2016","Italy",20.3,"High income",12.4823,41.8955
+"266","ITA","2017","Italy",20.3,"High income",12.4823,41.8955
+"267","ITA","2018","Italy",20.1,"High income",12.4823,41.8955
+"268","ITA","2019","Italy",20,"High income",12.4823,41.8955
+"269","ITA","2020","Italy",20.1,"High income",12.4823,41.8955
+"270","JAM","2010","Jamaica",17.6,"Upper middle income",-76.792,17.9927
+"271","JAM","2012","Jamaica",19.9,"Upper middle income",-76.792,17.9927
+"272","JOR","2018","Jordan",15.7,"Upper middle income",35.9263,31.9497
+"273","KAZ","2018","Kazakhstan",4.3,"Upper middle income",71.4382,51.1879
+"274","KAZ","2019","Kazakhstan",4.3,"Upper middle income",71.4382,51.1879
+"275","KAZ","2020","Kazakhstan",5.3,"Upper middle income",71.4382,51.1879
+"276","KEN","2015","Kenya",36.1,"Lower middle income",36.8126,-1.27975
+"277","KGZ","2010","Kyrgyz Republic",33.7,"Lower middle income",74.6057,42.8851
+"278","KGZ","2011","Kyrgyz Republic",36.8,"Lower middle income",74.6057,42.8851
+"279","KGZ","2012","Kyrgyz Republic",38,"Lower middle income",74.6057,42.8851
+"280","KGZ","2013","Kyrgyz Republic",37,"Lower middle income",74.6057,42.8851
+"281","KGZ","2014","Kyrgyz Republic",30.6,"Lower middle income",74.6057,42.8851
+"282","KGZ","2015","Kyrgyz Republic",32.1,"Lower middle income",74.6057,42.8851
+"283","KGZ","2016","Kyrgyz Republic",25.4,"Lower middle income",74.6057,42.8851
+"284","KGZ","2017","Kyrgyz Republic",25.6,"Lower middle income",74.6057,42.8851
+"285","KGZ","2018","Kyrgyz Republic",22.4,"Lower middle income",74.6057,42.8851
+"286","KGZ","2019","Kyrgyz Republic",20.1,"Lower middle income",74.6057,42.8851
+"287","KGZ","2020","Kyrgyz Republic",25.3,"Lower middle income",74.6057,42.8851
+"288","KHM","2010","Cambodia",22.1,"Lower middle income",104.874,11.5556
+"289","KHM","2011","Cambodia",20.5,"Lower middle income",104.874,11.5556
+"290","KHM","2012","Cambodia",17.7,"Lower middle income",104.874,11.5556
+"291","KIR","2020","Kiribati",21.9,"Lower middle income",172.979,1.32905
+"292","LAO","2018","Lao PDR",18.3,"Lower middle income",102.177,18.5826
+"293","LBN","2011","Lebanon",27.4,"Upper middle income",35.5134,33.8872
+"294","LBR","2014","Liberia",54.1,"Low income",-10.7957,6.30039
+"295","LBR","2016","Liberia",50.9,"Low income",-10.7957,6.30039
+"296","LCA","2016","St. Lucia",25,"Upper middle income",-60.9832,14
+"297","LKA","2012","Sri Lanka",6.7,"Lower middle income",79.8528,6.92148
+"298","LKA","2016","Sri Lanka",4.1,"Lower middle income",79.8528,6.92148
+"299","LSO","2017","Lesotho",49.7,"Lower middle income",27.7167,-29.5208
+"300","LTU","2015","Lithuania",21.9,"High income",25.2799,54.6896
+"301","LTU","2016","Lithuania",22.9,"High income",25.2799,54.6896
+"302","LTU","2017","Lithuania",22.9,"High income",25.2799,54.6896
+"303","LTU","2018","Lithuania",20.6,"High income",25.2799,54.6896
+"304","LTU","2019","Lithuania",20.9,"High income",25.2799,54.6896
+"305","LUX","2019","Luxembourg",17.4,"High income",6.1296,49.61
+"306","LVA","2015","Latvia",21.8,"High income",24.1048,56.9465
+"307","LVA","2016","Latvia",22.1,"High income",24.1048,56.9465
+"308","LVA","2017","Latvia",23.3,"High income",24.1048,56.9465
+"309","LVA","2018","Latvia",22.9,"High income",24.1048,56.9465
+"310","LVA","2019","Latvia",21.6,"High income",24.1048,56.9465
+"311","LVA","2020","Latvia",23.4,"High income",24.1048,56.9465
+"312","MAR","2013","Morocco",4.8,"Lower middle income",-6.8704,33.9905
+"313","MDA","2019","Moldova",25.2,"Lower middle income",28.8497,47.0167
+"314","MDA","2020","Moldova",26.8,"Lower middle income",28.8497,47.0167
+"315","MDG","2010","Madagascar",71.7,"Low income",45.7167,-20.4667
+"316","MDG","2012","Madagascar",70.7,"Low income",45.7167,-20.4667
+"317","MDV","2019","Maldives",5.4,"Upper middle income",73.5109,4.1742
+"318","MEX","2018","Mexico",41.9,"Upper middle income",-99.1276,19.427
+"319","MEX","2020","Mexico",43.9,"Upper middle income",-99.1276,19.427
+"320","MKD","2010","North Macedonia",26.8,"Upper middle income",21.4361,42.0024
+"321","MKD","2011","North Macedonia",26.2,"Upper middle income",21.4361,42.0024
+"322","MKD","2012","North Macedonia",24.2,"Upper middle income",21.4361,42.0024
+"323","MKD","2013","North Macedonia",22.1,"Upper middle income",21.4361,42.0024
+"324","MKD","2014","North Macedonia",21.5,"Upper middle income",21.4361,42.0024
+"325","MKD","2015","North Macedonia",21.9,"Upper middle income",21.4361,42.0024
+"326","MKD","2016","North Macedonia",22.2,"Upper middle income",21.4361,42.0024
+"327","MKD","2017","North Macedonia",21.9,"Upper middle income",21.4361,42.0024
+"328","MKD","2018","North Macedonia",21.6,"Upper middle income",21.4361,42.0024
+"329","MLI","2011","Mali",45.4,"Low income",-7.50034,13.5667
+"330","MLI","2013","Mali",47.1,"Low income",-7.50034,13.5667
+"331","MLI","2014","Mali",46.9,"Low income",-7.50034,13.5667
+"332","MLI","2015","Mali",47.2,"Low income",-7.50034,13.5667
+"333","MLI","2016","Mali",46.8,"Low income",-7.50034,13.5667
+"334","MLI","2017","Mali",44.9,"Low income",-7.50034,13.5667
+"335","MLI","2018","Mali",43.8,"Low income",-7.50034,13.5667
+"336","MLI","2019","Mali",42.3,"Low income",-7.50034,13.5667
+"337","MLI","2020","Mali",41.9,"Low income",-7.50034,13.5667
+"338","MLT","2010","Malta",15.6,"High income",14.5189,35.9042
+"339","MLT","2011","Malta",15.1,"High income",14.5189,35.9042
+"340","MLT","2012","Malta",15.8,"High income",14.5189,35.9042
+"341","MLT","2013","Malta",15.8,"High income",14.5189,35.9042
+"342","MLT","2014","Malta",16.6,"High income",14.5189,35.9042
+"343","MLT","2015","Malta",16.5,"High income",14.5189,35.9042
+"344","MLT","2016","Malta",16.7,"High income",14.5189,35.9042
+"345","MLT","2017","Malta",16.8,"High income",14.5189,35.9042
+"346","MLT","2018","Malta",17.1,"High income",14.5189,35.9042
+"347","MLT","2019","Malta",16.9,"High income",14.5189,35.9042
+"348","MMR","2010","Myanmar",42.2,"Lower middle income",95.9562,21.914
+"349","MMR","2015","Myanmar",32.1,"Lower middle income",95.9562,21.914
+"350","MMR","2017","Myanmar",24.8,"Lower middle income",95.9562,21.914
+"351","MNE","2010","Montenegro",6.6,"Upper middle income",19.2595,42.4602
+"352","MNE","2011","Montenegro",9.3,"Upper middle income",19.2595,42.4602
+"353","MNE","2012","Montenegro",25.2,"Upper middle income",19.2595,42.4602
+"354","MNE","2013","Montenegro",24.1,"Upper middle income",19.2595,42.4602
+"355","MNE","2014","Montenegro",24.4,"Upper middle income",19.2595,42.4602
+"356","MNE","2015","Montenegro",24,"Upper middle income",19.2595,42.4602
+"357","MNE","2016","Montenegro",23.6,"Upper middle income",19.2595,42.4602
+"358","MNE","2017","Montenegro",23.8,"Upper middle income",19.2595,42.4602
+"359","MNE","2018","Montenegro",24.5,"Upper middle income",19.2595,42.4602
+"360","MNE","2019","Montenegro",22.6,"Upper middle income",19.2595,42.4602
+"361","MNG","2010","Mongolia",38.8,"Lower middle income",106.937,47.9129
+"362","MNG","2011","Mongolia",33.7,"Lower middle income",106.937,47.9129
+"363","MNG","2012","Mongolia",27.4,"Lower middle income",106.937,47.9129
+"364","MNG","2014","Mongolia",21.6,"Lower middle income",106.937,47.9129
+"365","MNG","2016","Mongolia",29.6,"Lower middle income",106.937,47.9129
+"366","MNG","2018","Mongolia",28.4,"Lower middle income",106.937,47.9129
+"367","MNG","2020","Mongolia",27.8,"Lower middle income",106.937,47.9129
+"368","MOZ","2014","Mozambique",46.1,"Low income",32.5713,-25.9664
+"369","MRT","2014","Mauritania",31,"Lower middle income",-15.9824,18.2367
+"370","MUS","2012","Mauritius",7.9,"High income",57.4977,-20.1605
+"371","MUS","2017","Mauritius",10.3,"High income",57.4977,-20.1605
+"372","MWI","2010","Malawi",50.7,"Low income",33.7703,-13.9899
+"373","MWI","2016","Malawi",51.5,"Low income",33.7703,-13.9899
+"374","MWI","2019","Malawi",50.7,"Low income",33.7703,-13.9899
+"375","MYS","2015","Malaysia",7.6,"Upper middle income",101.684,3.12433
+"376","MYS","2018","Malaysia",5.6,"Upper middle income",101.684,3.12433
+"377","MYS","2019","Malaysia",8.4,"Upper middle income",101.684,3.12433
+"378","NAM","2015","Namibia",17.4,"Upper middle income",17.0931,-22.5648
+"379","NER","2018","Niger",40.8,"Low income",2.1073,13.514
+"380","NGA","2018","Nigeria",40.1,"Lower middle income",7.48906,9.05804
+"381","NIC","2014","Nicaragua",29.6,"Lower middle income",-86.2734,12.1475
+"382","NIC","2016","Nicaragua",24.9,"Lower middle income",-86.2734,12.1475
+"383","NLD","2015","Netherlands",12.7,"High income",4.89095,52.3738
+"384","NLD","2016","Netherlands",13.2,"High income",4.89095,52.3738
+"385","NLD","2017","Netherlands",13.3,"High income",4.89095,52.3738
+"386","NLD","2018","Netherlands",13.2,"High income",4.89095,52.3738
+"387","NLD","2019","Netherlands",13.4,"High income",4.89095,52.3738
+"388","NLD","2020","Netherlands",14.4,"High income",4.89095,52.3738
+"389","NOR","2010","Norway",10.5,"High income",10.7387,59.9138
+"390","NOR","2011","Norway",10,"High income",10.7387,59.9138
+"391","NOR","2012","Norway",10.9,"High income",10.7387,59.9138
+"392","NOR","2013","Norway",10.9,"High income",10.7387,59.9138
+"393","NOR","2014","Norway",11.9,"High income",10.7387,59.9138
+"394","NOR","2015","Norway",12.2,"High income",10.7387,59.9138
+"395","NOR","2016","Norway",12.3,"High income",10.7387,59.9138
+"396","NOR","2017","Norway",12.9,"High income",10.7387,59.9138
+"397","NOR","2018","Norway",12.7,"High income",10.7387,59.9138
+"398","NOR","2019","Norway",12.7,"High income",10.7387,59.9138
+"399","NPL","2010","Nepal",25.2,"Lower middle income",85.3157,27.6939
+"400","PAK","2010","Pakistan",36.8,"Lower middle income",72.8,30.5167
+"401","PAK","2011","Pakistan",36.3,"Lower middle income",72.8,30.5167
+"402","PAK","2013","Pakistan",29.5,"Lower middle income",72.8,30.5167
+"403","PAK","2015","Pakistan",24.3,"Lower middle income",72.8,30.5167
+"404","PAK","2018","Pakistan",21.9,"Lower middle income",72.8,30.5167
+"405","PAN","2010","Panama",29.8,"High income",-79.5188,8.99427
+"406","PAN","2011","Panama",27.6,"High income",-79.5188,8.99427
+"407","PAN","2012","Panama",26.5,"High income",-79.5188,8.99427
+"408","PAN","2013","Panama",25.8,"High income",-79.5188,8.99427
+"409","PAN","2014","Panama",25.6,"High income",-79.5188,8.99427
+"410","PAN","2015","Panama",23,"High income",-79.5188,8.99427
+"411","PAN","2016","Panama",22.1,"High income",-79.5188,8.99427
+"412","PAN","2017","Panama",20.7,"High income",-79.5188,8.99427
+"413","PAN","2018","Panama",21.4,"High income",-79.5188,8.99427
+"414","PAN","2019","Panama",21.5,"High income",-79.5188,8.99427
+"415","PER","2010","Peru",30.8,"Upper middle income",-77.0465,-12.0931
+"416","PER","2011","Peru",27.8,"Upper middle income",-77.0465,-12.0931
+"417","PER","2012","Peru",25.8,"Upper middle income",-77.0465,-12.0931
+"418","PER","2013","Peru",23.9,"Upper middle income",-77.0465,-12.0931
+"419","PER","2014","Peru",22.7,"Upper middle income",-77.0465,-12.0931
+"420","PER","2015","Peru",21.8,"Upper middle income",-77.0465,-12.0931
+"421","PER","2016","Peru",20.7,"Upper middle income",-77.0465,-12.0931
+"422","PER","2017","Peru",21.7,"Upper middle income",-77.0465,-12.0931
+"423","PER","2018","Peru",20.5,"Upper middle income",-77.0465,-12.0931
+"424","PER","2019","Peru",20.2,"Upper middle income",-77.0465,-12.0931
+"425","PER","2020","Peru",30.1,"Upper middle income",-77.0465,-12.0931
+"426","PHL","2012","Philippines",25.2,"Lower middle income",121.035,14.5515
+"427","PHL","2015","Philippines",23.5,"Lower middle income",121.035,14.5515
+"428","PHL","2018","Philippines",16.7,"Lower middle income",121.035,14.5515
+"429","POL","2010","Poland",17.7,"High income",21.02,52.26
+"430","POL","2011","Poland",17.1,"High income",21.02,52.26
+"431","POL","2012","Poland",17.3,"High income",21.02,52.26
+"432","POL","2013","Poland",17,"High income",21.02,52.26
+"433","POL","2014","Poland",17.6,"High income",21.02,52.26
+"434","POL","2015","Poland",17.3,"High income",21.02,52.26
+"435","POL","2016","Poland",15,"High income",21.02,52.26
+"436","POL","2017","Poland",14.8,"High income",21.02,52.26
+"437","POL","2018","Poland",15.4,"High income",21.02,52.26
+"438","POL","2019","Poland",14.8,"High income",21.02,52.26
+"439","PRT","2010","Portugal",18,"High income",-9.13552,38.7072
+"440","PRT","2011","Portugal",17.9,"High income",-9.13552,38.7072
+"441","PRT","2012","Portugal",18.7,"High income",-9.13552,38.7072
+"442","PRT","2013","Portugal",19.5,"High income",-9.13552,38.7072
+"443","PRT","2014","Portugal",19.5,"High income",-9.13552,38.7072
+"444","PRT","2015","Portugal",19,"High income",-9.13552,38.7072
+"445","PRT","2016","Portugal",18.3,"High income",-9.13552,38.7072
+"446","PRT","2017","Portugal",17.3,"High income",-9.13552,38.7072
+"447","PRT","2018","Portugal",17.2,"High income",-9.13552,38.7072
+"448","PRT","2019","Portugal",16.2,"High income",-9.13552,38.7072
+"449","PRY","2010","Paraguay",39,"Upper middle income",-57.6362,-25.3005
+"450","PRY","2011","Paraguay",37,"Upper middle income",-57.6362,-25.3005
+"451","PRY","2012","Paraguay",31.4,"Upper middle income",-57.6362,-25.3005
+"452","PRY","2013","Paraguay",28,"Upper middle income",-57.6362,-25.3005
+"453","PRY","2014","Paraguay",27.2,"Upper middle income",-57.6362,-25.3005
+"454","PRY","2015","Paraguay",26.6,"Upper middle income",-57.6362,-25.3005
+"455","PRY","2016","Paraguay",28.9,"Upper middle income",-57.6362,-25.3005
+"456","PRY","2017","Paraguay",26.4,"Upper middle income",-57.6362,-25.3005
+"457","PRY","2018","Paraguay",24.2,"Upper middle income",-57.6362,-25.3005
+"458","PRY","2019","Paraguay",23.5,"Upper middle income",-57.6362,-25.3005
+"459","PRY","2020","Paraguay",26.9,"Upper middle income",-57.6362,-25.3005
+"460","PSE","2010","West Bank and Gaza",25.7,"Lower middle income",NA,NA
+"461","PSE","2011","West Bank and Gaza",25.8,"Lower middle income",NA,NA
+"462","PSE","2016","West Bank and Gaza",29.2,"Lower middle income",NA,NA
+"463","ROU","2010","Romania",22.3,"High income",26.0979,44.4479
+"464","ROU","2011","Romania",22.9,"High income",26.0979,44.4479
+"465","ROU","2012","Romania",23,"High income",26.0979,44.4479
+"466","ROU","2013","Romania",25.1,"High income",26.0979,44.4479
+"467","ROU","2014","Romania",25.4,"High income",26.0979,44.4479
+"468","ROU","2015","Romania",25.3,"High income",26.0979,44.4479
+"469","ROU","2016","Romania",23.6,"High income",26.0979,44.4479
+"470","ROU","2017","Romania",23.5,"High income",26.0979,44.4479
+"471","ROU","2018","Romania",23.8,"High income",26.0979,44.4479
+"472","ROU","2019","Romania",23.4,"High income",26.0979,44.4479
+"473","ROU","2020","Romania",22.6,"High income",26.0979,44.4479
+"474","RUS","2010","Russian Federation",12.5,"Upper middle income",37.6176,55.7558
+"475","RUS","2011","Russian Federation",12.7,"Upper middle income",37.6176,55.7558
+"476","RUS","2012","Russian Federation",10.7,"Upper middle income",37.6176,55.7558
+"477","RUS","2013","Russian Federation",10.8,"Upper middle income",37.6176,55.7558
+"478","RUS","2014","Russian Federation",11.2,"Upper middle income",37.6176,55.7558
+"479","RUS","2015","Russian Federation",13.3,"Upper middle income",37.6176,55.7558
+"480","RUS","2016","Russian Federation",13.3,"Upper middle income",37.6176,55.7558
+"481","RUS","2017","Russian Federation",13.2,"Upper middle income",37.6176,55.7558
+"482","RUS","2018","Russian Federation",12.6,"Upper middle income",37.6176,55.7558
+"483","RUS","2019","Russian Federation",12.3,"Upper middle income",37.6176,55.7558
+"484","RUS","2020","Russian Federation",12.1,"Upper middle income",37.6176,55.7558
+"485","RWA","2013","Rwanda",39.1,"Low income",30.0587,-1.95325
+"486","RWA","2016","Rwanda",38.2,"Low income",30.0587,-1.95325
+"487","SEN","2011","Senegal",46.7,"Lower middle income",-17.4734,14.7247
+"488","SLB","2012","Solomon Islands",12.7,"Lower middle income",159.949,-9.42676
+"489","SLE","2018","Sierra Leone",56.8,"Low income",-13.2134,8.4821
+"490","SLV","2020","El Salvador",26.2,"Lower middle income",-89.2073,13.7034
+"491","SRB","2010","Serbia",9.2,"Upper middle income",20.4656,44.8024
+"492","SRB","2012","Serbia",24.5,"Upper middle income",20.4656,44.8024
+"493","SRB","2013","Serbia",25,"Upper middle income",20.4656,44.8024
+"494","SRB","2014","Serbia",26.7,"Upper middle income",20.4656,44.8024
+"495","SRB","2015","Serbia",25.9,"Upper middle income",20.4656,44.8024
+"496","SRB","2016","Serbia",25.7,"Upper middle income",20.4656,44.8024
+"497","SRB","2017","Serbia",24.3,"Upper middle income",20.4656,44.8024
+"498","SRB","2018","Serbia",23.2,"Upper middle income",20.4656,44.8024
+"499","SRB","2019","Serbia",21.7,"Upper middle income",20.4656,44.8024
+"500","SSD","2016","South Sudan",82.3,"Low income",31.6,4.85
+"501","STP","2017","Sao Tome and Principe",66.7,"Lower middle income",6.6071,0.20618
+"502","SVK","2010","Slovak Republic",13,"High income",17.1073,48.1484
+"503","SVK","2011","Slovak Republic",13.2,"High income",17.1073,48.1484
+"504","SVK","2012","Slovak Republic",12.8,"High income",17.1073,48.1484
+"505","SVK","2013","Slovak Republic",12.6,"High income",17.1073,48.1484
+"506","SVK","2014","Slovak Republic",12.3,"High income",17.1073,48.1484
+"507","SVK","2015","Slovak Republic",12.7,"High income",17.1073,48.1484
+"508","SVK","2016","Slovak Republic",12.4,"High income",17.1073,48.1484
+"509","SVK","2017","Slovak Republic",12.2,"High income",17.1073,48.1484
+"510","SVK","2018","Slovak Republic",11.9,"High income",17.1073,48.1484
+"511","SVK","2019","Slovak Republic",11.4,"High income",17.1073,48.1484
+"512","SVN","2015","Slovenia",13.9,"High income",14.5044,46.0546
+"513","SVN","2016","Slovenia",13.3,"High income",14.5044,46.0546
+"514","SVN","2017","Slovenia",13.3,"High income",14.5044,46.0546
+"515","SVN","2018","Slovenia",12,"High income",14.5044,46.0546
+"516","SVN","2019","Slovenia",12.4,"High income",14.5044,46.0546
+"517","SVN","2020","Slovenia",11.7,"High income",14.5044,46.0546
+"518","SWE","2010","Sweden",15.4,"High income",18.0645,59.3327
+"519","SWE","2011","Sweden",15.2,"High income",18.0645,59.3327
+"520","SWE","2012","Sweden",16,"High income",18.0645,59.3327
+"521","SWE","2013","Sweden",15.6,"High income",18.0645,59.3327
+"522","SWE","2014","Sweden",16.3,"High income",18.0645,59.3327
+"523","SWE","2015","Sweden",16.2,"High income",18.0645,59.3327
+"524","SWE","2016","Sweden",15.8,"High income",18.0645,59.3327
+"525","SWE","2017","Sweden",16.4,"High income",18.0645,59.3327
+"526","SWE","2018","Sweden",17.1,"High income",18.0645,59.3327
+"527","SWE","2019","Sweden",16.1,"High income",18.0645,59.3327
+"528","SWE","2020","Sweden",15.7,"High income",18.0645,59.3327
+"529","SWZ","2016","Eswatini",58.9,"Lower middle income",31.4659,-26.5225
+"530","SYC","2013","Seychelles",39.3,"High income",55.4466,-4.6309
+"531","SYC","2018","Seychelles",25.3,"High income",55.4466,-4.6309
+"532","TCD","2018","Chad",42.3,"Low income",15.0445,12.1048
+"533","TGO","2011","Togo",58.7,"Low income",1.2255,6.1228
+"534","TGO","2015","Togo",55.1,"Low income",1.2255,6.1228
+"535","THA","2010","Thailand",16.4,"Upper middle income",100.521,13.7308
+"536","THA","2011","Thailand",13.2,"Upper middle income",100.521,13.7308
+"537","THA","2012","Thailand",12.6,"Upper middle income",100.521,13.7308
+"538","THA","2013","Thailand",10.9,"Upper middle income",100.521,13.7308
+"539","THA","2014","Thailand",10.5,"Upper middle income",100.521,13.7308
+"540","THA","2015","Thailand",7.2,"Upper middle income",100.521,13.7308
+"541","THA","2016","Thailand",8.6,"Upper middle income",100.521,13.7308
+"542","THA","2017","Thailand",7.9,"Upper middle income",100.521,13.7308
+"543","THA","2018","Thailand",9.8,"Upper middle income",100.521,13.7308
+"544","THA","2019","Thailand",6.2,"Upper middle income",100.521,13.7308
+"545","THA","2020","Thailand",6.8,"Upper middle income",100.521,13.7308
+"546","TJK","2013","Tajikistan",34.3,"Low income",68.7864,38.5878
+"547","TJK","2014","Tajikistan",32,"Low income",68.7864,38.5878
+"548","TJK","2015","Tajikistan",31.3,"Low income",68.7864,38.5878
+"549","TJK","2016","Tajikistan",30.3,"Low income",68.7864,38.5878
+"550","TJK","2017","Tajikistan",29.5,"Low income",68.7864,38.5878
+"551","TJK","2018","Tajikistan",27.4,"Low income",68.7864,38.5878
+"552","TJK","2019","Tajikistan",26.3,"Low income",68.7864,38.5878
+"553","TLS","2014","Timor-Leste",41.8,"Lower middle income",125.567,-8.56667
+"554","TUN","2010","Tunisia",20.5,"Lower middle income",10.21,36.7899
+"555","TUN","2015","Tunisia",15.2,"Lower middle income",10.21,36.7899
+"556","TUR","2010","Turkiye",16.1,NA,NA,NA
+"557","TUR","2011","Turkiye",16.3,NA,NA,NA
+"558","TUR","2012","Turkiye",15,NA,NA,NA
+"559","TUR","2013","Turkiye",15,NA,NA,NA
+"560","TUR","2014","Turkiye",14.7,NA,NA,NA
+"561","TUR","2015","Turkiye",14.3,NA,NA,NA
+"562","TUR","2016","Turkiye",13.5,NA,NA,NA
+"563","TUR","2017","Turkiye",13.9,NA,NA,NA
+"564","TUR","2018","Turkiye",14.4,NA,NA,NA
+"565","TUR","2019","Turkiye",15,NA,NA,NA
+"566","TUV","2010","Tuvalu",26.3,"Upper middle income",179.089567,-8.6314877
+"567","TZA","2011","Tanzania",28.2,"Lower middle income",35.7382,-6.17486
+"568","TZA","2017","Tanzania",26.4,"Lower middle income",35.7382,-6.17486
+"569","UGA","2012","Uganda",19.7,"Low income",32.5729,0.314269
+"570","UGA","2016","Uganda",21.4,"Low income",32.5729,0.314269
+"571","UGA","2019","Uganda",20.3,"Low income",32.5729,0.314269
+"572","UKR","2020","Ukraine",1.4,"Lower middle income",30.5038,50.4536
+"573","URY","2020","Uruguay",11.6,"High income",-56.0675,-34.8941
+"574","UZB","2010","Uzbekistan",17.7,"Lower middle income",69.269,41.3052
+"575","UZB","2011","Uzbekistan",16,"Lower middle income",69.269,41.3052
+"576","UZB","2012","Uzbekistan",15,"Lower middle income",69.269,41.3052
+"577","UZB","2013","Uzbekistan",14.1,"Lower middle income",69.269,41.3052
+"578","VEN","2010","Venezuela, RB",26.8,"Upper middle income",-69.8371,9.08165
+"579","VEN","2011","Venezuela, RB",27.4,"Upper middle income",-69.8371,9.08165
+"580","VEN","2012","Venezuela, RB",27.2,"Upper middle income",-69.8371,9.08165
+"581","VEN","2013","Venezuela, RB",29.4,"Upper middle income",-69.8371,9.08165
+"582","VEN","2014","Venezuela, RB",29.5,"Upper middle income",-69.8371,9.08165
+"583","VEN","2015","Venezuela, RB",33.1,"Upper middle income",-69.8371,9.08165
+"584","VNM","2010","Vietnam",20.7,"Lower middle income",105.825,21.0069
+"585","VNM","2012","Vietnam",17.2,"Lower middle income",105.825,21.0069
+"586","VNM","2014","Vietnam",13.5,"Lower middle income",105.825,21.0069
+"587","VNM","2016","Vietnam",9.8,"Lower middle income",105.825,21.0069
+"588","VNM","2018","Vietnam",6.7,"Lower middle income",105.825,21.0069
+"589","VUT","2020","Vanuatu",15.9,"Lower middle income",168.321,-17.7404
+"590","WSM","2013","Samoa",20.3,"Upper middle income",-171.752,-13.8314
+"591","XKX","2012","Kosovo",22.9,"Upper middle income",20.926,42.565
+"592","XKX","2013","Kosovo",17.6,"Upper middle income",20.926,42.565
+"593","XKX","2014","Kosovo",21.1,"Upper middle income",20.926,42.565
+"594","XKX","2015","Kosovo",17.6,"Upper middle income",20.926,42.565
+"595","YEM","2014","Yemen, Rep.",48.6,"Low income",44.2075,15.352
+"596","ZAF","2010","South Africa",53.2,"Upper middle income",28.1871,-25.746
+"597","ZAF","2014","South Africa",55.5,"Upper middle income",28.1871,-25.746
+"598","ZMB","2010","Zambia",54.7,"Lower middle income",28.2937,-15.3982
+"599","ZMB","2015","Zambia",54.4,"Lower middle income",28.2937,-15.3982
+"600","ZWE","2011","Zimbabwe",22.5,"Lower middle income",31.0672,-17.8312
+"601","ZWE","2017","Zimbabwe",30.4,"Lower middle income",31.0672,-17.8312
+"602","ZWE","2019","Zimbabwe",38.3,"Lower middle income",31.0672,-17.8312
