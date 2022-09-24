@@ -46,4 +46,4 @@ colSums(is.na(join))
 
 joint <- na.omit(join)
 
-write.csv(join, 'join.csv')
+write.csv(joint, 'joint.csv')
