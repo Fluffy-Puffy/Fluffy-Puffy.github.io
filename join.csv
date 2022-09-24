@@ -1,456 +1,456 @@
-"","iso3c","date","value","indicatorID","indicator","iso2c","country","date_ct","granularity","income_level","longitude","latitude"
-"1","AFG","2020",49.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AF","Afghanistan",2020-01-01,"annual","Low income",69.1761,34.5228
-"2","AFG","2016",51.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AF","Afghanistan",2016-01-01,"annual","Low income",69.1761,34.5228
-"3","AGO","2015",54,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AO","Angola",2015-01-01,"annual","Lower middle income",13.242,-8.81155
-"4","ALB","2020",43.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AL","Albania",2020-01-01,"annual","Upper middle income",19.8172,41.3317
-"5","ALB","2019",46.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AL","Albania",2019-01-01,"annual","Upper middle income",19.8172,41.3317
-"6","ALB","2018",49,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AL","Albania",2018-01-01,"annual","Upper middle income",19.8172,41.3317
-"7","ALB","2017",51.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AL","Albania",2017-01-01,"annual","Upper middle income",19.8172,41.3317
-"8","ARM","2020",19.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2020-01-01,"annual","Upper middle income",44.509,40.1596
-"9","ARM","2018",23.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2018-01-01,"annual","Upper middle income",44.509,40.1596
-"10","ARM","2017",25.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2017-01-01,"annual","Upper middle income",44.509,40.1596
-"11","ARM","2016",27.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2016-01-01,"annual","Upper middle income",44.509,40.1596
-"12","ARM","2015",29.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2015-01-01,"annual","Upper middle income",44.509,40.1596
-"13","ARM","2014",31.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2014-01-01,"annual","Upper middle income",44.509,40.1596
-"14","ARM","2013",30.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2013-01-01,"annual","Upper middle income",44.509,40.1596
-"15","ARM","2012",31.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2012-01-01,"annual","Upper middle income",44.509,40.1596
-"16","ARM","2011",33.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2011-01-01,"annual","Upper middle income",44.509,40.1596
-"17","ARM","2010",41.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AM","Armenia",2010-01-01,"annual","Upper middle income",44.509,40.1596
-"18","AUT","2020",17.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2020-01-01,"annual","High income",16.3798,48.2201
-"19","AUT","2019",16.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2019-01-01,"annual","High income",16.3798,48.2201
-"20","AUT","2018",17.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2018-01-01,"annual","High income",16.3798,48.2201
-"21","AUT","2017",18.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2017-01-01,"annual","High income",16.3798,48.2201
-"22","AUT","2016",18,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2016-01-01,"annual","High income",16.3798,48.2201
-"23","AUT","2015",18.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2015-01-01,"annual","High income",16.3798,48.2201
-"24","AUT","2014",19.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2014-01-01,"annual","High income",16.3798,48.2201
-"25","AUT","2013",18.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2013-01-01,"annual","High income",16.3798,48.2201
-"26","AUT","2012",18.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2012-01-01,"annual","High income",16.3798,48.2201
-"27","AUT","2011",19.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2011-01-01,"annual","High income",16.3798,48.2201
-"28","AUT","2010",18.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","AT","Austria",2010-01-01,"annual","High income",16.3798,48.2201
-"29","BDI","2013",64.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BI","Burundi",2013-01-01,"annual","Low income",29.3639,-3.3784
-"30","BEL","2020",18.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2020-01-01,"annual","High income",4.36761,50.8371
-"31","BEL","2019",19.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2019-01-01,"annual","High income",4.36761,50.8371
-"32","BEL","2018",20,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2018-01-01,"annual","High income",4.36761,50.8371
-"33","BEL","2017",20.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2017-01-01,"annual","High income",4.36761,50.8371
-"34","BEL","2016",20.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2016-01-01,"annual","High income",4.36761,50.8371
-"35","BEL","2015",21.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2015-01-01,"annual","High income",4.36761,50.8371
-"36","BEL","2014",21.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2014-01-01,"annual","High income",4.36761,50.8371
-"37","BEL","2013",20.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2013-01-01,"annual","High income",4.36761,50.8371
-"38","BEL","2012",21.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2012-01-01,"annual","High income",4.36761,50.8371
-"39","BEL","2011",21,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2011-01-01,"annual","High income",4.36761,50.8371
-"40","BEL","2010",20.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BE","Belgium",2010-01-01,"annual","High income",4.36761,50.8371
-"41","BGR","2020",32.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2020-01-01,"annual","Upper middle income",23.3238,42.7105
-"42","BGR","2019",32.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2019-01-01,"annual","Upper middle income",23.3238,42.7105
-"43","BGR","2018",32.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2018-01-01,"annual","Upper middle income",23.3238,42.7105
-"44","BGR","2017",38.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2017-01-01,"annual","Upper middle income",23.3238,42.7105
-"45","BGR","2016",40.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2016-01-01,"annual","Upper middle income",23.3238,42.7105
-"46","BGR","2015",41.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2015-01-01,"annual","Upper middle income",23.3238,42.7105
-"47","BGR","2014",40.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2014-01-01,"annual","Upper middle income",23.3238,42.7105
-"48","BGR","2013",48,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2013-01-01,"annual","Upper middle income",23.3238,42.7105
-"49","BGR","2012",49.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2012-01-01,"annual","Upper middle income",23.3238,42.7105
-"50","BGR","2011",49.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2011-01-01,"annual","Upper middle income",23.3238,42.7105
-"51","BGR","2010",49.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BG","Bulgaria",2010-01-01,"annual","Upper middle income",23.3238,42.7105
-"52","BTN","2017",5.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BT","Bhutan",2017-01-01,"annual","Lower middle income",89.6177,27.5768
-"53","BTN","2012",12.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","BT","Bhutan",2012-01-01,"annual","Lower middle income",89.6177,27.5768
-"54","CHL","2017",20.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CL","Chile",2017-01-01,"annual","High income",-70.6475,-33.475
-"55","CHL","2015",20.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CL","Chile",2015-01-01,"annual","High income",-70.6475,-33.475
-"56","CHL","2013",20.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CL","Chile",2013-01-01,"annual","High income",-70.6475,-33.475
-"57","CHL","2011",24.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CL","Chile",2011-01-01,"annual","High income",-70.6475,-33.475
-"58","COL","2020",18.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2020-01-01,"annual","Upper middle income",-74.082,4.60987
-"59","COL","2019",17.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2019-01-01,"annual","Upper middle income",-74.082,4.60987
-"60","COL","2018",19.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2018-01-01,"annual","Upper middle income",-74.082,4.60987
-"61","COL","2016",17.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2016-01-01,"annual","Upper middle income",-74.082,4.60987
-"62","COL","2015",19.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2015-01-01,"annual","Upper middle income",-74.082,4.60987
-"63","COL","2014",21.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2014-01-01,"annual","Upper middle income",-74.082,4.60987
-"64","COL","2013",24.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2013-01-01,"annual","Upper middle income",-74.082,4.60987
-"65","COL","2012",26.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2012-01-01,"annual","Upper middle income",-74.082,4.60987
-"66","COL","2011",28.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2011-01-01,"annual","Upper middle income",-74.082,4.60987
-"67","COL","2010",29.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CO","Colombia",2010-01-01,"annual","Upper middle income",-74.082,4.60987
-"68","CRI","2019",20.715601092999,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2019-01-01,"annual","Upper middle income",-84.0089,9.63701
-"69","CRI","2018",23.6210876691913,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2018-01-01,"annual","Upper middle income",-84.0089,9.63701
-"70","CRI","2017",23.0765411694186,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2017-01-01,"annual","Upper middle income",-84.0089,9.63701
-"71","CRI","2016",25.0396719237987,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2016-01-01,"annual","Upper middle income",-84.0089,9.63701
-"72","CRI","2015",26.1669480887656,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2015-01-01,"annual","Upper middle income",-84.0089,9.63701
-"73","CRI","2014",25.7069427635349,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2014-01-01,"annual","Upper middle income",-84.0089,9.63701
-"74","CRI","2013",25.3472112211607,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2013-01-01,"annual","Upper middle income",-84.0089,9.63701
-"75","CRI","2012",26.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2012-01-01,"annual","Upper middle income",-84.0089,9.63701
-"76","CRI","2011",28.79957923639,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2011-01-01,"annual","Upper middle income",-84.0089,9.63701
-"77","CRI","2010",30.9422032877302,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CR","Costa Rica",2010-01-01,"annual","Upper middle income",-84.0089,9.63701
-"78","CYP","2020",21.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2020-01-01,"annual","High income",33.3736,35.1676
-"79","CYP","2019",22.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2019-01-01,"annual","High income",33.3736,35.1676
-"80","CYP","2018",23.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2018-01-01,"annual","High income",33.3736,35.1676
-"81","CYP","2017",25.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2017-01-01,"annual","High income",33.3736,35.1676
-"82","CYP","2016",27.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2016-01-01,"annual","High income",33.3736,35.1676
-"83","CYP","2015",28.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2015-01-01,"annual","High income",33.3736,35.1676
-"84","CYP","2014",27.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2014-01-01,"annual","High income",33.3736,35.1676
-"85","CYP","2013",27.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2013-01-01,"annual","High income",33.3736,35.1676
-"86","CYP","2012",27.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2012-01-01,"annual","High income",33.3736,35.1676
-"87","CYP","2011",24.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2011-01-01,"annual","High income",33.3736,35.1676
-"88","CYP","2010",24.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CY","Cyprus",2010-01-01,"annual","High income",33.3736,35.1676
-"89","CZE","2020",11.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2020-01-01,"annual","High income",14.4205,50.0878
-"90","CZE","2019",12.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2019-01-01,"annual","High income",14.4205,50.0878
-"91","CZE","2018",12.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2018-01-01,"annual","High income",14.4205,50.0878
-"92","CZE","2017",12.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2017-01-01,"annual","High income",14.4205,50.0878
-"93","CZE","2016",13.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2016-01-01,"annual","High income",14.4205,50.0878
-"94","CZE","2015",14,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2015-01-01,"annual","High income",14.4205,50.0878
-"95","CZE","2014",14.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2014-01-01,"annual","High income",14.4205,50.0878
-"96","CZE","2013",14.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2013-01-01,"annual","High income",14.4205,50.0878
-"97","CZE","2012",15.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2012-01-01,"annual","High income",14.4205,50.0878
-"98","CZE","2011",15.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2011-01-01,"annual","High income",14.4205,50.0878
-"99","CZE","2010",14.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","CZ","Czech Republic",2010-01-01,"annual","High income",14.4205,50.0878
-"100","DEU","2020",24,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2020-01-01,"annual","High income",13.4115,52.5235
-"101","DEU","2019",17.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2019-01-01,"annual","High income",13.4115,52.5235
-"102","DEU","2018",18.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2018-01-01,"annual","High income",13.4115,52.5235
-"103","DEU","2017",19,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2017-01-01,"annual","High income",13.4115,52.5235
-"104","DEU","2016",19.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2016-01-01,"annual","High income",13.4115,52.5235
-"105","DEU","2015",20,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2015-01-01,"annual","High income",13.4115,52.5235
-"106","DEU","2014",20.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2014-01-01,"annual","High income",13.4115,52.5235
-"107","DEU","2013",20.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2013-01-01,"annual","High income",13.4115,52.5235
-"108","DEU","2012",19.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2012-01-01,"annual","High income",13.4115,52.5235
-"109","DEU","2011",19.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2011-01-01,"annual","High income",13.4115,52.5235
-"110","DEU","2010",19.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DE","Germany",2010-01-01,"annual","High income",13.4115,52.5235
-"111","DNK","2020",15.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2020-01-01,"annual","High income",12.5681,55.6763
-"112","DNK","2019",16.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2019-01-01,"annual","High income",12.5681,55.6763
-"113","DNK","2018",17.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2018-01-01,"annual","High income",12.5681,55.6763
-"114","DNK","2017",17.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2017-01-01,"annual","High income",12.5681,55.6763
-"115","DNK","2016",16.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2016-01-01,"annual","High income",12.5681,55.6763
-"116","DNK","2015",17.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2015-01-01,"annual","High income",12.5681,55.6763
-"117","DNK","2014",17.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2014-01-01,"annual","High income",12.5681,55.6763
-"118","DNK","2013",18.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2013-01-01,"annual","High income",12.5681,55.6763
-"119","DNK","2012",17.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2012-01-01,"annual","High income",12.5681,55.6763
-"120","DNK","2011",17.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2011-01-01,"annual","High income",12.5681,55.6763
-"121","DNK","2010",18.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DK","Denmark",2010-01-01,"annual","High income",12.5681,55.6763
-"122","DOM","2019",16.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2019-01-01,"annual","Upper middle income",-69.8908,18.479
-"123","DOM","2018",18.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2018-01-01,"annual","Upper middle income",-69.8908,18.479
-"124","DOM","2017",20.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2017-01-01,"annual","Upper middle income",-69.8908,18.479
-"125","DOM","2016",23.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2016-01-01,"annual","Upper middle income",-69.8908,18.479
-"126","DOM","2015",25.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2015-01-01,"annual","Upper middle income",-69.8908,18.479
-"127","DOM","2014",29.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2014-01-01,"annual","Upper middle income",-69.8908,18.479
-"128","DOM","2013",33.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2013-01-01,"annual","Upper middle income",-69.8908,18.479
-"129","DOM","2012",34.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2012-01-01,"annual","Upper middle income",-69.8908,18.479
-"130","DOM","2011",34.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2011-01-01,"annual","Upper middle income",-69.8908,18.479
-"131","DOM","2010",35.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","DO","Dominican Republic",2010-01-01,"annual","Upper middle income",-69.8908,18.479
-"132","ECU","2019",38.13,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2019-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"133","ECU","2018",37.86,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2018-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"134","ECU","2017",34.59,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2017-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"135","ECU","2016",35.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2016-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"136","ECU","2015",34.95,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2015-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"137","ECU","2014",37.37,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2014-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"138","ECU","2013",38.66,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2013-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"139","ECU","2012",37.83,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2012-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"140","ECU","2011",40.71,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2011-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"141","ECU","2010",46.08,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EC","Ecuador",2010-01-01,"annual","Upper middle income",-78.5243,-0.229498
-"142","ESP","2020",26.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2020-01-01,"annual","High income",-3.70327,40.4167
-"143","ESP","2019",25.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2019-01-01,"annual","High income",-3.70327,40.4167
-"144","ESP","2018",26.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2018-01-01,"annual","High income",-3.70327,40.4167
-"145","ESP","2017",26.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2017-01-01,"annual","High income",-3.70327,40.4167
-"146","ESP","2016",27.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2016-01-01,"annual","High income",-3.70327,40.4167
-"147","ESP","2015",28.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2015-01-01,"annual","High income",-3.70327,40.4167
-"148","ESP","2014",29.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2014-01-01,"annual","High income",-3.70327,40.4167
-"149","ESP","2013",27.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2013-01-01,"annual","High income",-3.70327,40.4167
-"150","ESP","2012",27.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2012-01-01,"annual","High income",-3.70327,40.4167
-"151","ESP","2011",26.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2011-01-01,"annual","High income",-3.70327,40.4167
-"152","ESP","2010",26.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ES","Spain",2010-01-01,"annual","High income",-3.70327,40.4167
-"153","EST","2020",23.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2020-01-01,"annual","High income",24.7586,59.4392
-"154","EST","2019",24.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2019-01-01,"annual","High income",24.7586,59.4392
-"155","EST","2018",24.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2018-01-01,"annual","High income",24.7586,59.4392
-"156","EST","2017",23.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2017-01-01,"annual","High income",24.7586,59.4392
-"157","EST","2016",24.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2016-01-01,"annual","High income",24.7586,59.4392
-"158","EST","2015",24.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2015-01-01,"annual","High income",24.7586,59.4392
-"159","EST","2014",26,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2014-01-01,"annual","High income",24.7586,59.4392
-"160","EST","2013",23.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2013-01-01,"annual","High income",24.7586,59.4392
-"161","EST","2012",23.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2012-01-01,"annual","High income",24.7586,59.4392
-"162","EST","2011",23.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2011-01-01,"annual","High income",24.7586,59.4392
-"163","EST","2010",21.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","EE","Estonia",2010-01-01,"annual","High income",24.7586,59.4392
-"164","FIN","2020",16,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2020-01-01,"annual","High income",24.9525,60.1608
-"165","FIN","2019",15.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2019-01-01,"annual","High income",24.9525,60.1608
-"166","FIN","2018",16.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2018-01-01,"annual","High income",24.9525,60.1608
-"167","FIN","2017",15.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2017-01-01,"annual","High income",24.9525,60.1608
-"168","FIN","2016",16.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2016-01-01,"annual","High income",24.9525,60.1608
-"169","FIN","2015",16.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2015-01-01,"annual","High income",24.9525,60.1608
-"170","FIN","2014",17.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2014-01-01,"annual","High income",24.9525,60.1608
-"171","FIN","2013",16,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2013-01-01,"annual","High income",24.9525,60.1608
-"172","FIN","2012",17.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2012-01-01,"annual","High income",24.9525,60.1608
-"173","FIN","2011",17.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2011-01-01,"annual","High income",24.9525,60.1608
-"174","FIN","2010",16.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FI","Finland",2010-01-01,"annual","High income",24.9525,60.1608
-"175","FRA","2020",18.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2020-01-01,"annual","High income",2.35097,48.8566
-"176","FRA","2019",17.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2019-01-01,"annual","High income",2.35097,48.8566
-"177","FRA","2018",17.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2018-01-01,"annual","High income",2.35097,48.8566
-"178","FRA","2017",17,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2017-01-01,"annual","High income",2.35097,48.8566
-"179","FRA","2016",18.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2016-01-01,"annual","High income",2.35097,48.8566
-"180","FRA","2015",17.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2015-01-01,"annual","High income",2.35097,48.8566
-"181","FRA","2014",18.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2014-01-01,"annual","High income",2.35097,48.8566
-"182","FRA","2013",18.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2013-01-01,"annual","High income",2.35097,48.8566
-"183","FRA","2012",19.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2012-01-01,"annual","High income",2.35097,48.8566
-"184","FRA","2011",19.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2011-01-01,"annual","High income",2.35097,48.8566
-"185","FRA","2010",19.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","FR","France",2010-01-01,"annual","High income",2.35097,48.8566
-"186","GHA","2018",47.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GH","Ghana",2018-01-01,"annual","Lower middle income",-0.20795,5.57045
-"187","GHA","2016",45.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GH","Ghana",2016-01-01,"annual","Lower middle income",-0.20795,5.57045
-"188","GHA","2011",55,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GH","Ghana",2011-01-01,"annual","Lower middle income",-0.20795,5.57045
-"189","GHA","2010",42.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GH","Ghana",2010-01-01,"annual","Lower middle income",-0.20795,5.57045
-"190","GNB","2014",57.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GW","Guinea-Bissau",2014-01-01,"annual","Low income",-15.1804,11.8037
-"191","GNB","2010",65.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GW","Guinea-Bissau",2010-01-01,"annual","Low income",-15.1804,11.8037
-"192","GRC","2020",28.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2020-01-01,"annual","High income",23.7166,37.9792
-"193","GRC","2019",30,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2019-01-01,"annual","High income",23.7166,37.9792
-"194","GRC","2018",31.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2018-01-01,"annual","High income",23.7166,37.9792
-"195","GRC","2017",34.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2017-01-01,"annual","High income",23.7166,37.9792
-"196","GRC","2016",35.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2016-01-01,"annual","High income",23.7166,37.9792
-"197","GRC","2015",35.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2015-01-01,"annual","High income",23.7166,37.9792
-"198","GRC","2014",36,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2014-01-01,"annual","High income",23.7166,37.9792
-"199","GRC","2013",35.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2013-01-01,"annual","High income",23.7166,37.9792
-"200","GRC","2012",34.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2012-01-01,"annual","High income",23.7166,37.9792
-"201","GRC","2011",31,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2011-01-01,"annual","High income",23.7166,37.9792
-"202","GRC","2010",27.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GR","Greece",2010-01-01,"annual","High income",23.7166,37.9792
-"203","GTM","2014",61.62,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","GT","Guatemala",2014-01-01,"annual","Upper middle income",-90.5328,14.6248
-"204","HND","2013",74.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HN","Honduras",2013-01-01,"annual","Lower middle income",-87.4667,15.1333
-"205","HRV","2020",23.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2020-01-01,"annual","High income",15.9614,45.8069
-"206","HRV","2019",23.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2019-01-01,"annual","High income",15.9614,45.8069
-"207","HRV","2018",24.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2018-01-01,"annual","High income",15.9614,45.8069
-"208","HRV","2017",26.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2017-01-01,"annual","High income",15.9614,45.8069
-"209","HRV","2016",27.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2016-01-01,"annual","High income",15.9614,45.8069
-"210","HRV","2015",29.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2015-01-01,"annual","High income",15.9614,45.8069
-"211","HRV","2014",29.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2014-01-01,"annual","High income",15.9614,45.8069
-"212","HRV","2013",29.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2013-01-01,"annual","High income",15.9614,45.8069
-"213","HRV","2012",32.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2012-01-01,"annual","High income",15.9614,45.8069
-"214","HRV","2011",32.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2011-01-01,"annual","High income",15.9614,45.8069
-"215","HRV","2010",31.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HR","Croatia",2010-01-01,"annual","High income",15.9614,45.8069
-"216","HUN","2020",17.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2020-01-01,"annual","High income",19.0408,47.4984
-"217","HUN","2019",18.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2019-01-01,"annual","High income",19.0408,47.4984
-"218","HUN","2018",19.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2018-01-01,"annual","High income",19.0408,47.4984
-"219","HUN","2017",25.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2017-01-01,"annual","High income",19.0408,47.4984
-"220","HUN","2016",26.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2016-01-01,"annual","High income",19.0408,47.4984
-"221","HUN","2015",28.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2015-01-01,"annual","High income",19.0408,47.4984
-"222","HUN","2014",31.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2014-01-01,"annual","High income",19.0408,47.4984
-"223","HUN","2013",34.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2013-01-01,"annual","High income",19.0408,47.4984
-"224","HUN","2012",33.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2012-01-01,"annual","High income",19.0408,47.4984
-"225","HUN","2011",31.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2011-01-01,"annual","High income",19.0408,47.4984
-"226","HUN","2010",29.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","HU","Hungary",2010-01-01,"annual","High income",19.0408,47.4984
-"227","IRL","2020",20.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2020-01-01,"annual","High income",-6.26749,53.3441
-"228","IRL","2019",20.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2019-01-01,"annual","High income",-6.26749,53.3441
-"229","IRL","2018",21.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2018-01-01,"annual","High income",-6.26749,53.3441
-"230","IRL","2017",22.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2017-01-01,"annual","High income",-6.26749,53.3441
-"231","IRL","2016",24.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2016-01-01,"annual","High income",-6.26749,53.3441
-"232","IRL","2015",26.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2015-01-01,"annual","High income",-6.26749,53.3441
-"233","IRL","2014",27.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2014-01-01,"annual","High income",-6.26749,53.3441
-"234","IRL","2013",29.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2013-01-01,"annual","High income",-6.26749,53.3441
-"235","IRL","2012",30.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2012-01-01,"annual","High income",-6.26749,53.3441
-"236","IRL","2011",29.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2011-01-01,"annual","High income",-6.26749,53.3441
-"237","IRL","2010",27.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IE","Ireland",2010-01-01,"annual","High income",-6.26749,53.3441
-"238","ISL","2018",11,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2018-01-01,"annual","High income",-21.8952,64.1353
-"239","ISL","2017",12.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2017-01-01,"annual","High income",-21.8952,64.1353
-"240","ISL","2016",12.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2016-01-01,"annual","High income",-21.8952,64.1353
-"241","ISL","2015",12.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2015-01-01,"annual","High income",-21.8952,64.1353
-"242","ISL","2014",11.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2014-01-01,"annual","High income",-21.8952,64.1353
-"243","ISL","2013",13,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2013-01-01,"annual","High income",-21.8952,64.1353
-"244","ISL","2012",12.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2012-01-01,"annual","High income",-21.8952,64.1353
-"245","ISL","2011",13.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2011-01-01,"annual","High income",-21.8952,64.1353
-"246","ISL","2010",13.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IS","Iceland",2010-01-01,"annual","High income",-21.8952,64.1353
-"247","ITA","2019",25.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2019-01-01,"annual","High income",12.4823,41.8955
-"248","ITA","2018",27.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2018-01-01,"annual","High income",12.4823,41.8955
-"249","ITA","2017",28.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2017-01-01,"annual","High income",12.4823,41.8955
-"250","ITA","2016",30,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2016-01-01,"annual","High income",12.4823,41.8955
-"251","ITA","2015",28.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2015-01-01,"annual","High income",12.4823,41.8955
-"252","ITA","2014",28.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2014-01-01,"annual","High income",12.4823,41.8955
-"253","ITA","2013",28.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2013-01-01,"annual","High income",12.4823,41.8955
-"254","ITA","2012",29.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2012-01-01,"annual","High income",12.4823,41.8955
-"255","ITA","2011",28.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2011-01-01,"annual","High income",12.4823,41.8955
-"256","ITA","2010",25,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","IT","Italy",2010-01-01,"annual","High income",12.4823,41.8955
-"257","LKA","2019",16,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LK","Sri Lanka",2019-01-01,"annual","Lower middle income",79.8528,6.92148
-"258","LKA","2016",2.37,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LK","Sri Lanka",2016-01-01,"annual","Lower middle income",79.8528,6.92148
-"259","LTU","2020",24.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2020-01-01,"annual","High income",25.2799,54.6896
-"260","LTU","2019",26.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2019-01-01,"annual","High income",25.2799,54.6896
-"261","LTU","2018",28.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2018-01-01,"annual","High income",25.2799,54.6896
-"262","LTU","2017",29.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2017-01-01,"annual","High income",25.2799,54.6896
-"263","LTU","2016",30.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2016-01-01,"annual","High income",25.2799,54.6896
-"264","LTU","2015",29.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2015-01-01,"annual","High income",25.2799,54.6896
-"265","LTU","2014",27.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2014-01-01,"annual","High income",25.2799,54.6896
-"266","LTU","2013",30.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2013-01-01,"annual","High income",25.2799,54.6896
-"267","LTU","2012",32.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2012-01-01,"annual","High income",25.2799,54.6896
-"268","LTU","2011",33.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2011-01-01,"annual","High income",25.2799,54.6896
-"269","LTU","2010",34,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LT","Lithuania",2010-01-01,"annual","High income",25.2799,54.6896
-"270","LUX","2020",20.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2020-01-01,"annual","High income",6.1296,49.61
-"271","LUX","2019",20.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2019-01-01,"annual","High income",6.1296,49.61
-"272","LUX","2018",21.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2018-01-01,"annual","High income",6.1296,49.61
-"273","LUX","2017",21.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2017-01-01,"annual","High income",6.1296,49.61
-"274","LUX","2016",19.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2016-01-01,"annual","High income",6.1296,49.61
-"275","LUX","2015",18.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2015-01-01,"annual","High income",6.1296,49.61
-"276","LUX","2014",19,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2014-01-01,"annual","High income",6.1296,49.61
-"277","LUX","2013",19,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2013-01-01,"annual","High income",6.1296,49.61
-"278","LUX","2012",18.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2012-01-01,"annual","High income",6.1296,49.61
-"279","LUX","2011",16.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2011-01-01,"annual","High income",6.1296,49.61
-"280","LUX","2010",17.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LU","Luxembourg",2010-01-01,"annual","High income",6.1296,49.61
-"281","LVA","2020",26,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2020-01-01,"annual","High income",24.1048,56.9465
-"282","LVA","2019",27.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2019-01-01,"annual","High income",24.1048,56.9465
-"283","LVA","2018",28.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2018-01-01,"annual","High income",24.1048,56.9465
-"284","LVA","2017",28.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2017-01-01,"annual","High income",24.1048,56.9465
-"285","LVA","2016",28.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2016-01-01,"annual","High income",24.1048,56.9465
-"286","LVA","2015",30.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2015-01-01,"annual","High income",24.1048,56.9465
-"287","LVA","2014",32.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2014-01-01,"annual","High income",24.1048,56.9465
-"288","LVA","2013",35.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2013-01-01,"annual","High income",24.1048,56.9465
-"289","LVA","2012",36.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2012-01-01,"annual","High income",24.1048,56.9465
-"290","LVA","2011",40.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2011-01-01,"annual","High income",24.1048,56.9465
-"291","LVA","2010",38.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","LV","Latvia",2010-01-01,"annual","High income",24.1048,56.9465
-"292","MAR","2014",8.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MA","Morocco",2014-01-01,"annual","Lower middle income",-6.8704,33.9905
-"293","MAR","2011",9.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MA","Morocco",2011-01-01,"annual","Lower middle income",-6.8704,33.9905
-"294","MDV","2016",28.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MV","Maldives",2016-01-01,"annual","Upper middle income",73.5109,4.1742
-"295","MEX","2020",43.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MX","Mexico",2020-01-01,"annual","Upper middle income",-99.1276,19.427
-"296","MEX","2018",41.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MX","Mexico",2018-01-01,"annual","Upper middle income",-99.1276,19.427
-"297","MEX","2016",43.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MX","Mexico",2016-01-01,"annual","Upper middle income",-99.1276,19.427
-"298","MEX","2014",46.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MX","Mexico",2014-01-01,"annual","Upper middle income",-99.1276,19.427
-"299","MEX","2012",45.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MX","Mexico",2012-01-01,"annual","Upper middle income",-99.1276,19.427
-"300","MEX","2010",46.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MX","Mexico",2010-01-01,"annual","Upper middle income",-99.1276,19.427
-"301","MKD","2019",39.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2019-01-01,"annual","Upper middle income",21.4361,42.0024
-"302","MKD","2018",41.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2018-01-01,"annual","Upper middle income",21.4361,42.0024
-"303","MKD","2017",41.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2017-01-01,"annual","Upper middle income",21.4361,42.0024
-"304","MKD","2016",41.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2016-01-01,"annual","Upper middle income",21.4361,42.0024
-"305","MKD","2015",41.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2015-01-01,"annual","Upper middle income",21.4361,42.0024
-"306","MKD","2014",43.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2014-01-01,"annual","Upper middle income",21.4361,42.0024
-"307","MKD","2013",48.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2013-01-01,"annual","Upper middle income",21.4361,42.0024
-"308","MKD","2012",50.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2012-01-01,"annual","Upper middle income",21.4361,42.0024
-"309","MKD","2011",50.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2011-01-01,"annual","Upper middle income",21.4361,42.0024
-"310","MKD","2010",47.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MK","North Macedonia",2010-01-01,"annual","Upper middle income",21.4361,42.0024
-"311","MLI","2016",39.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ML","Mali",2016-01-01,"annual","Low income",-7.50034,13.5667
-"312","MLT","2020",19,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2020-01-01,"annual","High income",14.5189,35.9042
-"313","MLT","2019",20.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2019-01-01,"annual","High income",14.5189,35.9042
-"314","MLT","2018",19,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2018-01-01,"annual","High income",14.5189,35.9042
-"315","MLT","2017",19.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2017-01-01,"annual","High income",14.5189,35.9042
-"316","MLT","2016",20.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2016-01-01,"annual","High income",14.5189,35.9042
-"317","MLT","2015",23,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2015-01-01,"annual","High income",14.5189,35.9042
-"318","MLT","2014",23.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2014-01-01,"annual","High income",14.5189,35.9042
-"319","MLT","2013",24.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2013-01-01,"annual","High income",14.5189,35.9042
-"320","MLT","2012",23.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2012-01-01,"annual","High income",14.5189,35.9042
-"321","MLT","2011",22.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2011-01-01,"annual","High income",14.5189,35.9042
-"322","MLT","2010",21.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MT","Malta",2010-01-01,"annual","High income",14.5189,35.9042
-"323","MNE","2020",30.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2020-01-01,"annual","Upper middle income",19.2595,42.4602
-"324","MNE","2019",30.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2019-01-01,"annual","Upper middle income",19.2595,42.4602
-"325","MNE","2018",31.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2018-01-01,"annual","Upper middle income",19.2595,42.4602
-"326","MNE","2017",33.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2017-01-01,"annual","Upper middle income",19.2595,42.4602
-"327","MNE","2016",34.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2016-01-01,"annual","Upper middle income",19.2595,42.4602
-"328","MNE","2015",35.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2015-01-01,"annual","Upper middle income",19.2595,42.4602
-"329","MNE","2014",37.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2014-01-01,"annual","Upper middle income",19.2595,42.4602
-"330","MNE","2013",37.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ME","Montenegro",2013-01-01,"annual","Upper middle income",19.2595,42.4602
-"331","MOZ","2014",53,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","MZ","Mozambique",2014-01-01,"annual","Low income",32.5713,-25.9664
-"332","NAM","2015",43.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NA","Namibia",2015-01-01,"annual","Upper middle income",17.0931,-22.5648
-"333","NGA","2017",53.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NG","Nigeria",2017-01-01,"annual","Lower middle income",7.48906,9.05804
-"334","NLD","2020",16.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2020-01-01,"annual","High income",4.89095,52.3738
-"335","NLD","2019",16.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2019-01-01,"annual","High income",4.89095,52.3738
-"336","NLD","2018",16.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2018-01-01,"annual","High income",4.89095,52.3738
-"337","NLD","2017",17,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2017-01-01,"annual","High income",4.89095,52.3738
-"338","NLD","2016",16.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2016-01-01,"annual","High income",4.89095,52.3738
-"339","NLD","2015",16.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2015-01-01,"annual","High income",4.89095,52.3738
-"340","NLD","2014",16.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2014-01-01,"annual","High income",4.89095,52.3738
-"341","NLD","2013",15.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2013-01-01,"annual","High income",4.89095,52.3738
-"342","NLD","2012",15,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2012-01-01,"annual","High income",4.89095,52.3738
-"343","NLD","2011",15.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2011-01-01,"annual","High income",4.89095,52.3738
-"344","NLD","2010",15.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NL","Netherlands",2010-01-01,"annual","High income",4.89095,52.3738
-"345","NOR","2020",15.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2020-01-01,"annual","High income",10.7387,59.9138
-"346","NOR","2019",16.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2019-01-01,"annual","High income",10.7387,59.9138
-"347","NOR","2018",16.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2018-01-01,"annual","High income",10.7387,59.9138
-"348","NOR","2017",16,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2017-01-01,"annual","High income",10.7387,59.9138
-"349","NOR","2016",15.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2016-01-01,"annual","High income",10.7387,59.9138
-"350","NOR","2015",15,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2015-01-01,"annual","High income",10.7387,59.9138
-"351","NOR","2014",13.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2014-01-01,"annual","High income",10.7387,59.9138
-"352","NOR","2013",14.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2013-01-01,"annual","High income",10.7387,59.9138
-"353","NOR","2012",13.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2012-01-01,"annual","High income",10.7387,59.9138
-"354","NOR","2011",14.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2011-01-01,"annual","High income",10.7387,59.9138
-"355","NOR","2010",14.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NO","Norway",2010-01-01,"annual","High income",10.7387,59.9138
-"356","NPL","2019",17.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NP","Nepal",2019-01-01,"annual","Lower middle income",85.3157,27.6939
-"357","NPL","2014",30.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NP","Nepal",2014-01-01,"annual","Lower middle income",85.3157,27.6939
-"358","NPL","2011",39.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","NP","Nepal",2011-01-01,"annual","Lower middle income",85.3157,27.6939
-"359","PAK","2014",38.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PK","Pakistan",2014-01-01,"annual","Lower middle income",72.8,30.5167
-"360","PAK","2012",40.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PK","Pakistan",2012-01-01,"annual","Lower middle income",72.8,30.5167
-"361","PAK","2010",44.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PK","Pakistan",2010-01-01,"annual","Lower middle income",72.8,30.5167
-"362","PAN","2017",19.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PA","Panama",2017-01-01,"annual","High income",-79.5188,8.99427
-"363","POL","2020",17.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2020-01-01,"annual","High income",21.02,52.26
-"364","POL","2019",18.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2019-01-01,"annual","High income",21.02,52.26
-"365","POL","2018",18.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2018-01-01,"annual","High income",21.02,52.26
-"366","POL","2017",19.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2017-01-01,"annual","High income",21.02,52.26
-"367","POL","2016",21.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2016-01-01,"annual","High income",21.02,52.26
-"368","POL","2015",23.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2015-01-01,"annual","High income",21.02,52.26
-"369","POL","2014",24.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2014-01-01,"annual","High income",21.02,52.26
-"370","POL","2013",25.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2013-01-01,"annual","High income",21.02,52.26
-"371","POL","2012",26.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2012-01-01,"annual","High income",21.02,52.26
-"372","POL","2011",27.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2011-01-01,"annual","High income",21.02,52.26
-"373","POL","2010",27.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PL","Poland",2010-01-01,"annual","High income",21.02,52.26
-"374","PRY","2020",24.93,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PY","Paraguay",2020-01-01,"annual","Upper middle income",-57.6362,-25.3005
-"375","PRY","2019",26.75,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PY","Paraguay",2019-01-01,"annual","Upper middle income",-57.6362,-25.3005
-"376","PRY","2018",29.57,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PY","Paraguay",2018-01-01,"annual","Upper middle income",-57.6362,-25.3005
-"377","PRY","2017",30.55,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PY","Paraguay",2017-01-01,"annual","Upper middle income",-57.6362,-25.3005
-"378","PRY","2016",34.28,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PY","Paraguay",2016-01-01,"annual","Upper middle income",-57.6362,-25.3005
-"379","PSE","2016",24,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","PS","West Bank and Gaza",2016-01-01,"annual","Lower middle income",NA,NA
-"380","ROU","2020",30.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2020-01-01,"annual","High income",26.0979,44.4479
-"381","ROU","2019",31.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2019-01-01,"annual","High income",26.0979,44.4479
-"382","ROU","2018",32.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2018-01-01,"annual","High income",26.0979,44.4479
-"383","ROU","2017",35.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2017-01-01,"annual","High income",26.0979,44.4479
-"384","ROU","2016",38.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2016-01-01,"annual","High income",26.0979,44.4479
-"385","ROU","2015",37.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2015-01-01,"annual","High income",26.0979,44.4479
-"386","ROU","2014",40.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2014-01-01,"annual","High income",26.0979,44.4479
-"387","ROU","2013",41.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2013-01-01,"annual","High income",26.0979,44.4479
-"388","ROU","2012",43.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2012-01-01,"annual","High income",26.0979,44.4479
-"389","ROU","2011",40.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2011-01-01,"annual","High income",26.0979,44.4479
-"390","ROU","2010",41.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RO","Romania",2010-01-01,"annual","High income",26.0979,44.4479
-"391","RWA","2016",28.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RW","Rwanda",2016-01-01,"annual","Low income",30.0587,-1.95325
-"392","RWA","2013",32.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RW","Rwanda",2013-01-01,"annual","Low income",30.0587,-1.95325
-"393","RWA","2010",44.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RW","Rwanda",2010-01-01,"annual","Low income",30.0587,-1.95325
-"394","SLV","2019",32,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SV","El Salvador",2019-01-01,"annual","Lower middle income",-89.2073,13.7034
-"395","SLV","2018",33.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SV","El Salvador",2018-01-01,"annual","Lower middle income",-89.2073,13.7034
-"396","SLV","2017",38.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SV","El Salvador",2017-01-01,"annual","Lower middle income",-89.2073,13.7034
-"397","SLV","2016",39.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SV","El Salvador",2016-01-01,"annual","Lower middle income",-89.2073,13.7034
-"398","SLV","2014",40.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SV","El Salvador",2014-01-01,"annual","Lower middle income",-89.2073,13.7034
-"399","SRB","2020",29.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2020-01-01,"annual","Upper middle income",20.4656,44.8024
-"400","SRB","2019",31.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2019-01-01,"annual","Upper middle income",20.4656,44.8024
-"401","SRB","2018",34.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2018-01-01,"annual","Upper middle income",20.4656,44.8024
-"402","SRB","2017",36.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2017-01-01,"annual","Upper middle income",20.4656,44.8024
-"403","SRB","2016",38.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2016-01-01,"annual","Upper middle income",20.4656,44.8024
-"404","SRB","2015",41.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2015-01-01,"annual","Upper middle income",20.4656,44.8024
-"405","SRB","2014",42.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2014-01-01,"annual","Upper middle income",20.4656,44.8024
-"406","SRB","2013",42,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","RS","Serbia",2013-01-01,"annual","Upper middle income",20.4656,44.8024
-"407","SVK","2020",14.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2020-01-01,"annual","High income",17.1073,48.1484
-"408","SVK","2019",16.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2019-01-01,"annual","High income",17.1073,48.1484
-"409","SVK","2018",16.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2018-01-01,"annual","High income",17.1073,48.1484
-"410","SVK","2017",16.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2017-01-01,"annual","High income",17.1073,48.1484
-"411","SVK","2016",18.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2016-01-01,"annual","High income",17.1073,48.1484
-"412","SVK","2015",18.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2015-01-01,"annual","High income",17.1073,48.1484
-"413","SVK","2014",18.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2014-01-01,"annual","High income",17.1073,48.1484
-"414","SVK","2013",19.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2013-01-01,"annual","High income",17.1073,48.1484
-"415","SVK","2012",20.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2012-01-01,"annual","High income",17.1073,48.1484
-"416","SVK","2011",20.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2011-01-01,"annual","High income",17.1073,48.1484
-"417","SVK","2010",20.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SK","Slovak Republic",2010-01-01,"annual","High income",17.1073,48.1484
-"418","SVN","2020",15,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2020-01-01,"annual","High income",14.5044,46.0546
-"419","SVN","2019",14.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2019-01-01,"annual","High income",14.5044,46.0546
-"420","SVN","2018",16.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2018-01-01,"annual","High income",14.5044,46.0546
-"421","SVN","2017",17.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2017-01-01,"annual","High income",14.5044,46.0546
-"422","SVN","2016",18.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2016-01-01,"annual","High income",14.5044,46.0546
-"423","SVN","2015",19.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2015-01-01,"annual","High income",14.5044,46.0546
-"424","SVN","2014",20.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2014-01-01,"annual","High income",14.5044,46.0546
-"425","SVN","2013",20.4,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2013-01-01,"annual","High income",14.5044,46.0546
-"426","SVN","2012",19.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2012-01-01,"annual","High income",14.5044,46.0546
-"427","SVN","2011",19.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2011-01-01,"annual","High income",14.5044,46.0546
-"428","SVN","2010",18.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SI","Slovenia",2010-01-01,"annual","High income",14.5044,46.0546
-"429","SWE","2020",17.9,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2020-01-01,"annual","High income",18.0645,59.3327
-"430","SWE","2019",18.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2019-01-01,"annual","High income",18.0645,59.3327
-"431","SWE","2018",18,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2018-01-01,"annual","High income",18.0645,59.3327
-"432","SWE","2017",17.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2017-01-01,"annual","High income",18.0645,59.3327
-"433","SWE","2016",18.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2016-01-01,"annual","High income",18.0645,59.3327
-"434","SWE","2015",18.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2015-01-01,"annual","High income",18.0645,59.3327
-"435","SWE","2014",18.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2014-01-01,"annual","High income",18.0645,59.3327
-"436","SWE","2013",18.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2013-01-01,"annual","High income",18.0645,59.3327
-"437","SWE","2012",17.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2012-01-01,"annual","High income",18.0645,59.3327
-"438","SWE","2011",18.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2011-01-01,"annual","High income",18.0645,59.3327
-"439","SWE","2010",17.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SE","Sweden",2010-01-01,"annual","High income",18.0645,59.3327
-"440","SYC","2018",31.99,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","SC","Seychelles",2018-01-01,"annual","High income",55.4466,-4.6309
-"441","THA","2017",17.61,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TH","Thailand",2017-01-01,"annual","Upper middle income",100.521,13.7308
-"442","TUR","2020",41.5,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2020-01-01,"annual",NA,NA,NA
-"443","TUR","2019",39.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2019-01-01,"annual",NA,NA,NA
-"444","TUR","2018",39.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2018-01-01,"annual",NA,NA,NA
-"445","TUR","2017",41.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2017-01-01,"annual",NA,NA,NA
-"446","TUR","2016",45.1,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2016-01-01,"annual",NA,NA,NA
-"447","TUR","2015",41.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2015-01-01,"annual",NA,NA,NA
-"448","TUR","2014",41.6,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2014-01-01,"annual",NA,NA,NA
-"449","TUR","2013",51.2,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2013-01-01,"annual",NA,NA,NA
-"450","TUR","2012",61.3,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2012-01-01,"annual",NA,NA,NA
-"451","TUR","2011",63.8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2011-01-01,"annual",NA,NA,NA
-"452","TUR","2010",65.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","TR","Turkiye",2010-01-01,"annual",NA,NA,NA
-"453","XKX","2018",56.7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","XK","Kosovo",2018-01-01,"annual","Upper middle income",20.926,42.565
-"454","ZAF","2016",7,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ZA","South Africa",2016-01-01,"annual","Upper middle income",28.1871,-25.746
-"455","ZAF","2011",8,"SI.POV.MDIM","Multidimensional poverty headcount ratio (% of total population)","ZA","South Africa",2011-01-01,"annual","Upper middle income",28.1871,-25.746
+"","iso3c","date","country","Multidimensional poverty headcount ratio (% of total population)","income_level","longitude","latitude"
+"1","AFG","2016","Afghanistan",51.7,"Low income",69.1761,34.5228
+"2","AFG","2020","Afghanistan",49.4,"Low income",69.1761,34.5228
+"3","AGO","2015","Angola",54,"Lower middle income",13.242,-8.81155
+"4","ALB","2017","Albania",51.8,"Upper middle income",19.8172,41.3317
+"5","ALB","2018","Albania",49,"Upper middle income",19.8172,41.3317
+"6","ALB","2019","Albania",46.2,"Upper middle income",19.8172,41.3317
+"7","ALB","2020","Albania",43.4,"Upper middle income",19.8172,41.3317
+"8","ARM","2010","Armenia",41.2,"Upper middle income",44.509,40.1596
+"9","ARM","2011","Armenia",33.9,"Upper middle income",44.509,40.1596
+"10","ARM","2012","Armenia",31.3,"Upper middle income",44.509,40.1596
+"11","ARM","2013","Armenia",30.5,"Upper middle income",44.509,40.1596
+"12","ARM","2014","Armenia",31.9,"Upper middle income",44.509,40.1596
+"13","ARM","2015","Armenia",29.1,"Upper middle income",44.509,40.1596
+"14","ARM","2016","Armenia",27.8,"Upper middle income",44.509,40.1596
+"15","ARM","2017","Armenia",25.8,"Upper middle income",44.509,40.1596
+"16","ARM","2018","Armenia",23.6,"Upper middle income",44.509,40.1596
+"17","ARM","2020","Armenia",19.1,"Upper middle income",44.509,40.1596
+"18","AUT","2010","Austria",18.9,"High income",16.3798,48.2201
+"19","AUT","2011","Austria",19.2,"High income",16.3798,48.2201
+"20","AUT","2012","Austria",18.5,"High income",16.3798,48.2201
+"21","AUT","2013","Austria",18.8,"High income",16.3798,48.2201
+"22","AUT","2014","Austria",19.2,"High income",16.3798,48.2201
+"23","AUT","2015","Austria",18.3,"High income",16.3798,48.2201
+"24","AUT","2016","Austria",18,"High income",16.3798,48.2201
+"25","AUT","2017","Austria",18.1,"High income",16.3798,48.2201
+"26","AUT","2018","Austria",17.5,"High income",16.3798,48.2201
+"27","AUT","2019","Austria",16.9,"High income",16.3798,48.2201
+"28","AUT","2020","Austria",17.5,"High income",16.3798,48.2201
+"29","BDI","2013","Burundi",64.8,"Low income",29.3639,-3.3784
+"30","BEL","2010","Belgium",20.8,"High income",4.36761,50.8371
+"31","BEL","2011","Belgium",21,"High income",4.36761,50.8371
+"32","BEL","2012","Belgium",21.6,"High income",4.36761,50.8371
+"33","BEL","2013","Belgium",20.8,"High income",4.36761,50.8371
+"34","BEL","2014","Belgium",21.2,"High income",4.36761,50.8371
+"35","BEL","2015","Belgium",21.1,"High income",4.36761,50.8371
+"36","BEL","2016","Belgium",20.9,"High income",4.36761,50.8371
+"37","BEL","2017","Belgium",20.6,"High income",4.36761,50.8371
+"38","BEL","2018","Belgium",20,"High income",4.36761,50.8371
+"39","BEL","2019","Belgium",19.5,"High income",4.36761,50.8371
+"40","BEL","2020","Belgium",18.9,"High income",4.36761,50.8371
+"41","BGR","2010","Bulgaria",49.2,"Upper middle income",23.3238,42.7105
+"42","BGR","2011","Bulgaria",49.1,"Upper middle income",23.3238,42.7105
+"43","BGR","2012","Bulgaria",49.3,"Upper middle income",23.3238,42.7105
+"44","BGR","2013","Bulgaria",48,"Upper middle income",23.3238,42.7105
+"45","BGR","2014","Bulgaria",40.1,"Upper middle income",23.3238,42.7105
+"46","BGR","2015","Bulgaria",41.3,"Upper middle income",23.3238,42.7105
+"47","BGR","2016","Bulgaria",40.4,"Upper middle income",23.3238,42.7105
+"48","BGR","2017","Bulgaria",38.9,"Upper middle income",23.3238,42.7105
+"49","BGR","2018","Bulgaria",32.8,"Upper middle income",23.3238,42.7105
+"50","BGR","2019","Bulgaria",32.5,"Upper middle income",23.3238,42.7105
+"51","BGR","2020","Bulgaria",32.1,"Upper middle income",23.3238,42.7105
+"52","BTN","2012","Bhutan",12.4,"Lower middle income",89.6177,27.5768
+"53","BTN","2017","Bhutan",5.8,"Lower middle income",89.6177,27.5768
+"54","CHL","2011","Chile",24.3,"High income",-70.6475,-33.475
+"55","CHL","2013","Chile",20.4,"High income",-70.6475,-33.475
+"56","CHL","2015","Chile",20.9,"High income",-70.6475,-33.475
+"57","CHL","2017","Chile",20.7,"High income",-70.6475,-33.475
+"58","COL","2010","Colombia",29.7,"Upper middle income",-74.082,4.60987
+"59","COL","2011","Colombia",28.8,"Upper middle income",-74.082,4.60987
+"60","COL","2012","Colombia",26.5,"Upper middle income",-74.082,4.60987
+"61","COL","2013","Colombia",24.3,"Upper middle income",-74.082,4.60987
+"62","COL","2014","Colombia",21.6,"Upper middle income",-74.082,4.60987
+"63","COL","2015","Colombia",19.8,"Upper middle income",-74.082,4.60987
+"64","COL","2016","Colombia",17.6,"Upper middle income",-74.082,4.60987
+"65","COL","2018","Colombia",19.1,"Upper middle income",-74.082,4.60987
+"66","COL","2019","Colombia",17.5,"Upper middle income",-74.082,4.60987
+"67","COL","2020","Colombia",18.1,"Upper middle income",-74.082,4.60987
+"68","CRI","2010","Costa Rica",30.9422032877302,"Upper middle income",-84.0089,9.63701
+"69","CRI","2011","Costa Rica",28.79957923639,"Upper middle income",-84.0089,9.63701
+"70","CRI","2012","Costa Rica",26.2,"Upper middle income",-84.0089,9.63701
+"71","CRI","2013","Costa Rica",25.3472112211607,"Upper middle income",-84.0089,9.63701
+"72","CRI","2014","Costa Rica",25.7069427635349,"Upper middle income",-84.0089,9.63701
+"73","CRI","2015","Costa Rica",26.1669480887656,"Upper middle income",-84.0089,9.63701
+"74","CRI","2016","Costa Rica",25.0396719237987,"Upper middle income",-84.0089,9.63701
+"75","CRI","2017","Costa Rica",23.0765411694186,"Upper middle income",-84.0089,9.63701
+"76","CRI","2018","Costa Rica",23.6210876691913,"Upper middle income",-84.0089,9.63701
+"77","CRI","2019","Costa Rica",20.715601092999,"Upper middle income",-84.0089,9.63701
+"78","CYP","2010","Cyprus",24.6,"High income",33.3736,35.1676
+"79","CYP","2011","Cyprus",24.6,"High income",33.3736,35.1676
+"80","CYP","2012","Cyprus",27.1,"High income",33.3736,35.1676
+"81","CYP","2013","Cyprus",27.8,"High income",33.3736,35.1676
+"82","CYP","2014","Cyprus",27.4,"High income",33.3736,35.1676
+"83","CYP","2015","Cyprus",28.9,"High income",33.3736,35.1676
+"84","CYP","2016","Cyprus",27.7,"High income",33.3736,35.1676
+"85","CYP","2017","Cyprus",25.2,"High income",33.3736,35.1676
+"86","CYP","2018","Cyprus",23.9,"High income",33.3736,35.1676
+"87","CYP","2019","Cyprus",22.3,"High income",33.3736,35.1676
+"88","CYP","2020","Cyprus",21.3,"High income",33.3736,35.1676
+"89","CZE","2010","Czech Republic",14.4,"High income",14.4205,50.0878
+"90","CZE","2011","Czech Republic",15.3,"High income",14.4205,50.0878
+"91","CZE","2012","Czech Republic",15.4,"High income",14.4205,50.0878
+"92","CZE","2013","Czech Republic",14.6,"High income",14.4205,50.0878
+"93","CZE","2014","Czech Republic",14.8,"High income",14.4205,50.0878
+"94","CZE","2015","Czech Republic",14,"High income",14.4205,50.0878
+"95","CZE","2016","Czech Republic",13.3,"High income",14.4205,50.0878
+"96","CZE","2017","Czech Republic",12.2,"High income",14.4205,50.0878
+"97","CZE","2018","Czech Republic",12.2,"High income",14.4205,50.0878
+"98","CZE","2019","Czech Republic",12.5,"High income",14.4205,50.0878
+"99","CZE","2020","Czech Republic",11.9,"High income",14.4205,50.0878
+"100","DEU","2010","Germany",19.7,"High income",13.4115,52.5235
+"101","DEU","2011","Germany",19.9,"High income",13.4115,52.5235
+"102","DEU","2012","Germany",19.6,"High income",13.4115,52.5235
+"103","DEU","2013","Germany",20.3,"High income",13.4115,52.5235
+"104","DEU","2014","Germany",20.6,"High income",13.4115,52.5235
+"105","DEU","2015","Germany",20,"High income",13.4115,52.5235
+"106","DEU","2016","Germany",19.7,"High income",13.4115,52.5235
+"107","DEU","2017","Germany",19,"High income",13.4115,52.5235
+"108","DEU","2018","Germany",18.7,"High income",13.4115,52.5235
+"109","DEU","2019","Germany",17.4,"High income",13.4115,52.5235
+"110","DEU","2020","Germany",24,"High income",13.4115,52.5235
+"111","DNK","2010","Denmark",18.3,"High income",12.5681,55.6763
+"112","DNK","2011","Denmark",17.6,"High income",12.5681,55.6763
+"113","DNK","2012","Denmark",17.5,"High income",12.5681,55.6763
+"114","DNK","2013","Denmark",18.3,"High income",12.5681,55.6763
+"115","DNK","2014","Denmark",17.9,"High income",12.5681,55.6763
+"116","DNK","2015","Denmark",17.7,"High income",12.5681,55.6763
+"117","DNK","2016","Denmark",16.8,"High income",12.5681,55.6763
+"118","DNK","2017","Denmark",17.2,"High income",12.5681,55.6763
+"119","DNK","2018","Denmark",17.4,"High income",12.5681,55.6763
+"120","DNK","2019","Denmark",16.5,"High income",12.5681,55.6763
+"121","DNK","2020","Denmark",15.9,"High income",12.5681,55.6763
+"122","DOM","2010","Dominican Republic",35.4,"Upper middle income",-69.8908,18.479
+"123","DOM","2011","Dominican Republic",34.3,"Upper middle income",-69.8908,18.479
+"124","DOM","2012","Dominican Republic",34.9,"Upper middle income",-69.8908,18.479
+"125","DOM","2013","Dominican Republic",33.9,"Upper middle income",-69.8908,18.479
+"126","DOM","2014","Dominican Republic",29.2,"Upper middle income",-69.8908,18.479
+"127","DOM","2015","Dominican Republic",25.5,"Upper middle income",-69.8908,18.479
+"128","DOM","2016","Dominican Republic",23.1,"Upper middle income",-69.8908,18.479
+"129","DOM","2017","Dominican Republic",20.9,"Upper middle income",-69.8908,18.479
+"130","DOM","2018","Dominican Republic",18.8,"Upper middle income",-69.8908,18.479
+"131","DOM","2019","Dominican Republic",16.4,"Upper middle income",-69.8908,18.479
+"132","ECU","2010","Ecuador",46.08,"Upper middle income",-78.5243,-0.229498
+"133","ECU","2011","Ecuador",40.71,"Upper middle income",-78.5243,-0.229498
+"134","ECU","2012","Ecuador",37.83,"Upper middle income",-78.5243,-0.229498
+"135","ECU","2013","Ecuador",38.66,"Upper middle income",-78.5243,-0.229498
+"136","ECU","2014","Ecuador",37.37,"Upper middle income",-78.5243,-0.229498
+"137","ECU","2015","Ecuador",34.95,"Upper middle income",-78.5243,-0.229498
+"138","ECU","2016","Ecuador",35.1,"Upper middle income",-78.5243,-0.229498
+"139","ECU","2017","Ecuador",34.59,"Upper middle income",-78.5243,-0.229498
+"140","ECU","2018","Ecuador",37.86,"Upper middle income",-78.5243,-0.229498
+"141","ECU","2019","Ecuador",38.13,"Upper middle income",-78.5243,-0.229498
+"142","ESP","2010","Spain",26.1,"High income",-3.70327,40.4167
+"143","ESP","2011","Spain",26.7,"High income",-3.70327,40.4167
+"144","ESP","2012","Spain",27.2,"High income",-3.70327,40.4167
+"145","ESP","2013","Spain",27.3,"High income",-3.70327,40.4167
+"146","ESP","2014","Spain",29.2,"High income",-3.70327,40.4167
+"147","ESP","2015","Spain",28.6,"High income",-3.70327,40.4167
+"148","ESP","2016","Spain",27.9,"High income",-3.70327,40.4167
+"149","ESP","2017","Spain",26.6,"High income",-3.70327,40.4167
+"150","ESP","2018","Spain",26.1,"High income",-3.70327,40.4167
+"151","ESP","2019","Spain",25.3,"High income",-3.70327,40.4167
+"152","ESP","2020","Spain",26.4,"High income",-3.70327,40.4167
+"153","EST","2010","Estonia",21.7,"High income",24.7586,59.4392
+"154","EST","2011","Estonia",23.1,"High income",24.7586,59.4392
+"155","EST","2012","Estonia",23.4,"High income",24.7586,59.4392
+"156","EST","2013","Estonia",23.5,"High income",24.7586,59.4392
+"157","EST","2014","Estonia",26,"High income",24.7586,59.4392
+"158","EST","2015","Estonia",24.2,"High income",24.7586,59.4392
+"159","EST","2016","Estonia",24.4,"High income",24.7586,59.4392
+"160","EST","2017","Estonia",23.4,"High income",24.7586,59.4392
+"161","EST","2018","Estonia",24.4,"High income",24.7586,59.4392
+"162","EST","2019","Estonia",24.3,"High income",24.7586,59.4392
+"163","EST","2020","Estonia",23.3,"High income",24.7586,59.4392
+"164","FIN","2010","Finland",16.9,"High income",24.9525,60.1608
+"165","FIN","2011","Finland",17.9,"High income",24.9525,60.1608
+"166","FIN","2012","Finland",17.2,"High income",24.9525,60.1608
+"167","FIN","2013","Finland",16,"High income",24.9525,60.1608
+"168","FIN","2014","Finland",17.3,"High income",24.9525,60.1608
+"169","FIN","2015","Finland",16.8,"High income",24.9525,60.1608
+"170","FIN","2016","Finland",16.6,"High income",24.9525,60.1608
+"171","FIN","2017","Finland",15.7,"High income",24.9525,60.1608
+"172","FIN","2018","Finland",16.5,"High income",24.9525,60.1608
+"173","FIN","2019","Finland",15.6,"High income",24.9525,60.1608
+"174","FIN","2020","Finland",16,"High income",24.9525,60.1608
+"175","FRA","2010","France",19.2,"High income",2.35097,48.8566
+"176","FRA","2011","France",19.3,"High income",2.35097,48.8566
+"177","FRA","2012","France",19.1,"High income",2.35097,48.8566
+"178","FRA","2013","France",18.1,"High income",2.35097,48.8566
+"179","FRA","2014","France",18.5,"High income",2.35097,48.8566
+"180","FRA","2015","France",17.7,"High income",2.35097,48.8566
+"181","FRA","2016","France",18.2,"High income",2.35097,48.8566
+"182","FRA","2017","France",17,"High income",2.35097,48.8566
+"183","FRA","2018","France",17.4,"High income",2.35097,48.8566
+"184","FRA","2019","France",17.9,"High income",2.35097,48.8566
+"185","FRA","2020","France",18.2,"High income",2.35097,48.8566
+"186","GHA","2010","Ghana",42.7,"Lower middle income",-0.20795,5.57045
+"187","GHA","2011","Ghana",55,"Lower middle income",-0.20795,5.57045
+"188","GHA","2016","Ghana",45.6,"Lower middle income",-0.20795,5.57045
+"189","GHA","2018","Ghana",47.8,"Lower middle income",-0.20795,5.57045
+"190","GNB","2010","Guinea-Bissau",65.1,"Low income",-15.1804,11.8037
+"191","GNB","2014","Guinea-Bissau",57.8,"Low income",-15.1804,11.8037
+"192","GRC","2010","Greece",27.7,"High income",23.7166,37.9792
+"193","GRC","2011","Greece",31,"High income",23.7166,37.9792
+"194","GRC","2012","Greece",34.6,"High income",23.7166,37.9792
+"195","GRC","2013","Greece",35.7,"High income",23.7166,37.9792
+"196","GRC","2014","Greece",36,"High income",23.7166,37.9792
+"197","GRC","2015","Greece",35.7,"High income",23.7166,37.9792
+"198","GRC","2016","Greece",35.6,"High income",23.7166,37.9792
+"199","GRC","2017","Greece",34.8,"High income",23.7166,37.9792
+"200","GRC","2018","Greece",31.8,"High income",23.7166,37.9792
+"201","GRC","2019","Greece",30,"High income",23.7166,37.9792
+"202","GRC","2020","Greece",28.9,"High income",23.7166,37.9792
+"203","GTM","2014","Guatemala",61.62,"Upper middle income",-90.5328,14.6248
+"204","HND","2013","Honduras",74.2,"Lower middle income",-87.4667,15.1333
+"205","HRV","2010","Croatia",31.1,"High income",15.9614,45.8069
+"206","HRV","2011","Croatia",32.6,"High income",15.9614,45.8069
+"207","HRV","2012","Croatia",32.6,"High income",15.9614,45.8069
+"208","HRV","2013","Croatia",29.9,"High income",15.9614,45.8069
+"209","HRV","2014","Croatia",29.3,"High income",15.9614,45.8069
+"210","HRV","2015","Croatia",29.1,"High income",15.9614,45.8069
+"211","HRV","2016","Croatia",27.9,"High income",15.9614,45.8069
+"212","HRV","2017","Croatia",26.4,"High income",15.9614,45.8069
+"213","HRV","2018","Croatia",24.8,"High income",15.9614,45.8069
+"214","HRV","2019","Croatia",23.3,"High income",15.9614,45.8069
+"215","HRV","2020","Croatia",23.2,"High income",15.9614,45.8069
+"216","HUN","2010","Hungary",29.9,"High income",19.0408,47.4984
+"217","HUN","2011","Hungary",31.5,"High income",19.0408,47.4984
+"218","HUN","2012","Hungary",33.5,"High income",19.0408,47.4984
+"219","HUN","2013","Hungary",34.8,"High income",19.0408,47.4984
+"220","HUN","2014","Hungary",31.8,"High income",19.0408,47.4984
+"221","HUN","2015","Hungary",28.2,"High income",19.0408,47.4984
+"222","HUN","2016","Hungary",26.3,"High income",19.0408,47.4984
+"223","HUN","2017","Hungary",25.6,"High income",19.0408,47.4984
+"224","HUN","2018","Hungary",19.6,"High income",19.0408,47.4984
+"225","HUN","2019","Hungary",18.9,"High income",19.0408,47.4984
+"226","HUN","2020","Hungary",17.8,"High income",19.0408,47.4984
+"227","IRL","2010","Ireland",27.3,"High income",-6.26749,53.3441
+"228","IRL","2011","Ireland",29.4,"High income",-6.26749,53.3441
+"229","IRL","2012","Ireland",30.1,"High income",-6.26749,53.3441
+"230","IRL","2013","Ireland",29.9,"High income",-6.26749,53.3441
+"231","IRL","2014","Ireland",27.7,"High income",-6.26749,53.3441
+"232","IRL","2015","Ireland",26.2,"High income",-6.26749,53.3441
+"233","IRL","2016","Ireland",24.4,"High income",-6.26749,53.3441
+"234","IRL","2017","Ireland",22.7,"High income",-6.26749,53.3441
+"235","IRL","2018","Ireland",21.1,"High income",-6.26749,53.3441
+"236","IRL","2019","Ireland",20.6,"High income",-6.26749,53.3441
+"237","IRL","2020","Ireland",20.8,"High income",-6.26749,53.3441
+"238","ISL","2010","Iceland",13.7,"High income",-21.8952,64.1353
+"239","ISL","2011","Iceland",13.7,"High income",-21.8952,64.1353
+"240","ISL","2012","Iceland",12.7,"High income",-21.8952,64.1353
+"241","ISL","2013","Iceland",13,"High income",-21.8952,64.1353
+"242","ISL","2014","Iceland",11.2,"High income",-21.8952,64.1353
+"243","ISL","2015","Iceland",12.5,"High income",-21.8952,64.1353
+"244","ISL","2016","Iceland",12.2,"High income",-21.8952,64.1353
+"245","ISL","2017","Iceland",12.8,"High income",-21.8952,64.1353
+"246","ISL","2018","Iceland",11,"High income",-21.8952,64.1353
+"247","ITA","2010","Italy",25,"High income",12.4823,41.8955
+"248","ITA","2011","Italy",28.1,"High income",12.4823,41.8955
+"249","ITA","2012","Italy",29.9,"High income",12.4823,41.8955
+"250","ITA","2013","Italy",28.5,"High income",12.4823,41.8955
+"251","ITA","2014","Italy",28.3,"High income",12.4823,41.8955
+"252","ITA","2015","Italy",28.7,"High income",12.4823,41.8955
+"253","ITA","2016","Italy",30,"High income",12.4823,41.8955
+"254","ITA","2017","Italy",28.9,"High income",12.4823,41.8955
+"255","ITA","2018","Italy",27.3,"High income",12.4823,41.8955
+"256","ITA","2019","Italy",25.6,"High income",12.4823,41.8955
+"257","LKA","2016","Sri Lanka",2.37,"Lower middle income",79.8528,6.92148
+"258","LKA","2019","Sri Lanka",16,"Lower middle income",79.8528,6.92148
+"259","LTU","2010","Lithuania",34,"High income",25.2799,54.6896
+"260","LTU","2011","Lithuania",33.1,"High income",25.2799,54.6896
+"261","LTU","2012","Lithuania",32.5,"High income",25.2799,54.6896
+"262","LTU","2013","Lithuania",30.8,"High income",25.2799,54.6896
+"263","LTU","2014","Lithuania",27.3,"High income",25.2799,54.6896
+"264","LTU","2015","Lithuania",29.3,"High income",25.2799,54.6896
+"265","LTU","2016","Lithuania",30.1,"High income",25.2799,54.6896
+"266","LTU","2017","Lithuania",29.6,"High income",25.2799,54.6896
+"267","LTU","2018","Lithuania",28.3,"High income",25.2799,54.6896
+"268","LTU","2019","Lithuania",26.3,"High income",25.2799,54.6896
+"269","LTU","2020","Lithuania",24.8,"High income",25.2799,54.6896
+"270","LUX","2010","Luxembourg",17.1,"High income",6.1296,49.61
+"271","LUX","2011","Luxembourg",16.8,"High income",6.1296,49.61
+"272","LUX","2012","Luxembourg",18.4,"High income",6.1296,49.61
+"273","LUX","2013","Luxembourg",19,"High income",6.1296,49.61
+"274","LUX","2014","Luxembourg",19,"High income",6.1296,49.61
+"275","LUX","2015","Luxembourg",18.5,"High income",6.1296,49.61
+"276","LUX","2016","Luxembourg",19.8,"High income",6.1296,49.61
+"277","LUX","2017","Luxembourg",21.5,"High income",6.1296,49.61
+"278","LUX","2018","Luxembourg",21.9,"High income",6.1296,49.61
+"279","LUX","2019","Luxembourg",20.6,"High income",6.1296,49.61
+"280","LUX","2020","Luxembourg",20.9,"High income",6.1296,49.61
+"281","LVA","2010","Latvia",38.2,"High income",24.1048,56.9465
+"282","LVA","2011","Latvia",40.1,"High income",24.1048,56.9465
+"283","LVA","2012","Latvia",36.2,"High income",24.1048,56.9465
+"284","LVA","2013","Latvia",35.1,"High income",24.1048,56.9465
+"285","LVA","2014","Latvia",32.7,"High income",24.1048,56.9465
+"286","LVA","2015","Latvia",30.9,"High income",24.1048,56.9465
+"287","LVA","2016","Latvia",28.5,"High income",24.1048,56.9465
+"288","LVA","2017","Latvia",28.2,"High income",24.1048,56.9465
+"289","LVA","2018","Latvia",28.4,"High income",24.1048,56.9465
+"290","LVA","2019","Latvia",27.3,"High income",24.1048,56.9465
+"291","LVA","2020","Latvia",26,"High income",24.1048,56.9465
+"292","MAR","2011","Morocco",9.8,"Lower middle income",-6.8704,33.9905
+"293","MAR","2014","Morocco",8.2,"Lower middle income",-6.8704,33.9905
+"294","MDV","2016","Maldives",28.4,"Upper middle income",73.5109,4.1742
+"295","MEX","2010","Mexico",46.1,"Upper middle income",-99.1276,19.427
+"296","MEX","2012","Mexico",45.5,"Upper middle income",-99.1276,19.427
+"297","MEX","2014","Mexico",46.2,"Upper middle income",-99.1276,19.427
+"298","MEX","2016","Mexico",43.2,"Upper middle income",-99.1276,19.427
+"299","MEX","2018","Mexico",41.9,"Upper middle income",-99.1276,19.427
+"300","MEX","2020","Mexico",43.9,"Upper middle income",-99.1276,19.427
+"301","MKD","2010","North Macedonia",47.2,"Upper middle income",21.4361,42.0024
+"302","MKD","2011","North Macedonia",50.4,"Upper middle income",21.4361,42.0024
+"303","MKD","2012","North Macedonia",50.3,"Upper middle income",21.4361,42.0024
+"304","MKD","2013","North Macedonia",48.1,"Upper middle income",21.4361,42.0024
+"305","MKD","2014","North Macedonia",43.3,"Upper middle income",21.4361,42.0024
+"306","MKD","2015","North Macedonia",41.6,"Upper middle income",21.4361,42.0024
+"307","MKD","2016","North Macedonia",41.1,"Upper middle income",21.4361,42.0024
+"308","MKD","2017","North Macedonia",41.6,"Upper middle income",21.4361,42.0024
+"309","MKD","2018","North Macedonia",41.1,"Upper middle income",21.4361,42.0024
+"310","MKD","2019","North Macedonia",39.9,"Upper middle income",21.4361,42.0024
+"311","MLI","2016","Mali",39.8,"Low income",-7.50034,13.5667
+"312","MLT","2010","Malta",21.2,"High income",14.5189,35.9042
+"313","MLT","2011","Malta",22.1,"High income",14.5189,35.9042
+"314","MLT","2012","Malta",23.1,"High income",14.5189,35.9042
+"315","MLT","2013","Malta",24.6,"High income",14.5189,35.9042
+"316","MLT","2014","Malta",23.9,"High income",14.5189,35.9042
+"317","MLT","2015","Malta",23,"High income",14.5189,35.9042
+"318","MLT","2016","Malta",20.3,"High income",14.5189,35.9042
+"319","MLT","2017","Malta",19.3,"High income",14.5189,35.9042
+"320","MLT","2018","Malta",19,"High income",14.5189,35.9042
+"321","MLT","2019","Malta",20.1,"High income",14.5189,35.9042
+"322","MLT","2020","Malta",19,"High income",14.5189,35.9042
+"323","MNE","2013","Montenegro",37.3,"Upper middle income",19.2595,42.4602
+"324","MNE","2014","Montenegro",37.5,"Upper middle income",19.2595,42.4602
+"325","MNE","2015","Montenegro",35.9,"Upper middle income",19.2595,42.4602
+"326","MNE","2016","Montenegro",34.6,"Upper middle income",19.2595,42.4602
+"327","MNE","2017","Montenegro",33.7,"Upper middle income",19.2595,42.4602
+"328","MNE","2018","Montenegro",31.4,"Upper middle income",19.2595,42.4602
+"329","MNE","2019","Montenegro",30.5,"Upper middle income",19.2595,42.4602
+"330","MNE","2020","Montenegro",30.9,"Upper middle income",19.2595,42.4602
+"331","MOZ","2014","Mozambique",53,"Low income",32.5713,-25.9664
+"332","NAM","2015","Namibia",43.3,"Upper middle income",17.0931,-22.5648
+"333","NGA","2017","Nigeria",53.7,"Lower middle income",7.48906,9.05804
+"334","NLD","2010","Netherlands",15.1,"High income",4.89095,52.3738
+"335","NLD","2011","Netherlands",15.7,"High income",4.89095,52.3738
+"336","NLD","2012","Netherlands",15,"High income",4.89095,52.3738
+"337","NLD","2013","Netherlands",15.9,"High income",4.89095,52.3738
+"338","NLD","2014","Netherlands",16.5,"High income",4.89095,52.3738
+"339","NLD","2015","Netherlands",16.4,"High income",4.89095,52.3738
+"340","NLD","2016","Netherlands",16.7,"High income",4.89095,52.3738
+"341","NLD","2017","Netherlands",17,"High income",4.89095,52.3738
+"342","NLD","2018","Netherlands",16.7,"High income",4.89095,52.3738
+"343","NLD","2019","Netherlands",16.5,"High income",4.89095,52.3738
+"344","NLD","2020","Netherlands",16.3,"High income",4.89095,52.3738
+"345","NOR","2010","Norway",14.9,"High income",10.7387,59.9138
+"346","NOR","2011","Norway",14.5,"High income",10.7387,59.9138
+"347","NOR","2012","Norway",13.7,"High income",10.7387,59.9138
+"348","NOR","2013","Norway",14.1,"High income",10.7387,59.9138
+"349","NOR","2014","Norway",13.5,"High income",10.7387,59.9138
+"350","NOR","2015","Norway",15,"High income",10.7387,59.9138
+"351","NOR","2016","Norway",15.3,"High income",10.7387,59.9138
+"352","NOR","2017","Norway",16,"High income",10.7387,59.9138
+"353","NOR","2018","Norway",16.2,"High income",10.7387,59.9138
+"354","NOR","2019","Norway",16.1,"High income",10.7387,59.9138
+"355","NOR","2020","Norway",15.9,"High income",10.7387,59.9138
+"356","NPL","2011","Nepal",39.1,"Lower middle income",85.3157,27.6939
+"357","NPL","2014","Nepal",30.1,"Lower middle income",85.3157,27.6939
+"358","NPL","2019","Nepal",17.4,"Lower middle income",85.3157,27.6939
+"359","PAK","2010","Pakistan",44.7,"Lower middle income",72.8,30.5167
+"360","PAK","2012","Pakistan",40.8,"Lower middle income",72.8,30.5167
+"361","PAK","2014","Pakistan",38.8,"Lower middle income",72.8,30.5167
+"362","PAN","2017","Panama",19.1,"High income",-79.5188,8.99427
+"363","POL","2010","Poland",27.8,"High income",21.02,52.26
+"364","POL","2011","Poland",27.2,"High income",21.02,52.26
+"365","POL","2012","Poland",26.7,"High income",21.02,52.26
+"366","POL","2013","Poland",25.8,"High income",21.02,52.26
+"367","POL","2014","Poland",24.7,"High income",21.02,52.26
+"368","POL","2015","Poland",23.4,"High income",21.02,52.26
+"369","POL","2016","Poland",21.9,"High income",21.02,52.26
+"370","POL","2017","Poland",19.5,"High income",21.02,52.26
+"371","POL","2018","Poland",18.9,"High income",21.02,52.26
+"372","POL","2019","Poland",18.2,"High income",21.02,52.26
+"373","POL","2020","Poland",17.3,"High income",21.02,52.26
+"374","PRY","2016","Paraguay",34.28,"Upper middle income",-57.6362,-25.3005
+"375","PRY","2017","Paraguay",30.55,"Upper middle income",-57.6362,-25.3005
+"376","PRY","2018","Paraguay",29.57,"Upper middle income",-57.6362,-25.3005
+"377","PRY","2019","Paraguay",26.75,"Upper middle income",-57.6362,-25.3005
+"378","PRY","2020","Paraguay",24.93,"Upper middle income",-57.6362,-25.3005
+"379","PSE","2016","West Bank and Gaza",24,"Lower middle income",NA,NA
+"380","ROU","2010","Romania",41.5,"High income",26.0979,44.4479
+"381","ROU","2011","Romania",40.9,"High income",26.0979,44.4479
+"382","ROU","2012","Romania",43.2,"High income",26.0979,44.4479
+"383","ROU","2013","Romania",41.9,"High income",26.0979,44.4479
+"384","ROU","2014","Romania",40.3,"High income",26.0979,44.4479
+"385","ROU","2015","Romania",37.4,"High income",26.0979,44.4479
+"386","ROU","2016","Romania",38.8,"High income",26.0979,44.4479
+"387","ROU","2017","Romania",35.7,"High income",26.0979,44.4479
+"388","ROU","2018","Romania",32.5,"High income",26.0979,44.4479
+"389","ROU","2019","Romania",31.2,"High income",26.0979,44.4479
+"390","ROU","2020","Romania",30.4,"High income",26.0979,44.4479
+"391","RWA","2010","Rwanda",44.4,"Low income",30.0587,-1.95325
+"392","RWA","2013","Rwanda",32.9,"Low income",30.0587,-1.95325
+"393","RWA","2016","Rwanda",28.7,"Low income",30.0587,-1.95325
+"394","SLV","2014","El Salvador",40.5,"Lower middle income",-89.2073,13.7034
+"395","SLV","2016","El Salvador",39.4,"Lower middle income",-89.2073,13.7034
+"396","SLV","2017","El Salvador",38.9,"Lower middle income",-89.2073,13.7034
+"397","SLV","2018","El Salvador",33.8,"Lower middle income",-89.2073,13.7034
+"398","SLV","2019","El Salvador",32,"Lower middle income",-89.2073,13.7034
+"399","SRB","2013","Serbia",42,"Upper middle income",20.4656,44.8024
+"400","SRB","2014","Serbia",42.6,"Upper middle income",20.4656,44.8024
+"401","SRB","2015","Serbia",41.7,"Upper middle income",20.4656,44.8024
+"402","SRB","2016","Serbia",38.5,"Upper middle income",20.4656,44.8024
+"403","SRB","2017","Serbia",36.7,"Upper middle income",20.4656,44.8024
+"404","SRB","2018","Serbia",34.3,"Upper middle income",20.4656,44.8024
+"405","SRB","2019","Serbia",31.7,"Upper middle income",20.4656,44.8024
+"406","SRB","2020","Serbia",29.8,"Upper middle income",20.4656,44.8024
+"407","SVK","2010","Slovak Republic",20.6,"High income",17.1073,48.1484
+"408","SVK","2011","Slovak Republic",20.6,"High income",17.1073,48.1484
+"409","SVK","2012","Slovak Republic",20.5,"High income",17.1073,48.1484
+"410","SVK","2013","Slovak Republic",19.8,"High income",17.1073,48.1484
+"411","SVK","2014","Slovak Republic",18.4,"High income",17.1073,48.1484
+"412","SVK","2015","Slovak Republic",18.4,"High income",17.1073,48.1484
+"413","SVK","2016","Slovak Republic",18.1,"High income",17.1073,48.1484
+"414","SVK","2017","Slovak Republic",16.3,"High income",17.1073,48.1484
+"415","SVK","2018","Slovak Republic",16.3,"High income",17.1073,48.1484
+"416","SVK","2019","Slovak Republic",16.4,"High income",17.1073,48.1484
+"417","SVK","2020","Slovak Republic",14.8,"High income",17.1073,48.1484
+"418","SVN","2010","Slovenia",18.3,"High income",14.5044,46.0546
+"419","SVN","2011","Slovenia",19.3,"High income",14.5044,46.0546
+"420","SVN","2012","Slovenia",19.6,"High income",14.5044,46.0546
+"421","SVN","2013","Slovenia",20.4,"High income",14.5044,46.0546
+"422","SVN","2014","Slovenia",20.4,"High income",14.5044,46.0546
+"423","SVN","2015","Slovenia",19.2,"High income",14.5044,46.0546
+"424","SVN","2016","Slovenia",18.4,"High income",14.5044,46.0546
+"425","SVN","2017","Slovenia",17.1,"High income",14.5044,46.0546
+"426","SVN","2018","Slovenia",16.2,"High income",14.5044,46.0546
+"427","SVN","2019","Slovenia",14.4,"High income",14.5044,46.0546
+"428","SVN","2020","Slovenia",15,"High income",14.5044,46.0546
+"429","SWE","2010","Sweden",17.7,"High income",18.0645,59.3327
+"430","SWE","2011","Sweden",18.5,"High income",18.0645,59.3327
+"431","SWE","2012","Sweden",17.7,"High income",18.0645,59.3327
+"432","SWE","2013","Sweden",18.3,"High income",18.0645,59.3327
+"433","SWE","2014","Sweden",18.2,"High income",18.0645,59.3327
+"434","SWE","2015","Sweden",18.6,"High income",18.0645,59.3327
+"435","SWE","2016","Sweden",18.3,"High income",18.0645,59.3327
+"436","SWE","2017","Sweden",17.7,"High income",18.0645,59.3327
+"437","SWE","2018","Sweden",18,"High income",18.0645,59.3327
+"438","SWE","2019","Sweden",18.8,"High income",18.0645,59.3327
+"439","SWE","2020","Sweden",17.9,"High income",18.0645,59.3327
+"440","SYC","2018","Seychelles",31.99,"High income",55.4466,-4.6309
+"441","THA","2017","Thailand",17.61,"Upper middle income",100.521,13.7308
+"442","TUR","2010","Turkiye",65.7,NA,NA,NA
+"443","TUR","2011","Turkiye",63.8,NA,NA,NA
+"444","TUR","2012","Turkiye",61.3,NA,NA,NA
+"445","TUR","2013","Turkiye",51.2,NA,NA,NA
+"446","TUR","2014","Turkiye",41.6,NA,NA,NA
+"447","TUR","2015","Turkiye",41.3,NA,NA,NA
+"448","TUR","2016","Turkiye",45.1,NA,NA,NA
+"449","TUR","2017","Turkiye",41.3,NA,NA,NA
+"450","TUR","2018","Turkiye",39.8,NA,NA,NA
+"451","TUR","2019","Turkiye",39.8,NA,NA,NA
+"452","TUR","2020","Turkiye",41.5,NA,NA,NA
+"453","XKX","2018","Kosovo",56.7,"Upper middle income",20.926,42.565
+"454","ZAF","2011","South Africa",8,"Upper middle income",28.1871,-25.746
+"455","ZAF","2016","South Africa",7,"Upper middle income",28.1871,-25.746
