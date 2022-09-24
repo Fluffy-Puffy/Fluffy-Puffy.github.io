@@ -1,0 +1,40 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 450,
+  "title": "Poverty from Year 2010 to 2022",
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/JiazhouLiu/FIT3179/main/VegaLite/2_symbol_map/js/ne_110m_admin_0_countries.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "darkgray"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/joint.csv"
+      },
+      "mark": {"type": "circle", "tooltip": {"content": "encoding"}},
+      "encoding": {
+        "detail": {"field": "country", "type": "nominal"},
+        "size": {
+          "field": "Poverty headcount ratio at national poverty lines (% of population)",
+          "type": "quantitative",
+          "title": "Poverty Headcount Rate",
+          "scale": {"domain": [5, 50]}
+        },
+        "color": {
+          "field": "income_level",
+          "type": "nominal",
+          "title": "Income Level",
+          "scale": {"scheme": "greens"}
+        },
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"}
+      }
+    }
+  ],
+  "config": {}
+}
