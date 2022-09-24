@@ -9,9 +9,11 @@ str(wb_cachelist, max.level=1)
 glimpse(wb_cachelist$countries)
 
 country <- wb_cachelist$countries %>% 
-  select(country, income_level)
+  select(country, income_level, longitude, latitude)
 
 glimpse(country)
+
+------------------------------------------------------------
 
 Pov <- wb_search("Poverty") %>%
   filter(str_detect(indicator, "Multidimensional"))
@@ -36,3 +38,8 @@ glimpse(Poverty)
 Poverty <- Poverty %>%
   select(iso3c, date, country, indicator, value) %>% 
   spread(key= "indicator", value = "value")
+
+join <- left_join(Poverty, country)
+glimpse(join)
+
+write.csv(join, 'join.csv')
