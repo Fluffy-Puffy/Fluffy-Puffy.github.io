@@ -13,16 +13,16 @@ country <- wb_cachelist$countries %>%
 
 glimpse(country)
 
-------------------------------------------------------------
+#------------------------------------------------------------
 
 Pov <- wb_search("Poverty") %>%
-  filter(str_detect(indicator, "Multidimensional"))
+  filter(str_detect(indicator, "Poverty"))
 
 unique(Pov$indicator)
 
 Pov <- Pov %>%
   filter(indicator %in% 
-           "Multidimensional poverty headcount ratio (% of total population)")
+           "Poverty headcount ratio at national poverty lines (% of population)")
 
 Pov <- Pov$indicator_id[1:1]
 str(Pov)
@@ -41,5 +41,9 @@ Poverty <- Poverty %>%
 
 join <- left_join(Poverty, country)
 glimpse(join)
+
+colSums(is.na(join))
+
+joint <- na.omit(join)
 
 write.csv(join, 'join.csv')
