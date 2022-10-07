@@ -1,15 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": "container",
-  "height": 450,
-  
+
   "data": {
     "url": "https://raw.githubusercontent.com/Fluffy-Puffy/homework10.github.io/main/Unemployment.csv"
   },
   "vconcat": [
     {
       "width": "container",
-      "height": 400,
       "title": "Unemployment Rate from 2010 to 2022",
       "projection": {"type": "equalEarth", "rotate": [-150, 0, 0]},
       "layer": [
