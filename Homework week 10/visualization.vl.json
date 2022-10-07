@@ -6,8 +6,8 @@
   },
   "vconcat": [
     {
-      "width": 800,
-      "height": 450,
+      "width": "container",
+      "height": 400,
       "title": "Unemployment Rate from 2010 to 2022",
       "projection": {"type": "equalEarth", "rotate": [-150, 0, 0]},
       "layer": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "width": 800,
+      "width": "container",
       "height": 60,
       "mark": "line",
       "title": "Line chart to filter out the data based on year",
@@ -113,7 +113,7 @@
       }
     },
     {
-      "width": 800,
+      "width": "container",
       "transform": [
         {
           "bin": {"step": 0.5, "extent": [5, 7]},
