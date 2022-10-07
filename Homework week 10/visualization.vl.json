@@ -34,7 +34,7 @@
           },
           "mark": {"type": "geoshape", "fill": null, "stroke": "lightgrey"}
         },
-        {
+{
           "transform": [{"filter": {"param": "time_brush"}}],
           "encoding": {
             "longitude": {"field": "longitude", "type": "quantitative"},
@@ -46,41 +46,26 @@
               "scale": {
                 "type": "threshold",
                 "domain": [1, 5, 15, 20, 25],
-                "range": [
-                  "#94c58c",
-                  "#64ad62",
-                  "#429b46",
-                  "#1a8828",
-                  "#0a6921",
-                  "#094f29"
-                ]
+                "range": ["#94c58c", "#64ad62", "#429b46", "#1a8828", "#0a6921", "#094f29"]
               }
             },
             "tooltip": [
-              {"field": "date", "type": "temporal"},
-              {
-                "field": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
-                "type": "quantitative"
-              },
-              {"field": "country", "type": "nominal"}
+              {"field": "date", "type": "temporal", "title": "Year"},
+              {"field": "Unemployment, total (% of total labor force) (modeled ILO estimate)", "type": "quantitative", "title": "Unemployment Rate"},
+              {"field": "country", "type": "nominal", "title": "Country"}
             ]
           },
           "layer": [
-            {"mark": {"type": "circle", "opacity": 0.4, "size": 15}},
+            {"mark": {"type": "circle", "opacity": 0.5, "size": 25}},
             {
               "transform": [
                 {
                   "window": [{"op": "rank", "as": "ranking"}],
-                  "sort": [
-                    {
-                      "field": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
-                      "order": "descending"
-                    }
-                  ]
+                  "sort": [{"field": "Unemployment, total (% of total labor force) (modeled ILO estimate)", "order": "descending"}]
                 },
                 {"filter": "datum.ranking == 1"},
                 {
-                  "calculate": "'The highest unemployment rate of; the selected period: ' + datum['Unemployment, total (% of total labor force) (modeled ILO estimate)']",
+                  "calculate": "'Unemployment rate of; the selected period: ; ' + datum['Unemployment, total (% of total labor force) (modeled ILO estimate)']",
                   "as": "text_annotation_raw"
                 },
                 {
@@ -106,7 +91,7 @@
       "width": "container",
       "height": 60,
       "mark": "line",
-      "title": "Use this line chart to filter out the data based on time",
+      "title": "Line chart to filter out the data based on year",
       "params": [
         {
           "name": "time_brush",
@@ -117,11 +102,11 @@
         "x": {
           "field": "date",
           "timeUnit": "year",
-          "axis": {"title": "", "format": "%Y"}
+          "axis": {"title": "Year", "format": "%Y"}
         },
         "y": {
           "aggregate": "count",
-          "axis": {"tickCount": 3, "grid": false},
+          "axis": {"tickCount": 5, "grid": false},
           "title": "Count"
         }
       }
@@ -143,18 +128,11 @@
           "scale": {"domain": {"param": "time_brush"}},
           "axis": {"title": "", "tickCount": 5, "grid": false}
         },
-        "y": {"aggregate": "count", "title": "Count of Earthquakes"},
+        "y": {"aggregate": "count", "title": "Count of Unemployment"},
         "color": {
           "field": "Unemployment",
           "scale": {
-            "range": [
-              "#94c58c",
-              "#64ad62",
-              "#429b46",
-              "#1a8828",
-              "#0a6921",
-              "#094f29"
-            ]
+            "range": ["#94c58c", "#64ad62", "#429b46", "#1a8828", "#0a6921", "#094f29"]
           },
           "legend": null
         }
