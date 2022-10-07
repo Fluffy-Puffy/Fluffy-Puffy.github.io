@@ -1,5 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 450,
+  
   "data": {
     "url": "https://raw.githubusercontent.com/Fluffy-Puffy/homework10.github.io/main/Unemployment.csv"
   },
