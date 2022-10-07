@@ -14,7 +14,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/joint.csv"
+        "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/Homework%20week%209/joint.csv"
       },
       "mark": {"type": "circle", "tooltip": {"content": "encoding"}},
       "encoding": {
