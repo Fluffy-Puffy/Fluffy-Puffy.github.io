@@ -1,0 +1,31 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/Homework%20week%2010/Unemployment.csv"
+    },
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+      "mark": {"type": "text", "radiusOffset": 20},
+      "encoding": {
+        "text": {"field": "Population growth (annual %)", "aggregate":"mean", "type": "quantitative", "format": ".4"}
+      }
+    }],
+    "encoding": {
+      "theta": {
+        "aggregate":"mean",
+        "field": "Population growth (annual %)", 
+        "type": "quantitative",
+        "stack": true
+        },
+      
+      "radius": {
+        "aggregate":"mean", 
+        "field": "Population growth (annual %)", 
+        "scale": {"type": "sqrt", "zero": false, "rangeMin": 60}
+        },
+      
+      "color": {"field": "region", "type": "nominal"}
+    }
+  }
+  
