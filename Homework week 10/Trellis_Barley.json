@@ -5,7 +5,6 @@
     "width":"container",
     "height": {"step": 12},
     "encoding": {
-    
       "x": {
         "aggregate": "mean",
         "field": "Population growth (annual %)",
