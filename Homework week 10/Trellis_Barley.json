@@ -9,7 +9,7 @@
         "aggregate": "mean",
         "field": "Population growth (annual %)",
         "type": "quantitative",
-        "scale": {"zero": true}
+        "scale": {"zero": false}
       },
       "y": {
         "field": "region",
