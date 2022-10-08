@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/homework10.github.io/main/Unemployment.csv"},
+    "transform": [{
+      "filter": {"and": [
+        {"field": "Children out of school (% of primary school age)", "valid": true},
+        {"field": "Unemployment, total (% of total labor force) (modeled ILO estimate)", "valid": true}
+      ]}
+    }],
+    "mark": "rect",
+    "width": 300,
+    "height": 200,
+    "encoding": {
+      "x": {
+        "bin": {"maxbins":10},
+        "field": "Children out of school (% of primary school age)",
+        "type": "quantitative"
+      },
+      "y": {
+        "bin": {"maxbins": 10},
+        "field": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+        "type": "quantitative"
+      },
+      "color": {
+        "aggregate": "count",
+        "type": "quantitative"
+      }
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
+  
