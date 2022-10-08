@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "data": {
-    "url": "https://raw.githubusercontent.com/Fluffy-Puffy/homework10.github.io/main/Unemployment.csv"
+    "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/Homework%20week%2010/Globe.csv"
   },
   "vconcat": [
     {
@@ -51,7 +51,7 @@
               }
             },
             "tooltip": [
-              {"field": "date", "type": "temporal", "title": "Year"},
+              {"field": "date", "type": "temporal", "timeUnit":"year", "title": "Year"},
               {"field": "Unemployment, total (% of total labor force) (modeled ILO estimate)", "type": "quantitative", "title": "Unemployment Rate"},
               {"field": "country", "type": "nominal", "title": "Country"}
             ]
@@ -90,7 +90,7 @@
     },
     {
       "width": "container",
-      "height": 60,
+      "height": 100,
       "mark": "line",
       "title": "Line chart to filter out the data based on year",
       "params": [
@@ -107,7 +107,7 @@
         },
         "y": {
           "aggregate": "count",
-          "axis": {"tickCount": 3, "grid": false},
+          "axis": {"tickCount": 5, "grid": false},
           "title": "Count"
         }
       }
