@@ -1,0 +1,92 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "data": { "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/Homework%20week%2010/Unemployment.csv"},
+
+    "title": "The Average Unemployment Rate of Labor Force per Gender from 2010 to 2021",
+  
+      "params": [
+      {
+        "name": "Year_selection",
+        "value": 2010,
+        "bind": {
+          "input": "range",
+          "min": 2010,
+          "max": 2020,
+          "step": 1,
+          "name": "Year:  "
+        }
+      }
+      ],
+    "transform": [
+      {"filter": "datum.date == Year_selection"},
+      {"calculate": "datum.sex == 2 ? 'Female' : 'Male'",
+        "as": "gender"}
+    ],
+    "spacing": 0,
+    "hconcat": [{
+      "title": "Female",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "region", "axis": null, "sort": "ascending"
+        },
+        "x": {
+          "aggregate": "mean", "field": "Unemployment, female (% of female labor force) (modeled ILO estimate)",
+          "title": "Rate (%)",
+          "axis": {"format": "s"},
+          "sort": "descending"
+        },
+        "color": {
+            "field": "gender",
+            "scale": {"range": ["#675193", "#ca8861"]},
+          "legend": null
+        },
+        "tooltip": [
+                {"aggregate": "mean",
+                  "field": "Unemployment, female (% of female labor force) (modeled ILO estimate)", 
+                "type": "quantitative", 
+                "title": "Unemployment Rate"}
+              ]
+      }
+    }, {
+      "width": 20,
+      "view": {"stroke": null},
+      "mark": {
+        "type": "text",
+        "align": "center"
+      },
+      "encoding": {
+        "y": {"field": "region", "type": "nominal", "axis": null, "sort": "ascending"},
+        "text": {"field": "region", "type": "nominal"}
+      }
+    }, 
+      {
+      "title": "Male",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "region", "title": null,
+          "axis": null, "sort": "ascending"
+        },
+        "x": {
+          "aggregate": "mean", "field": "Unemployment, male (% of male labor force) (modeled ILO estimate)",
+          "title": "Rate (%)",
+          "axis": {"format": "s"}
+        },
+        "color": {
+          "legend": null
+        },
+        "tooltip": [
+            { "aggregate": "mean",
+              "field": "Unemployment, male (% of male labor force) (modeled ILO estimate)", 
+              "type": "quantitative", 
+              "title": "Unemployment Rate"}
+              ]
+      }
+    }],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false}
+    }
+  }
