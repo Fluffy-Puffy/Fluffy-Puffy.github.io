@@ -1,0 +1,11 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/Homework%20week%2010/Unemployment.csv"},
+    "mark": "bar",
+    "encoding": {
+      "column": {"field": "income_level"},
+      "x": {"field": "GDP per capita growth (annual %)", "type": "quantitative", "aggregate": "mean"},
+      "y": {"field": "date", "type": "temporal"},
+      "color": {"field": "region", "type": "nominal"}
+    }
+  }
