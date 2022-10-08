@@ -107,7 +107,7 @@
         },
         "y": {
           "aggregate": "count",
-          "axis": {"tickCount": 5, "grid": false},
+          "axis": {"tickCount": 3, "grid": false},
           "title": "Count"
         }
       }
