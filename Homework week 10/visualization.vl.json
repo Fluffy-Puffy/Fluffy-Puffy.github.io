@@ -103,7 +103,7 @@
         "x": {
           "field": "date",
           "timeUnit": "year",
-          "axis": {"title": "Year", "format": "%Y"}
+          "axis": {"title": "Year", "format": ""}
         },
         "y": {
           "aggregate": "count",
