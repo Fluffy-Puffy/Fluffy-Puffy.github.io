@@ -2,6 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/homework10.github.io/main/Unemployment.csv"},
     "mark": "point",
+    "width":"container",
     "height": {"step": 12},
     "encoding": {
     
