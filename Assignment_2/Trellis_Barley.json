@@ -3,7 +3,7 @@
     "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/Assignment_2/Unemployment.csv"},
     "mark": "point",
     "width":"container",
-    "height": {"step": 12},
+    "height": {"step": 10},
     "encoding": {
       "x": {
         "field": "date",
