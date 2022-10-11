@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  
+    
     "data": { "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/Homework_week_10/Unemployment.csv"},
 
     "title": "The Average Unemployment Rate of Labor Force per Gender from 2010 to 2021",
