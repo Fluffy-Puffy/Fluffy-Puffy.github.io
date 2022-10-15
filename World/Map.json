@@ -1,0 +1,146 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Final.csv"
+    },
+    "vconcat": [
+      {
+        "width": "container",
+        "height": 400,
+        "title": "Happiness Score from 2015 to 2021",
+        "projection": {"type": "equalEarth", "rotate": [-150, 0, 0]},
+        "layer": [
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/ne_110m_admin_0_countries.topojson",
+              "format": {
+                "type": "topojson",
+                "feature": "ne_110m_admin_0_countries"
+              }
+            },
+            "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
+              "format": {"type": "topojson", "feature": "oceans"}
+            },
+            "mark": {"type": "geoshape", "fill": "skyblue"}
+          },
+          {
+            "data": {
+              "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+              "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+            },
+            "mark": {"type": "geoshape", "fill": null, "stroke": "lightgrey"}
+          },
+  {
+            "transform": [{"filter": {"param": "time_brush"}}],
+            "encoding": {
+              "longitude": {"field": "longitude", "type": "quantitative"},
+              "latitude": {"field": "latitude", "type": "quantitative"},
+              "color": {
+                "field": "Score",
+                "type": "quantitative",
+                "title": "Happiness Score",
+                "scale": {
+                  "type": "threshold",
+                  "domain": [1, 3, 5, 7],
+                  "range": ["#94c58c", "#64ad62", "#429b46", "#1a8828", "#0a6921", "#094f29"]
+                }
+              },
+              "tooltip": [
+                {"field": "Year", "type": "temporal", "timeUnit":"year", "title": "Year"},
+                {"field": "Score", "type": "quantitative", "title": "Happiness Score"},
+                {"field": "country", "type": "nominal", "title": "Country"}
+              ]
+            },
+            "layer": [
+              {"mark": {"type": "circle", "opacity": 0.5, "size": 25}},
+              {
+                "transform": [
+                  {
+                    "window": [{"op": "rank", "as": "ranking"}],
+                    "sort": [{"field": "Score", "order": "ascending"}]
+                  },
+                  {"filter": "datum.ranking == 1"},
+                  {
+                    "calculate": "'Happiness Score; the selected period: ; ' + datum['Score']",
+                    "as": "text_annotation_raw"
+                  },
+                  {
+                    "calculate": "split(datum.text_annotation_raw, ';')",
+                    "as": "text_annotation"
+                  }
+                ],
+                "mark": {
+                  "type": "text",
+                  "align": "right",
+                  "dx": -8,
+                  "dy": -8,
+                  "baseline": "middle",
+                  "fontStyle": "italic"
+                },
+                "encoding": {
+                  "text": {"field": "text_annotation"},
+                  "color": {"value": "black"}}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "width": "container",
+        "height": 100,
+        "mark": "line",
+        "title": "Line chart to filter out the data based on year",
+        "params": [
+          {
+            "name": "time_brush",
+            "select": {"type": "interval", "encodings": ["x"]}
+          }
+        ],
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "timeUnit": "year",
+            "axis": {"title": "Year", "format": "%Y"}
+          },
+          "y": {
+            "aggregate": "count",
+            "axis": {"tickCount": 5, "grid": false},
+            "title": "Count"
+          }
+        }
+      },
+      {
+        "width": "container",
+        "transform": [
+          {
+            "bin": {"step": 0.5, "extent": [5, 7]},
+            "field": "Score",
+            "as": "Score"
+          }
+        ],
+        "mark": "area",
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "timeUnit": "year",
+            "scale": {"domain": {"param": "time_brush"}},
+            "axis": {"title": "", "tickCount": 5, "grid": false}
+          },
+          "y": {"aggregate": "count", "title": "Count of Unemployment"},
+          "color": {
+            "field": "Score",
+            "scale": {
+              "range": ["#94c58c", "#64ad62", "#429b46", "#1a8828", "#0a6921", "#094f29"]
+            },
+            "legend": null
+          }
+        }
+      }
+    ],
+    "config": {"title": {"font": "sans-serif", "fontSize": 14}}
+  }
