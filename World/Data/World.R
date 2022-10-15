@@ -152,11 +152,13 @@ j4 <- j4 %>%
                values_to='Perceptions of Corruption')
 
 Final <- j4 %>%
-  pivot_longer(cols=c('2015', '2016', '2017', '2018', '2019', score.x, score.y),
+  mutate(`2020` = score.x,
+         `2021` = score.y) %>%
+  pivot_longer(cols=c('2015', '2016', '2017', '2018', '2019', '2020', '2021'),
                names_to='Year',
                values_to='Score')
 
-glimpse(Final)
+glimpse(Score)
 
 File = Final %>% 
         select(country, region, Score, latitude, longitude, `Logged GDP per Capita`, `Social support`,
