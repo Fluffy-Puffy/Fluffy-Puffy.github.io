@@ -15,6 +15,38 @@ country <- wb_cachelist$countries %>%
 
 glimpse(country)
 
+Pop <- wb_search("Population") %>%
+  filter(str_detect(indicator, "Population"))
+
+unique(Pop$indicator)
+
+Pop <- Pop %>%
+  filter(indicator %in% 
+           c("Population, male (% of total population)",
+             "Population, female (% of total population)"))
+
+Pop <- Pop$indicator_id[1:2]
+str(Pop)
+
+Population <- wb(country="countries_only",
+                 indicator = Pop,
+                 startdate = 2015,
+                 enddate= 2021,
+                 POSIXct = TRUE)
+
+glimpse(Population)
+
+Population <- Population %>%
+  select(iso3c, date, country, indicator, value) %>% 
+  spread(key= "indicator", value = "value")
+
+Population <- left_join(Population, country)
+
+colSums(is.na(Population))
+
+Population <- na.omit(Population)
+
+#write.csv(Population, 'Population.csv')
 ############################################################################
 
 World <- read_excel("World.xlsx")
