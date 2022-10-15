@@ -1,0 +1,71 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Combine.csv"
+    },
+    "layer": [
+      {
+        "mark": {
+          "type": "point",
+          "filled": true
+        },
+        "encoding": {
+          "x": {
+            "field": "Healthy life expectancy",
+            "type": "quantitative",
+            "scale": {"zero": false},
+          "title": "Life Expectancy"
+          },
+          "y": {
+            "field": "Ladder score",
+            "type": "quantitative",
+            "scale": {"zero": false},
+          "title": "Happiness Score"
+          },
+          "color": {"field": "Regional indicator", "type": "nominal", "title": "Region"}
+        }
+      },
+      {
+        "mark": {
+          "type": "line",
+          "color": "firebrick"
+        },
+        "transform": [
+          {
+            "regression": "Ladder score",
+            "on": "Healthy life expectancy"
+          }
+        ],
+        "encoding": {
+          "x": {
+            "field": "Healthy life expectancy",
+            "type": "quantitative"
+          },
+          "y": {
+            "field": "Ladder score",
+            "type": "quantitative"
+          }
+        }
+      },
+      {
+        "transform": [
+          {
+            "regression": "Ladder score",
+            "on": "Healthy life expectancy",
+            "params": true
+          },
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "firebrick",
+          "x": "width",
+          "align": "right",
+          "y": -5
+        },
+        "encoding": {
+          "text": {"type": "nominal", "field": "R2"}
+        }
+      }
+    ]
+  }

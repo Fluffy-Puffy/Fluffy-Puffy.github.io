@@ -1,0 +1,23 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Combine.csv"
+    },
+    "mark": "point",
+    "encoding": {
+      "x": {
+        "field": "Freedom to make life choices",
+        "type": "quantitative",
+        "scale": {"zero": false},
+        "title": "Freedom"
+      },
+      "y": {
+        "field": "Ladder score",
+        "type": "quantitative",
+        "scale": {"zero": false},
+        "title": "Happiness Score"
+      },
+      "color": {"field": "Regional indicator", "type": "nominal", "title": "Region"}
+    }
+    
+  }

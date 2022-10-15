@@ -1,0 +1,67 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Combine.csv"},
+    "transform": [
+      {
+        "filter": {
+          "field": "Country name",
+          "oneOf": ["Finland", "Iceland", "Denmark", "Laos", "United States", "Norway", "Netherlands", "Afghanistan", "Guinea", "Australia", "Indonesia", "Malaysia", "Brazil", "Chile", "Costa Rica"]
+        }
+      },
+      {
+        "filter": {
+          "field": "Year",
+          "oneOf": [2020, 2021]
+        }
+      }
+    ],
+    "encoding": {
+      "x": {
+        "field": "Healthy life expectancy",
+        "type": "quantitative",
+        "title": "Life Expectancy (years)"
+      },
+      "y": {
+        "field": "Country name",
+        "type": "nominal",
+        "title": "Region",
+        "axis": {
+          "offset": 10,
+          "ticks": false,
+          "minExtent": 70,
+          "domain": false
+        }
+      }
+    },
+    "layer": [
+      {
+        "mark": "line",
+        "encoding": {
+          "detail": {
+            "field": "Country name",
+            "type": "nominal"
+          },
+          "color": {"value": "#db646f"}
+        }
+      },
+      {
+        "mark": {
+          "type": "point",
+          "filled": true
+        },
+        "encoding": {
+          "color": {
+            "field": "Year",
+            "type": "ordinal",
+            "scale": {
+              "domain": [2020, 2021],
+              "range": ["#e6959c", "#911a24"]
+            },
+            "title": "Year"
+          },
+          "size": {"value": 100},
+          "opacity": {"value": 1}
+        }
+      }
+    ]
+  }
