@@ -46,8 +46,8 @@
                 "title": "Happiness Score",
                 "scale": {
                   "type": "threshold",
-                  "domain": [1, 3, 5, 7],
-                  "range": ["#94c58c", "#64ad62", "#429b46", "#1a8828", "#0a6921", "#094f29"]
+                  "domain": [3,4,5,6,7],
+                  "range": ["#FFD8B2", "#FFC78F", "#FFB668", "#FFA53F", "#FE8D01", "#FF6E01"]
                 }
               },
               "tooltip": [
@@ -109,7 +109,7 @@
           },
           "y": {
             "aggregate": "count",
-            "axis": {"tickCount": 5, "grid": false},
+            "axis": {"tickCount": 3, "grid": false},
             "title": "Count"
           }
         }
@@ -129,7 +129,7 @@
             "field": "Year",
             "timeUnit": "year",
             "scale": {"domain": {"param": "time_brush"}},
-            "axis": {"title": "", "tickCount": 5, "grid": false}
+            "axis": {"title": "", "tickCount": 3, "grid": false}
           },
           "y": {"aggregate": "count", "title": "Count of Unemployment"},
           "color": {
