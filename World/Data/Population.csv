@@ -216,13 +216,6 @@
 "215","CHE","2019","Switzerland",50.4076129497992,49.5923870502008,"Europe & Central Asia","High income",7.44821,46.948
 "216","CHE","2020","Switzerland",50.3889368658443,49.6110631341557,"Europe & Central Asia","High income",7.44821,46.948
 "217","CHE","2021","Switzerland",50.3706043512852,49.6293956487148,"Europe & Central Asia","High income",7.44821,46.948
-"218","CHI","2015","Channel Islands",50.5910379896848,49.4089620103152,"Europe & Central Asia","High income",NA,NA
-"219","CHI","2016","Channel Islands",50.5673308491391,49.4326691508609,"Europe & Central Asia","High income",NA,NA
-"220","CHI","2017","Channel Islands",50.5472353645667,49.4527646354333,"Europe & Central Asia","High income",NA,NA
-"221","CHI","2018","Channel Islands",50.5290446696697,49.4709553303303,"Europe & Central Asia","High income",NA,NA
-"222","CHI","2019","Channel Islands",50.5096828124274,49.4903171875726,"Europe & Central Asia","High income",NA,NA
-"223","CHI","2020","Channel Islands",50.4943661242731,49.5056338757269,"Europe & Central Asia","High income",NA,NA
-"224","CHI","2021","Channel Islands",50.4776197758554,49.5223802241446,"Europe & Central Asia","High income",NA,NA
 "225","CHL","2015","Chile",50.7784252257009,49.2215747742991,"Latin America & Caribbean","High income",-70.6475,-33.475
 "226","CHL","2016","Chile",50.7648824717701,49.2351175282299,"Latin America & Caribbean","High income",-70.6475,-33.475
 "227","CHL","2017","Chile",50.746953171379,49.253046828621,"Latin America & Caribbean","High income",-70.6475,-33.475
@@ -300,13 +293,6 @@
 "299","CUB","2019","Cuba",50.3424719177263,49.6575280822737,"Latin America & Caribbean","Upper middle income",-82.3667,23.1333
 "300","CUB","2020","Cuba",50.3517378888805,49.6482621111195,"Latin America & Caribbean","Upper middle income",-82.3667,23.1333
 "301","CUB","2021","Cuba",50.3607687847614,49.6392312152386,"Latin America & Caribbean","Upper middle income",-82.3667,23.1333
-"302","CUW","2015","Curacao",54.1876759461996,45.8123240538004,"Latin America & Caribbean","High income",NA,NA
-"303","CUW","2016","Curacao",54.1634845239204,45.8365154760796,"Latin America & Caribbean","High income",NA,NA
-"304","CUW","2017","Curacao",54.1324558912499,45.8675441087501,"Latin America & Caribbean","High income",NA,NA
-"305","CUW","2018","Curacao",54.0954698223689,45.9045301776311,"Latin America & Caribbean","High income",NA,NA
-"306","CUW","2019","Curacao",54.0554267147219,45.9445732852781,"Latin America & Caribbean","High income",NA,NA
-"307","CUW","2020","Curacao",54.0103595368678,45.9896404631322,"Latin America & Caribbean","High income",NA,NA
-"308","CUW","2021","Curacao",53.969756547489,46.030243452511,"Latin America & Caribbean","High income",NA,NA
 "309","CYP","2015","Cyprus",49.9223505517288,50.0776494482712,"Europe & Central Asia","High income",33.3736,35.1676
 "310","CYP","2016","Cyprus",49.9200556491302,50.0799443508698,"Europe & Central Asia","High income",33.3736,35.1676
 "311","CYP","2017","Cyprus",49.9399415945782,50.0600584054218,"Europe & Central Asia","High income",33.3736,35.1676
@@ -314,13 +300,6 @@
 "313","CYP","2019","Cyprus",49.9991656752107,50.0008343247893,"Europe & Central Asia","High income",33.3736,35.1676
 "314","CYP","2020","Cyprus",50.013790407343,49.986209592657,"Europe & Central Asia","High income",33.3736,35.1676
 "315","CYP","2021","Cyprus",50.0134914132091,49.9865085867909,"Europe & Central Asia","High income",33.3736,35.1676
-"316","CZE","2015","Czechia",50.8651224037603,49.1348775962397,NA,NA,NA,NA
-"317","CZE","2016","Czechia",50.8512677622511,49.1487322377489,NA,NA,NA,NA
-"318","CZE","2017","Czechia",50.831695647565,49.168304352435,NA,NA,NA,NA
-"319","CZE","2018","Czechia",50.8085889327815,49.1914110672185,NA,NA,NA,NA
-"320","CZE","2019","Czechia",50.7856378201089,49.2143621798911,NA,NA,NA,NA
-"321","CZE","2020","Czechia",50.7654228945384,49.2345771054616,NA,NA,NA,NA
-"322","CZE","2021","Czechia",50.7481757048522,49.2518242951478,NA,NA,NA,NA
 "323","DEU","2015","Germany",50.8181326341287,49.1818673658713,"Europe & Central Asia","High income",13.4115,52.5235
 "324","DEU","2016","Germany",50.7696483565604,49.2303516434396,"Europe & Central Asia","High income",13.4115,52.5235
 "325","DEU","2017","Germany",50.7155708743438,49.2844291256562,"Europe & Central Asia","High income",13.4115,52.5235
@@ -979,13 +958,6 @@
 "978","PRI","2019","Puerto Rico",52.5477568040406,47.4522431959594,"Latin America & Caribbean","High income",-66,18.23
 "979","PRI","2020","Puerto Rico",52.6181820723983,47.3818179276017,"Latin America & Caribbean","High income",-66,18.23
 "980","PRI","2021","Puerto Rico",52.6505120134529,47.3494879865471,"Latin America & Caribbean","High income",-66,18.23
-"981","PRK","2015","Korea, Dem. People's Rep.",51.1025565926583,48.8974434073417,NA,NA,NA,NA
-"982","PRK","2016","Korea, Dem. People's Rep.",51.098432036302,48.901567963698,NA,NA,NA,NA
-"983","PRK","2017","Korea, Dem. People's Rep.",51.0957216520953,48.9042783479047,NA,NA,NA,NA
-"984","PRK","2018","Korea, Dem. People's Rep.",51.0938524844571,48.9061475155429,NA,NA,NA,NA
-"985","PRK","2019","Korea, Dem. People's Rep.",51.0921658005846,48.9078341994154,NA,NA,NA,NA
-"986","PRK","2020","Korea, Dem. People's Rep.",51.0901529026838,48.9098470973162,NA,NA,NA,NA
-"987","PRK","2021","Korea, Dem. People's Rep.",51.0877545119576,48.9122454880424,NA,NA,NA,NA
 "988","PRT","2015","Portugal",52.644635894674,47.355364105326,"Europe & Central Asia","High income",-9.13552,38.7072
 "989","PRT","2016","Portugal",52.689864162068,47.310135837932,"Europe & Central Asia","High income",-9.13552,38.7072
 "990","PRT","2017","Portugal",52.7104317265241,47.2895682734759,"Europe & Central Asia","High income",-9.13552,38.7072
@@ -1000,13 +972,6 @@
 "999","PRY","2019","Paraguay",49.1686089237504,50.8313910762496,"Latin America & Caribbean","Upper middle income",-57.6362,-25.3005
 "1000","PRY","2020","Paraguay",49.1854923848901,50.8145076151099,"Latin America & Caribbean","Upper middle income",-57.6362,-25.3005
 "1001","PRY","2021","Paraguay",49.2015738732715,50.7984261267285,"Latin America & Caribbean","Upper middle income",-57.6362,-25.3005
-"1002","PSE","2015","West Bank and Gaza",49.258030186613,50.741969813387,"Middle East & North Africa","Lower middle income",NA,NA
-"1003","PSE","2016","West Bank and Gaza",49.2624541487655,50.7375458512345,"Middle East & North Africa","Lower middle income",NA,NA
-"1004","PSE","2017","West Bank and Gaza",49.269521845673,50.730478154327,"Middle East & North Africa","Lower middle income",NA,NA
-"1005","PSE","2018","West Bank and Gaza",49.2776442747633,50.7223557252367,"Middle East & North Africa","Lower middle income",NA,NA
-"1006","PSE","2019","West Bank and Gaza",49.2845617175176,50.7154382824824,"Middle East & North Africa","Lower middle income",NA,NA
-"1007","PSE","2020","West Bank and Gaza",49.2891581474634,50.7108418525366,"Middle East & North Africa","Lower middle income",NA,NA
-"1008","PSE","2021","West Bank and Gaza",49.2910639516761,50.7089360483239,"Middle East & North Africa","Lower middle income",NA,NA
 "1009","PYF","2015","French Polynesia",49.2283583346453,50.7716416653547,"East Asia & Pacific","High income",-149.57,-17.535
 "1010","PYF","2016","French Polynesia",49.2767029893363,50.7232970106637,"East Asia & Pacific","High income",-149.57,-17.535
 "1011","PYF","2017","French Polynesia",49.3067929940458,50.6932070059542,"East Asia & Pacific","High income",-149.57,-17.535
@@ -1231,13 +1196,6 @@
 "1230","TUN","2019","Tunisia",50.4222460715395,49.5777539284605,"Middle East & North Africa","Lower middle income",10.21,36.7899
 "1231","TUN","2020","Tunisia",50.4108517594866,49.5891482405134,"Middle East & North Africa","Lower middle income",10.21,36.7899
 "1232","TUN","2021","Tunisia",50.4043729416902,49.5956270583098,"Middle East & North Africa","Lower middle income",10.21,36.7899
-"1233","TUR","2015","Turkiye",50.7826933584745,49.2173066415255,NA,NA,NA,NA
-"1234","TUR","2016","Turkiye",50.7521383384559,49.2478616615441,NA,NA,NA,NA
-"1235","TUR","2017","Turkiye",50.7150392957897,49.2849607042103,NA,NA,NA,NA
-"1236","TUR","2018","Turkiye",50.6778132013215,49.3221867986785,NA,NA,NA,NA
-"1237","TUR","2019","Turkiye",50.6485641242443,49.3514358757557,NA,NA,NA,NA
-"1238","TUR","2020","Turkiye",50.6324571980385,49.3675428019615,NA,NA,NA,NA
-"1239","TUR","2021","Turkiye",50.6312943647533,49.3687056352467,NA,NA,NA,NA
 "1240","TZA","2015","Tanzania",50.0877596831771,49.9122403168229,"Sub-Saharan Africa","Lower middle income",35.7382,-6.17486
 "1241","TZA","2016","Tanzania",50.0771161037188,49.9228838962812,"Sub-Saharan Africa","Lower middle income",35.7382,-6.17486
 "1242","TZA","2017","Tanzania",50.0644937385595,49.9355062614405,"Sub-Saharan Africa","Lower middle income",35.7382,-6.17486
