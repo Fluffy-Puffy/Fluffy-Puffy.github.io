@@ -118,7 +118,7 @@
         "width": "container",
         "transform": [
           {
-            "bin": {"step": 0.5, "extent": [5, 7]},
+            "bin": {"step": 1, "extent": [3, 8]},
             "field": "Score",
             "as": "Score"
           }
@@ -129,13 +129,13 @@
             "field": "Year",
             "timeUnit": "year",
             "scale": {"domain": {"param": "time_brush"}},
-            "axis": {"title": "", "tickCount": 3, "grid": false}
+            "axis": {"title": "", "tickCount": 5, "grid": false}
           },
-          "y": {"aggregate": "count", "title": "Count of Unemployment"},
+          "y": {"aggregate": "count", "title": "Count of Happiness Score"},
           "color": {
             "field": "Score",
             "scale": {
-              "range": ["#94c58c", "#64ad62", "#429b46", "#1a8828", "#0a6921", "#094f29"]
+              "range": ["#FFD8B2", "#FFC78F", "#FFB668", "#FFA53F", "#FE8D01", "#FF6E01"]
             },
             "legend": null
           }

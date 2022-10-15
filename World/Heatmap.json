@@ -1,0 +1,39 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Final.csv"},
+
+    "transform": [
+      {
+      "filter": {"and": [
+        {"field": "Logged GDP per capita", "valid": true},
+        {"field": "Score", "valid": true}
+      ]}
+    }],
+    "mark": "rect",
+    "width": "container",
+    "height": 400,
+    "encoding": {
+      "x": {
+        "bin": {"maxbins":15},
+        "field": "Logged GDP per capita",
+        "type": "quantitative",
+        "title": "Logged GDP per Capita"
+      },
+      "y": {
+        "bin": {"maxbins": 10},
+        "field": "Score",
+        "type": "quantitative",
+        "title": "Happiness Score"
+      },
+      "color": {
+        "aggregate": "count",
+        "type": "quantitative"
+      }
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
+  
