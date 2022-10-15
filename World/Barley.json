@@ -1,0 +1,24 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width":"container",
+    "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Combine.csv"},
+    "mark": "point",
+    "height": {"step":20},
+    "encoding": {
+  
+      "x": {
+        "aggregate": "mean",
+        "field": "Social support",
+        "type": "quantitative",
+        "scale": {"zero": true},
+        "title": "Social Support"
+      },
+      "y": {
+        "field": "Regional indicator",
+        "type": "ordinal",
+        "sort": "-x",
+        "title": "Region"
+      },
+      "color": {"field": "Year", "type": "nominal"}
+    }
+  }
