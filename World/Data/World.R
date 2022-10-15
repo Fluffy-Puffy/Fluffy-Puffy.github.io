@@ -102,6 +102,8 @@ x2019 <- x2019 %>%
   mutate(country = `Country or region`) %>%
   select(country, `2019`)
 
+############################################################################
+
 j = left_join(Data, x2020, by = "country")
 
 jj = left_join(j, x2015, by = "country")
@@ -158,23 +160,12 @@ Final <- j4 %>%
                names_to='Year',
                values_to='Score')
 
-glimpse(File)
-
-File = Final %>% 
-        select(country, region, Score, latitude, longitude, `Logged GDP per Capita`, `Social support`,
+Final = Final %>% 
+        select(country, region, Year, Score, latitude, longitude, `Logged GDP per Capita`, `Social support`,
                `Healthy Life Expectancy`, Freedom, Generosity, `Perceptions of Corruption`)
 
-Score = Final %>%
-        select(country, region, Year, Score, latitude, longitude)
+colSums(is.na(Final))
 
-colSums(is.na(File))
+Final <- na.omit(Final)
 
-File <- na.omit(File)
-
-colSums(is.na(Score))
-
-Score <- na.omit(Score)
-
-#write.csv(File, 'File.csv')
-
-#write.csv(Score, 'Score.csv') 
+#write.csv(Final, 'Final.csv')
