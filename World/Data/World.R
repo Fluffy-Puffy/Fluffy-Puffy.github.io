@@ -161,23 +161,23 @@ Final <- j4 %>%
                names_to='Year',
                values_to='Score')
 
-glimpse(Score)
+glimpse(Final)
 
-Final = Final %>% 
+File = Final %>% 
         select(country, region, score, latitude, longitude, `Logged GDP per Capita`, `Social support`,
                `Healthy Life Expectancy`, Freedom, Generosity, `Perceptions of Corruption`)
 
 Score = Final %>%
-        select(country, region, score, latitude, longitude)
+        select(country, region, Year, Score, latitude, longitude)
 
-colSums(is.na(Final))
+colSums(is.na(File))
 
-Final <- na.omit(Final)
+File <- na.omit(File)
 
 colSums(is.na(Score))
 
 Score <- na.omit(Score)
 
-#write.csv(Final, 'Final.csv')
+#write.csv(File, 'File.csv')
 
 #write.csv(Score, 'Score.csv') 
