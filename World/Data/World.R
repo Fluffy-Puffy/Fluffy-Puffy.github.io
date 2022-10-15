@@ -99,5 +99,9 @@ Final <- j4 %>%
 
 glimpse(Final)
 
-#write.csv(Final, 'Final.csv')
+colSums(is.na(Final))
+
+na.omit(Final)
+
+write.csv(Final, 'Final.csv')
  
