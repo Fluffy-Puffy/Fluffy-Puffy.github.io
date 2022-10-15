@@ -147,24 +147,19 @@ j4 <- j4 %>%
                values_to='region')
 
 j4 <- j4 %>%
-  pivot_longer(cols=c(score.x, score.y),
-               names_to='erase7',
-               values_to='score')
-
-j4 <- j4 %>%
   pivot_longer(cols=c(x2020.6, x2021.6),
                names_to='erase5',
                values_to='Perceptions of Corruption')
 
 Final <- j4 %>%
-  pivot_longer(cols=c('2015', '2016', '2017', '2018', '2019'),
+  pivot_longer(cols=c('2015', '2016', '2017', '2018', '2019', score.x, score.y),
                names_to='Year',
                values_to='Score')
 
 glimpse(Final)
 
 File = Final %>% 
-        select(country, region, score, latitude, longitude, `Logged GDP per Capita`, `Social support`,
+        select(country, region, Score, latitude, longitude, `Logged GDP per Capita`, `Social support`,
                `Healthy Life Expectancy`, Freedom, Generosity, `Perceptions of Corruption`)
 
 Score = Final %>%

@@ -3,7 +3,7 @@
     "width": "container",
     "height": 400,
     "data": {
-      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Final.csv"
+      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/File.csv"
     },
     "layer": [{
       "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
