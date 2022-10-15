@@ -5,7 +5,7 @@
     "transform": [
       {
       "filter": {"and": [
-        {"field": "Logged GDP per capita", "valid": true},
+        {"field": "Logged GDP per Capita", "valid": true},
         {"field": "Score", "valid": true}
       ]}
     }],
@@ -15,7 +15,7 @@
     "encoding": {
       "x": {
         "bin": {"maxbins":15},
-        "field": "Logged GDP per capita",
+        "field": "Logged GDP per Capita",
         "type": "quantitative",
         "title": "Logged GDP per Capita"
       },

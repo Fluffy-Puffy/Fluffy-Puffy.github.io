@@ -10,20 +10,20 @@
     },{
       "mark": {"type": "text", "radiusOffset": 20},
       "encoding": {
-        "text": {"field": "Perceptions of corruption", "aggregate":"mean", "type": "quantitative", "format": ".4"}
+        "text": {"field": "Perceptions of Corruption", "aggregate":"mean", "type": "quantitative", "format": ".4"}
       }
     }],
     "encoding": {
       "theta": {
         "aggregate":"mean",
-        "field": "Perceptions of corruption", 
+        "field": "Perceptions of Corruption", 
         "type": "quantitative",
         "stack": true
         },
       
       "radius": {
         "aggregate":"mean", 
-        "field": "Perceptions of corruption", 
+        "field": "Perceptions of Corruption", 
         "scale": {"type": "sqrt", "zero": false, "rangeMin": 50}
         },
       

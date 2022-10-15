@@ -158,7 +158,7 @@ Final <- j4 %>%
                names_to='Year',
                values_to='Score')
 
-glimpse(Score)
+glimpse(File)
 
 File = Final %>% 
         select(country, region, Score, latitude, longitude, `Logged GDP per Capita`, `Social support`,
