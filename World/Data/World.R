@@ -168,4 +168,6 @@ colSums(is.na(Final))
 
 Final <- na.omit(Final)
 
+glimpse(Final)
+
 #write.csv(Final, 'Final.csv')
