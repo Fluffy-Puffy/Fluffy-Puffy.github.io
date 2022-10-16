@@ -1,0 +1,94 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "data": { "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Population.csv"},
+  
+      "params": [
+      {
+        "name": "Year_selection",
+        "value": 2015,
+        "bind": {
+          "input": "range",
+          "min": 2015,
+          "max": 2021,
+          "step": 1,
+          "name": "Year:  "
+        }
+      }
+      ],
+    "transform": [
+      {"filter": "datum.date == Year_selection"},
+      {"calculate": "datum.sex == 2 ? 'Female' : 'Male'",
+        "as": "gender"}
+    ],
+    "spacing": 0,
+    "hconcat": [{
+      "title": "Female",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "region", "axis": null, "sort": "ascending"
+        },
+        "x": {
+          "aggregate": "mean", "field": "Population, female (% of total population)",
+          "title": "Rate (%)",
+          "axis": {"format": "s"},
+          "sort": "descending"
+        },
+        "color": {
+            "field": "gender",
+            "scale": {"range": ["#675193", "#ca8861"]},
+          "legend": null
+        },
+        "tooltip": [
+                {"aggregate": "mean",
+                  "field": "Population, female (% of total population)", 
+                "type": "quantitative", 
+                "title": "Female Population Rate",
+                "format": ".4f"}
+              ]
+      }
+    }, {
+      "width": 100,
+      "view": {"stroke": null},
+      "mark": {
+        "type": "text",
+        "align": "center"
+      },
+      "encoding": {
+        "y": {"field": "region", "type": "nominal", "axis": null, "sort": "ascending"},
+        "text": {"field": "region", "type": "nominal"}
+      }
+    }, 
+      {
+      "title": "Male",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "region", "title": null,
+          "axis": null, "sort": "ascending"
+        },
+        "x": {
+          "aggregate": "mean", 
+          "field": "Population, male (% of total population)",
+          "title": "Rate (%)",
+          "axis": {"format": "s"}
+        },
+        "color": {
+          "legend": null
+        },
+        "tooltip": [
+            { "aggregate": "mean",
+              "field": "Population, male (% of total population)", 
+              "type": "quantitative", 
+              "title": "Male Population Rate",
+              "format":".4f"
+              }
+              ]
+      }
+    }],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false}
+    }
+  }

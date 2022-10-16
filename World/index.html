@@ -23,8 +23,8 @@
 
 <body>
 
-    <H1> The World Happiness Index</H1>
-    <h6> by: Anastasia Christy</h6>
+    <h1 style="text-align:center;"> The World Happiness Index </h1>
+    <h6 style="text-align:center;"> by: Anastasia Christy</h6>
 
 <div class="page">
 
@@ -35,35 +35,35 @@
       </div>
   </div>
 
-  <h2>  </h2>
+  <h2>  How Happy is the World? </h2>
   <div class="pure-g">
     <div class="pure-u-1-1">
         <div id="vis2" class="vis-container"></div>
     </div>
 </div>
 
-    <h2>  </h2>
+    <h2> How Large is the World Population? </h2>
   <div class="pure-g">
     <div class="pure-u-1-1">
         <div id="vis3" class="vis-container"></div>
     </div>
     </div>
 
-    <h2> The Population Growth Based on Region</h2>
+    <h2> Does GDP per Capita Influence Happiness?</h2>
     <div class="pure-g">
       <div class="pure-u-1-1">
           <div id="vis4" class="vis-container"></div>
       </div>
   </div>
 
-  <h2>  </h2>
+  <h2> Do Happy People Live Longer Lives? </h2>
   <div class="pure-g">
     <div class="pure-u-1-1">
         <div id="vis5" class="vis-container"></div>
     </div>
 </div>
 
-    <h2></h2>
+    <h2> How Does Corruption Affect Happiness? </h2>
   <div class="pure-g">
     <div class="pure-u-1-1">
         <div id="vis6" class="vis-container"></div>
@@ -85,19 +85,19 @@
   var specVis1 = "Map.json";
         vegaEmbed('#vis1', specVis1);
 
-  var specVis2 = "Heatmap.json";
+  var specVis2 = "Population.json";
         vegaEmbed('#vis2', specVis2);
 
-  var specVis3 = "Radial.json";
+  var specVis3 = "Heatmap.json";
         vegaEmbed('#vis3', specVis3);
 
-  var specVis4 = "Barley.json";
+  var specVis4 = "Regression.json";
         vegaEmbed('#vis4', specVis4);
         
-  var specVis5 = "Regression.json";
+  var specVis5 = "Radial.json";
         vegaEmbed('#vis5', specVis5);
 
-  var specVis6 = "";
+  var specVis6 = ".json";
         vegaEmbed('#vis6', specVis6);
 
    var specVis7 = "";

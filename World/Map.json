@@ -52,7 +52,7 @@
               },
               "tooltip": [
                 {"field": "Year", "type": "temporal", "timeUnit":"year", "title": "Year"},
-                {"field": "Score", "type": "quantitative", "title": "Happiness Score"},
+                {"field": "Score", "type": "quantitative", "title": "Happiness Score", "format": ".4f"},
                 {"field": "country", "type": "nominal", "title": "Country"}
               ]
             },
