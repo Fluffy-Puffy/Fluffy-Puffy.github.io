@@ -4,7 +4,7 @@
     "transform": [
       {
         "filter": {
-          "field": "Country name",
+          "field": "Country",
           "oneOf": ["Finland", "Iceland", "Denmark", "Laos", "United States", "Norway", "Netherlands", "Afghanistan", "Guinea", "Australia", "Indonesia", "Malaysia", "Brazil", "Chile", "Costa Rica"]
         }
       },
@@ -22,7 +22,7 @@
         "title": "Life Expectancy (years)"
       },
       "y": {
-        "field": "Country name",
+        "field": "Country",
         "type": "nominal",
         "title": "Region",
         "axis": {
@@ -38,7 +38,7 @@
         "mark": "line",
         "encoding": {
           "detail": {
-            "field": "Country name",
+            "field": "Country",
             "type": "nominal"
           },
           "color": {"value": "#db646f"}

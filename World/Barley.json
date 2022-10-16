@@ -14,7 +14,7 @@
         "title": "Social Support"
       },
       "y": {
-        "field": "Regional indicator",
+        "field": "Regional",
         "type": "ordinal",
         "sort": "-x",
         "title": "Region"

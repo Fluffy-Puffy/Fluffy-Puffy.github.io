@@ -17,7 +17,7 @@
         "scale": {"zero": false},
         "title": "Happiness Score"
       },
-      "color": {"field": "Regional indicator", "type": "nominal", "title": "Region"}
+      "color": {"field": "Regional", "type": "nominal", "title": "Region"}
     }
     
   }

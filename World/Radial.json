@@ -7,12 +7,11 @@
     },
     "layer": [{
       "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
-    },{
-      "mark": {"type": "text", "radiusOffset": 20},
-      "encoding": {
-        "text": {"field": "Perceptions of Corruption", "aggregate":"mean", "type": "quantitative", "format": ".4"}
-      }
     }],
+      "params": [
+    {"name": "Highlight", "select": {"type": "point", "on": "mouseover"}},
+    {"name": "select", "select": "point"}
+  ],
     "encoding": {
       "theta": {
         "aggregate":"mean",
@@ -20,14 +19,39 @@
         "type": "quantitative",
         "stack": true
         },
-      
+  
       "radius": {
         "aggregate":"mean", 
         "field": "Perceptions of Corruption", 
         "scale": {"type": "sqrt", "zero": false, "rangeMin": 50}
         },
-      
-      "color": {"field": "region", "type": "nominal", "title": "Region"}
+
+        "fillOpacity": {"condition": {"param": "select", "value": 1}, "value": 0.3},
+    "strokeWidth": {
+      "condition": [
+        {"param": "select", "empty": false, "value": 2},
+        {"param": "Highlight", "empty": false, "value": 1}
+      ],
+      "value": 0
+    },
+
+      "color": {"field": "region", "type": "nominal", "title": "Region"},
+
+      "tooltip": [
+      {
+        "field": "region",  
+        "type": "nominal", 
+        "title": "Region"
+        },
+
+      {
+        "field": "Perceptions of Corruption", 
+        "aggregate":"mean", 
+        "type": "quantitative", 
+        "format": ".4",
+        "title": "Perceptions of Corruption"
+      }
+      ]
     }
   }
   

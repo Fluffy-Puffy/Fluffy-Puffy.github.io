@@ -1,0 +1,51 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": "container",
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Final.csv"
+    },
+
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+      "mark": {"type": "text", "radiusOffset": 20},
+      "encoding": {
+        "text": {"field": "Perceptions of Corruption", "aggregate":"mean", "type": "quantitative", "format": ".4"}
+      }
+    }],
+
+    "encoding": {
+      "theta": {
+        "aggregate":"mean",
+        "field": "Perceptions of Corruption", 
+        "type": "quantitative",
+        "stack": true
+        },
+  
+      "radius": {
+        "aggregate":"mean", 
+        "field": "Perceptions of Corruption", 
+        "scale": {"type": "sqrt", "zero": false, "rangeMin": 50}
+        },
+
+      "color": {"field": "region", "type": "nominal", "title": "Region"},
+
+      "tooltip": [
+      {
+        "field": "region",  
+        "type": "nominal", 
+        "title": "Region"
+        },
+
+      {
+        "field": "Perceptions of Corruption", 
+        "aggregate":"mean", 
+        "type": "quantitative", 
+        "format": ".4",
+        "title": "Perceptions of Corruption"
+      }
+      ]
+    }
+  }
+  

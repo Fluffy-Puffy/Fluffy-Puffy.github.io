@@ -1,30 +1,162 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 400,
+  "background": null,
     "data": {
       "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Combine.csv"
     },
+      "params": [
+    {
+      "name": "Region_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null, 
+          "Central and Eastern Europe",
+          "Commonwealth of Independent States",
+          "East Asia",
+          "Latin America and Caribbean",
+          "Middle East and North Africa",
+          "North America and ANZ",
+          "South Asia",
+          "Southeast Asia",
+          "Sub-Saharan Africa",
+          "Western Europe"
+        ],
+        "labels": [
+          "Show All",
+          "Central and Eastern Europe",
+          "Commonwealth of Independent States",
+          "East Asia",
+          "Latin America and Caribbean",
+          "Middle East and North Africa",
+          "North America and ANZ",
+          "South Asia",
+          "Southeast Asia",
+          "Sub-Saharan Africa",
+          "Western Europe"
+        ],
+        "name": "Region: "
+      }
+    }
+  ],
+    "transform": [
+    {
+      "filter": "Region_selection == null || datum.Regional == Region_selection"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Healthy life expectancy", 
+      "type": "quantitative", 
+      "title": "Life Expectancy",
+      "scale": {"zero": false}
+    },
+    "y": {
+      "field": "Ladder score", 
+      "type": "quantitative",
+      "scale": {"zero": false},
+      "title": "Happiness Score"
+    }
+  },
     "layer": [
       {
+              "params": [
+        {"name": "paintbrush", "select": {"type": "point", "on": "mouseover"}}
+      ],
+      "transform": [
+        {"filter": "paintbrush != null"}
+        ],
         "mark": {
           "type": "point",
           "filled": true
         },
         "encoding": {
-          "x": {
-            "field": "Healthy life expectancy",
-            "type": "quantitative",
-            "scale": {"zero": false},
-          "title": "Life Expectancy"
-          },
-          "y": {
-            "field": "Ladder score",
-            "type": "quantitative",
-            "scale": {"zero": false},
-          "title": "Happiness Score"
-          },
-          "color": {"field": "Regional indicator", "type": "nominal", "title": "Region"}
+          "color": {"field": "Regional", 
+            "type": "nominal", 
+            "title": "Region",
+          "scale": {
+            "domain": [
+          "Central and Eastern Europe",
+          "Commonwealth of Independent States",
+          "East Asia",
+          "Latin America and Caribbean",
+          "Middle East and North Africa",
+          "North America and ANZ",
+          "South Asia",
+          "Southeast Asia",
+          "Sub-Saharan Africa",
+          "Western Europe"
+            ],
+            "range": [
+              "#ea5545", 
+              "#f46a9b", 
+              "#ef9b20", 
+              "#edbf33", 
+              "#ede15b", 
+              "#bdcf32", 
+              "#87bc45",
+              "#27aeef",
+              "#1a53ff", 
+              "#b33dc6"]
+          }
+        },
+        "size": {
+          "condition": {
+            "param": "paintbrush", 
+            "empty": false, 
+            "value": 100},
+          "value": 40
+        },
+        "opacity": {"value": 0.8},
+        "tooltip": [
+          {"field": "Regional", 
+          "type": "nominal", 
+          "title":"Region"},
+
+          {"field": "Ladder score", 
+          "type": "quantitative", 
+          "title":"Happiness Score", 
+          "format": ","},
+
+          {"field": "Healthy life expectancy", 
+          "type": "quantitative", 
+          "format": ",", 
+          "title": "Life Expectancy"}
+        ]
         }
       },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "transform": [{"filter": "datum.Year == 2021"}],
+      "encoding": {
+        "text": {"field": "Country", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": 
+            "datum['Country'] == 'Greece' || datum['Country'] == 'Denmark' || datum['Country'] == 'New Zealand' || datum['Country'] == 'Albania' || datum['Country'] == 'United Arab Emirates' || datum['Country'] == 'Singapore' || datum['Country'] == 'Mexico' || datum['Country'] == 'Ukraine' || datum['Country'] == 'Mauritius' || datum['Country'] == 'Japan' || datum['Country'] == 'Mongolia' || datum['Country'] == 'China' || datum['Country'] == 'Sri Lanka' || datum['Country'] == 'South Africa'", 
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+
+          {"field": "Ladder score", "type": "quantitative", "format": ",", "title": "Happiness Score"},
+          
+          {"field": "Healthy life expectancy", "type": "quantitative", "format": ",", "title": "Life Expectancy"}
+        ]
+      }
+    },
       {
         "mark": {
           "type": "line",
@@ -54,7 +186,7 @@
             "on": "Healthy life expectancy",
             "params": true
           },
-          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+          {"calculate": "'R²: '+ format(datum.rSquared, '.2f')", "as": "R2"}
         ],
         "mark": {
           "type": "text",
@@ -67,5 +199,6 @@
           "text": {"type": "nominal", "field": "R2"}
         }
       }
-    ]
+    ],
+      "config": {"view": {"stroke": null}}
   }
