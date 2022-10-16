@@ -1,0 +1,46 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "width": "container",
+    "height": 400,
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Rank.csv"
+    },
+    "transform": [{"filter": "datum['Happiness Rank'] <= 10"}],
+    "mark": {"type": "line", "point": {"size": 150}},
+    "params": [{
+      "name": "Highlight", 
+      "select": {"type": "point", "on": "mouseover"}
+      }
+    ],
+    "encoding": {
+      "x": {"field": "Year", "title": "Year"},
+      "y": {
+        "field": "Happiness Rank",
+        "type": "nominal",
+        "sort": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "title": "Rank"
+      },
+      "order": {"field": "Year"},
+      "color": {
+        "field": "Country",
+        "type": "nominal",
+        "scale": {
+          "range": [
+            "#e60049", "#fd7f6f", "#8be04e", "#0bb4ff", "#edbf33", "#50e991", "#e6d800", "#9b19f5", "#ffa300", "#dc0ab4", "#b3d4ff", "#00bfa0"
+          ]
+        }
+      },
+      "opacity": {
+        "condition": {"param": "Highlight", "value": 0.9},
+        "value": 0.2
+      },
+      "tooltip": [
+        {"field": "Country", "type":"nominal", "title": "Country"},
+        {"field": "Happiness Rank", "type":"nominal", "title": "Rank"},
+        {"field": "Score", "type":"quantitative", "title": "Happiness Score"},
+        {"field": "Year", "type":"quantitative", "title": "Year"}
+      ]
+    }
+  }
