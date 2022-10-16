@@ -9,7 +9,7 @@
     "layer": [{
       "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
     },{
-      "mark": {"type": "text", "radiusOffset": 20},
+      "mark": {"type": "text", "radiusOffset": 20, "fontSize":14},
       "encoding": {
         "text": {"field": "Perceptions of Corruption", "aggregate":"mean", "type": "quantitative", "format": ".4"}
       }
