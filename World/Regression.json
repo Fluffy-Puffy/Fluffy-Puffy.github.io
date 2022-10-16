@@ -3,6 +3,7 @@
   "width": "container",
   "height": 400,
   "background": null,
+  "title":"The Relation Between Happiness Score and Life Expectancy",
     "data": {
       "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Combine.csv"
     },

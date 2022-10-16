@@ -3,7 +3,7 @@
   
     "width": "container",
     "height": 400,
-  
+    "title":"The Top 10 Happiest Country",
     "data": {
       "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Rank.csv"
     },
