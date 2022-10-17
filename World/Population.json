@@ -23,8 +23,8 @@
         "as": "gender"}
     ],
     "spacing": 0,
-    "hconcat": [{
-        "width":500,
+    "hconcat": [ 
+      {"width":500,
         "height":400,
       "title": "Female",
       "mark": "bar",
@@ -58,7 +58,7 @@
       "mark": {
         "type": "text",
         "align": "center",
-        "fontSize":30
+        "fontSize":25
       },
       "encoding": {
         "y": {"field": "region", "type": "nominal", "axis": null, "sort": "ascending"},
@@ -93,7 +93,8 @@
               }
               ]
       }
-    }],
+    }
+    ],
     "config": {
       "view": {"stroke": null},
       "axis": {"grid": false}

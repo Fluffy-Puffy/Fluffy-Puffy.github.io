@@ -13,7 +13,7 @@
     }],
     "mark": "rect",
     "width": "container",
-    "height": 400,
+    "height": 500,
     "encoding": {
       "x": {
         "bin": {"maxbins":15},
