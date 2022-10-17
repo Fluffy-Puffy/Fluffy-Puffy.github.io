@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background":"antiquewhite",
     "title":"The Relation Between Happiness Score and GDP per Capita",
     "data": {"url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Final.csv"},
 

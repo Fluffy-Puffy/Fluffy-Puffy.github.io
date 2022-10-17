@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background":"antiquewhite",
     "title": "The Average Population by Gender",
     "data": { "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Population.csv"},
   
@@ -23,6 +24,8 @@
     ],
     "spacing": 0,
     "hconcat": [{
+        "width":500,
+        "height":400,
       "title": "Female",
       "mark": "bar",
       "encoding": {
@@ -49,11 +52,13 @@
               ]
       }
     }, {
-      "width": 100,
+      "width": 300,
+      "height":400,
       "view": {"stroke": null},
       "mark": {
         "type": "text",
-        "align": "center"
+        "align": "center",
+        "fontSize":30
       },
       "encoding": {
         "y": {"field": "region", "type": "nominal", "axis": null, "sort": "ascending"},
@@ -61,6 +66,8 @@
       }
     }, 
       {
+        "width":500,
+        "height":400,
       "title": "Male",
       "mark": "bar",
       "encoding": {

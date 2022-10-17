@@ -1,7 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": "container",
+    "width":"container",
     "height": 400,
+    "background":"antiquewhite",
     "title":"The Average Perceptions of Corruption by Region",
     "data": {
       "url": "https://raw.githubusercontent.com/Fluffy-Puffy/Fluffy-Puffy.github.io/main/World/Data/Final.csv"

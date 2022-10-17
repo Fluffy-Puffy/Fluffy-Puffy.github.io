@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="style.css" media="all">
 
     <style>
+
         header {
             background-color: black;
             padding: 10px;
@@ -34,9 +35,21 @@
             height: auto;
             width: auto;
         }
-        nav{
-            width: auto;
-            margin: auto;
+
+        footer {
+            background-color: black;
+            padding: 10px;
+            text-align: center;
+            color: darkorchid;
+            background-image: url('https://marketplace.canva.com/EAFLJklKHX0/1/0/1600w/canva-pink-pastel-watercolor-sky-follow-your-dreams-desktop-wallpaper-BiknzFhAJTI.jpg');
+        }
+
+        article {
+            -webkit-flex: 3;
+            -ms-flex: 3;
+            flex: 3;
+            background-color: #f1f1f1;
+            padding: 10px;
         }
 
     </style>
@@ -44,11 +57,9 @@
 </head>
 
 <body>
-
-    <header>
-    <h1 style="text-align:center;"> The World Happiness Index </h1>
-    </header>
-
+        <header>
+            <h1 style="text-align:center;"> The World Happiness Index </h1>
+        </header>
 
 <div class="page">
 
@@ -65,89 +76,153 @@
 
     </p>
 
-    <h2> How Happy is the World? </h2>
     <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="vis1" class="vis-container"></div>
-        </div>
-    </div>
-    <p> 
-        The Map visualisation displays happiness scores from all over the world.
-        <br>
-        The happiness score is represented by the sequential orange colour; the brighter the colour, the lower the happiness score.
-        <br>
-        Finland has the highest level of happiness by 7.8087 in 2021.
-        <br>
-        It has also been discovered that countries in Western Europe have the highest happiness scores in the world.
-
-    </p>
-
-  <h2> How Large is the World Population? </h2>
-  <div class="pure-g">
     <div class="pure-u-1-1">
-        <div id="vis2" class="vis-container"></div>
+        <section>
+            <div id="vis1" class="vis-container"></div>
+
+        <article>
+        <h2> How Happy is the World? </h2>
+            <p> 
+                The Map visualisation displays happiness scores from all over the world.
+                <br>
+                The happiness score is represented by the sequential orange colour; the brighter the colour, the lower the happiness score.
+                <br>
+                Finland has the highest level of happiness by 7.8087 in 2021.
+                <br>
+                It has also been discovered that countries in Western Europe have the highest happiness scores in the world.
+            </p>
+        </article>
+        </section>
     </div>
-  </div>
+    </div>
 
-  <p>
-    A study of happiness and gender in 2013 reports women around the world have higher levels of satisfaction than men but also experience more daily stress. (Graham, 2020).
-  </p>
 
-  <p>
-    The butterfly chart depicts the average of population rate of female and male from across the world from 2015 to 2019.
-    The population rate increases as the length of the bar increases.
-    From 2015 to 2021, there was little difference in the global population between men and women. 
-    The annual changes are almost unnoticeable.
-    In 2021, the highest population rate recorded by the female is 51% in Europe and Central Asia region.
-  The male population in Middle East and North Africa have the highest population of any region in 2021 with a rate of 54%.
-  </p>
-
-    <h2> Does GDP per Capita Influence Happiness? </h2>
     <div class="pure-g">
-        <div class="pure-u-1-1">
+    <div class="pure-u-1-1">
+        <section>
+            <div id="vis2" class="vis-container"></div>
+
+            <article>
+            <h2> How Large is the World Population? </h2>
+            <p>
+                A study of happiness and gender in 2013 reports women around the world have higher levels of satisfaction than men but also experience more daily stress. (Graham, 2020).
+            </p>
+
+            <p>
+                The butterfly chart depicts the average of population rate of female and male from across the world from 2015 to 2019.
+                The population rate increases as the length of the bar increases.
+                From 2015 to 2021, there was little difference in the global population between men and women. 
+                The annual changes are almost unnoticeable.
+                In 2021, the highest population rate recorded by the female is 51% in Europe and Central Asia region.
+            The male population in Middle East and North Africa have the highest population of any region in 2021 with a rate of 54%.
+            </p>
+        </article>
+        </section>
+    </div>
+    </div>
+
+    <div class="pure-g">
+    <div class="pure-u-1-1">
+        <section>
         <div id="vis3" class="vis-container"></div>
+
+        <article>
+        <div style="margin-left:auto"> 
+            <h2> Does GDP per Capita Influence Happiness? </h2>
+            <p>
+                In 2020, Degutis, Urbonavicius, and Gaizutis conducted a study on the relationship between GDP and life satisfaction and discovered a link between a country's life satisfaction and GDP level. 
+                However, more research into other influencing factors is required.
+            </p>
+            <p>
+                The heatmap visualize the relationship between Happiest Score and GDP per Capita.
+                The darker the colour, the more related relationships are recorded.
+                The heatmap demonstrates a positive relationship between GDP per capita and Happiness Score.
+                Based on the chart, we can conclude that there is a relationship between a country's happiness score and its GDP per capita.
+                One of the highest counts recorded is GDP between 10.5 and 11 with a happiness score of 7 to 8.
+            </p>
         </div>
+        </article>
+        </section>
+    </div>
     </div>
 
-    <p>
-        In 2020, Degutis, Urbonavicius, and Gaizutis conducted a study on the relationship between GDP and life satisfaction and discovered a link between a country's life satisfaction and GDP level. 
-        However, more research into other influencing factors is required.
-    </p>
-
-    <p>
-        The heatmap visualize the relationship between Happiest Score and GDP per Capita.
-        The darker the colour, the more related relationships are recorded.
-        The heatmap demonstrates a positive relationship between GDP per capita and Happiness Score.
-        Based on the chart, we can conclude that there is a relationship between a country's happiness score and its GDP per capita.
-        One of the highest counts recorded is GDP between 10.5 and 11 with a happiness score of 7 to 8.
-    </p>
-
-    <h2> Do Happy People Live Longer Lives? </h2>
     <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="vis4" class="vis-container"></div>
-        </div>
-    </div>
-
-    <p>
-        
-    </p>
-
-
-  <h2> How Does Corruption Affect Happiness? </h2>
-  <div class="pure-g">
     <div class="pure-u-1-1">
-        <div id="vis5" class="vis-container"></div>
+         <section>
+          <div id="vis4" class="vis-container"></div>
+
+        <article>
+        <div style="margin-right:auto"> 
+            <h2> Do Happy People Live Longer Lives? </h2>
+            <p>
+                A new study found people who are in a better mood are 35% less likely to die in the next five years.
+            </p>
+            <p>
+                The scatter plot captures the relationship between Life Expectancy and Happiness Score. 
+                The regression is provided to describe the relationship.
+                The relationships are tested to countries all over the world and the regions are described by the colours.
+                Life Expectancy and Happiness Score were discovered to have a positive relationship. 
+                According to the scatter plot, Sub-Saharan Africa has the weakest relationship between happiness and life expectancy. 
+                Western Europe has the strongest relationship between Life Expectancy and Happiness Score.
+            </p>
         </div>
+        </article>
+        </section>
+    </div>
     </div>
 
-    <h2> What is the Happiest Country in the World?  </h2>
     <div class="pure-g">
-        <div class="pure-u-1-1">
-        <div id="vis6" class="vis-container"></div>
-        </div>
+    <div class="pure-u-1-1">
+
+        <section>
+            <div id="vis5" class="vis-container"></div>
+        <article>
+            <h2> How Does Corruption Affect Happiness? </h2>
+            <p>
+                According to Transparency International's global corruption reports and the United Nations World Happiness Report, there is a very strong relationship between a low level of corruption and a greater happiness score.
+            </p>
+            <p>
+                The radial chart depicts regional perceptions of corruption.
+                The size of the chart indicates the level of corruption; the larger it is, the higher the level of corruption in the country is.
+                According to the graph, Central and Eastern Europe has the highest average perception of corruption at 0.8475, followed by Latin America and the Caribbean at 0.7943.
+                North America and Australia and New Zealand have the lowest corruption perception, with an average of 0.4405. 
+            </p>
+        </article>
+        </section>
+    </div>
     </div>
 
+    <div class="pure-g">
+    <div class="pure-u-1-1">
+        <section>
+        <div id="vis6" class="vis-container"></div>
+        
+        <article>
+            <h2> What is the Happiest Country in the World?  </h2>
+            <p>
+                The bump chart visualise the countries with the highest levels of happiness around the world.
+                The colours represent the countries.
+                The data ranges from 2015 to 2021.
+                <br>
+                According to the chart, 12 countries have been in and out of the world's top ten happiest countries.
+                Australia and Canada were once viewed as one of the happiness countries.
+                Austria and Luxembourg joined the ranks of the world's happiest countries in 2019 and 2020. 
+            </p>
+            <p>
+                In 2015, Finland is ranked as number 6 of the world happiest country. 
+                Finland keeps making an improvement in 2016 and 2017. In 2018, Finland reached number as the happiest country in the world. 
+                Since then, Finland has recorded as the world's happiest country from 2018 to 2021. 
+                <br>
+                In terms of the factors that influence happiness, Finland has a logged GDP per capita of 10.775 , a life expectancy of 72 years, and a perception of corruption of 0.186 in 2021.
+                Based on the observations, there is a correlation between GDP, life expectancy, and corruption with level of happiness .
+                <br>
+                Therefore, it is important to recognised the population's level of happiness in order to achieve the benefits of happiness. 
+            </p>
+        </article>
+        </section>
+    </div>
+    </div>
 
 </div>
 
@@ -175,7 +250,7 @@
 </script>
 
     <footer>
-        <h6 style="text-align:center;"> by: Anastasia Christy</h6>
+        <h4 style="text-align:center"> Visualized by Anastasia Christy</h4>
     </footer>
 
 </body>

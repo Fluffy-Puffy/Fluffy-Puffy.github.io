@@ -1,0 +1,22 @@
+        header {
+            background-color: black;
+            padding: 10px;
+            text-align: center;
+            font-size: 30px;
+            color: plum;
+            width: device-width;
+            background-image: url('https://marketplace.canva.com/EAFLJklKHX0/1/0/1600w/canva-pink-pastel-watercolor-sky-follow-your-dreams-desktop-wallpaper-BiknzFhAJTI.jpg');
+        }
+
+        <link href="Navigation.css" rel="stylesheet">
+
+        <nav>
+        <ul>
+        <li><a href = "#vis1"> Map </a></li>
+        <li><a href = "#vis2"> Population </a></li>
+        <li><a href = "#vis3"> GDP per Capita </a></li>
+        <li><a href = "#vis4"> Life Expectancy </a></li>
+        <li><a href = "#vis5"> Perceptions of Corruption </a></li>
+        <li><a href = "#vis6"> World's Rank </a></li>
+        </ul>
+    </nav>
