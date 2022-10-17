@@ -24,7 +24,7 @@
     ],
     "spacing": 0,
     "hconcat": [ 
-      {"width":400,
+      {"width":450,
         "height":400,
       "title": "Female",
       "mark": "bar",
@@ -66,7 +66,7 @@
       }
     }, 
       {
-        "width":400,
+        "width":450,
         "height":400,
       "title": "Male",
       "mark": "bar",
