@@ -58,7 +58,7 @@
       "mark": {
         "type": "text",
         "align": "center",
-        "fontSize":25
+        "fontSize":23
       },
       "encoding": {
         "y": {"field": "region", "type": "nominal", "axis": null, "sort": "ascending"},
