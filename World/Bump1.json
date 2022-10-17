@@ -11,8 +11,12 @@
     "mark": {"type": "line", "point": {"size": 150}},
     "params": [{
       "name": "Highlight", 
-      "select": {"type": "point", "on": "mouseover", "fields": ["Country"]},
-      "bind":"legend"
+      "select": {"type": "point", "on": "mouseover"}
+      },
+      {
+        "name": "Select",
+        "select": {"type": "point", "fields": ["Country"]},
+        "bind": "legend"
       }
     ],
     "encoding": {
@@ -33,9 +37,11 @@
           ]
         }
       },
+      "fillOpacity": {"condition": {"param": "Highlight", "value": 1}, "value": 0.3},
       "opacity": {
-        "condition": 
-            {"param": "Highlight", "value": 0.9},
+        "condition": [
+            {"param": "Select", "value": 0.9, "empty": false},
+            {"param": "Highlight", "value": 0.9, "empty": false}],
         "value": 0.3
       },
       "tooltip": [

@@ -112,9 +112,9 @@
         },
         "opacity": {"value": 0.8},
         "tooltip": [
-          {"field": "Regional", 
+          {"field": "Country", 
           "type": "nominal", 
-          "title":"Region"},
+          "title":"Country"},
 
           {"field": "Ladder score", 
           "type": "quantitative", 
